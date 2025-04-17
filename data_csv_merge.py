@@ -30,9 +30,9 @@ def merge_and_deduplicate_csv_files(directory='./data', deduplication_columns=No
         else:
             print(f"{output_filename} 에 해당하는 파일이 없습니다.")
 
-    process_and_save(backend_files, 'data_merged_backend.csv')
-    process_and_save(frontend_files, 'data_merged_frontend.csv')
-    process_and_save(total_files, 'data_merged_total.csv')
+    process_and_save(backend_files, 'merged_data_backend.csv')
+    process_and_save(frontend_files, 'merged_data_frontend.csv')
+    process_and_save(total_files, 'merged_data_total.csv')
 
 if __name__ == "__main__":
     # 중복 제거를 원하는 컬럼 이름을 리스트 형태로 전달하세요.

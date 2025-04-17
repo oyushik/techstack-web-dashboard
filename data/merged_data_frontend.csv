@@ -1,783 +1,808 @@
-company_name,position,skill
-사이버다임,서버개발팀  웹클라이언트 개발자(경력),"JavaScript, CSS 3, HTML5"
-콘센트릭스서비스코리아,[Catalyst] 커머스플랫폼 구축/운영 BA,"SAP, hybris-commerce, Shopify, Spring Boot, Docker, Oracle, JavaScript, HTML5"
-블록체인글로벌,토큰증권 서비스 프론트엔드 개발(미들급),"JavaScript, Vue.js, React, TypeScript, Git"
-마카롱팩토리,프론트엔드 개발 (5년 이상),"React, TypeScript, JavaScript, HTML5, REST API"
-블록체인글로벌,Front-End 엔지니어 채용(미들급),"JavaScript, Vue.js, React, TypeScript, Git"
-블록체인글로벌,토큰증권서비스 프론트엔드개발(6년~8년),"JavaScript, Vue.js, React, TypeScript, Git"
-가레나코리아,[외국계 게임사] 인큐베이션 개발자(경력),"Unity, Unreal Engine"
-에스투더블유,Frontend Engineer 주니어(Product 3),"TypeScript, SCSS, Angular 2, RxJS, NGINX, Git, Docker, Kubernetes"
-연합인포맥스,IT/AI부문(전문연구요원 포함) 채용,"AI/인공지능, TypeScript, Next.js, Python, Chart.js, NLP"
-퍼퓸그라피,프론트엔드 개발자 (경력 3년~5년),"React, Node.js, HTML5, CSS 3, JavaScript, jQuery, TypeScript, PHP, Shopify, Figma"
-코드스테이츠,Product Engineer,"React, Next.js, TypeScript, REST API, Bitbucket, AWS, GitHub, Slack, Notion, Jira"
-제이앤피메디,시니어 프론트엔드 SW Engineer,"JavaScript, MSA, TypeScript, React, Sass, JSX, GitHub Actions"
-블록체인글로벌,토큰증권서비스 프론트엔드(9년~11년),"JavaScript, Vue.js, React, TypeScript, Git"
-마이노멀컴퍼니,[인아웃] 프론트엔드 개발자 (3년 이상),"React, React Native, TypeScript, Next.js, React Query, Docker"
-벤디트,프론트엔드 개발자,"React, TypeScript, GraphQL, Electron, AWS, MSA, C++, C"
+company,position,skill
+사이버다임,서버개발팀  웹클라이언트 개발자(경력),"JavaScript, CSS, HTML"
+콘센트릭스서비스코리아,[Catalyst] 커머스플랫폼 구축/운영 BA,"SAP, hybriscommerce, Shopify, Spring, Boot, Docker, Oracle, JavaScript, HTML"
+블록체인글로벌,토큰증권 서비스 프론트엔드 개발(미들급),"JavaScript, Vuejs, React, TypeScript, Git"
+마카롱팩토리,프론트엔드 개발 (5년 이상),"React, TypeScript, JavaScript, HTML, REST, API"
+아몬드컴퍼니,스트리밍기반 콘텐츠서비스 프론트엔드,"JavaScript, React, Nextjs, CSS, HTML, TypeScript"
+가레나코리아,[외국계 게임사] 인큐베이션 개발자(경력),"Unity, Unreal, Engine"
+연합인포맥스,IT/AI부문(전문연구요원 포함) 채용,"AI, TypeScript, Nextjs, Python, Chartjs, NLP"
+에스투더블유,Frontend Engineer 주니어(Product 3),"TypeScript, SCSS, Angular, RxJS, NGINX, Git, Docker, Kubernetes"
+퍼퓸그라피,프론트엔드 개발자 (경력 3년~5년),"React, Nodejs, HTML, CSS, JavaScript, jQuery, TypeScript, PHP, Shopify, Figma"
 오픈엣지테크놀로지,[Network-on-Chip]RTL Design Engineer,"Verilog, C, Python"
-블록체인글로벌,Front-End 엔지니어 (6년~8년),"JavaScript, Vue.js, React, TypeScript, Git"
-블록체인글로벌,Front-End 엔지니어(9년 이상),"JavaScript, Vue.js, React, TypeScript, Git"
-알로카도스,React-Native 스태프 엔지니어 채용,"JavaScript, Kotlin, TypeScript, iOS, Swift, Java, React Native, Objective-C"
-에스투더블유,Frontend Engineer 시니어(Product 3),"TypeScript, SCSS, Angular 2, RxJS, NGINX, Git, Docker, Kubernetes"
+벤디트,프론트엔드 개발자,"React, TypeScript, GraphQL, Electron, AWS, MSA, C++, C"
+마이노멀컴퍼니,[인아웃] 프론트엔드 개발자 (3년 이상),"React, Native, TypeScript, Nextjs, Query, Docker"
+알로카도스,React-Native 스태프 엔지니어 채용,"JavaScript, Kotlin, TypeScript, iOS, Swift, Java, React, Native, ObjectiveC"
 패스트레인,프론트엔드 개발자,"React, GitHub, Jira, Confluence, Python"
-팬딩,프론트엔드 리드 개발자 (5~10년차),Vue.js
+제이앤피메디,시니어 프론트엔드 SW Engineer,"JavaScript, MSA, TypeScript, React, Sass, JSX, GitHub, Actions"
+팬딩,프론트엔드 리드 개발자 (5~10년차),Vuejs
 바비톡,Web Frontend Developer,"aws, react, TypeScript, JavaScript"
-퍼퓸그라피,향수 커머스 웹개발자(미들급) 채용,"React, Node.js, HTML5, CSS 3, JavaScript, jQuery, TypeScript, PHP, Shopify, Figma"
-프리즘투자자문,"프론트엔드 (React, React Native)","React, React Native, JavaScript, ES6, TypeScript, Redux, mobX, Recoil, D3.js, Chart.js"
-가레나코리아,[외국계 게임사] 인큐베이션 개발자(신입),"Unity, Unreal Engine"
-알스퀘어,프론트엔드 개발자 (8년 이상),"JavaScript, TypeScript, React, vuex, AngularJS, Next.js, CSS 3"
-아파트아이,프론트엔드 개발자 (대리/과장급),"Next.js, HTML5, JavaScript, React, Git, Jira, Zustand"
-뉴빌리티,Front-end Web Developer,"ES6, React, Next.js, TypeScript"
-불마켓랩스(BullMarketLabsCo.Ltd.),Front-End Engineer,"JavaScript, TypeScript, Vue.js, React, Flutter, Next.js, React.js Boilerplate, GitHub Actions"
+코드스테이츠,Product Engineer,"React, Nextjs, TypeScript, REST, API, Bitbucket, AWS, GitHub, Slack, Notion, Jira"
+프리즘투자자문,"프론트엔드 (React, React Native)","React, Native, JavaScript, ES, TypeScript, Redux, mobX, Recoil, Djs, Chartjs"
+노아시스템즈,솔루션 프론트엔드(Frontend) 개발자,"GUI, REST, API, JavaScript, React, TypeScript, IntelliJ, IDEA, Visual, Studio, Code, ApexCharts"
+알스퀘어,프론트엔드 개발자 (8년 이상),"JavaScript, TypeScript, React, vuex, AngularJS, Nextjs, CSS"
+아파트아이,프론트엔드 개발자 (대리/과장급),"Nextjs, HTML, JavaScript, React, Git, Jira, Zustand"
+뉴빌리티,Front-end Web Developer,"ES, React, Nextjs, TypeScript"
 호전실업,자동화 시스템 상용화 개발자,"C#, C++, SW, OpenCV"
-씨드앤,프론트엔드 리드 개발자(6~8년),"HTML5, CSS 3, JavaScript, TypeScript, React, React Native, Redux"
-아이스크림아트,AI서비스개발자(경력7~9년),"Node.js, MySQL, PostgreSQL, REST API, Prisma, Python, AWS, React, AI/인공지능"
-제논,[인공지능솔루션] Frontend 개발자,"React, CSS 3, HTML5, TypeScript, Docker, NestJS"
-퍼퓸그라피,프론트엔드 개발자 (경력 6년~9년),"React, Node.js, HTML5, CSS 3, JavaScript, jQuery, TypeScript, PHP, Shopify, Figma"
-시어스랩,Flutter 앱개발자 (3~5년),"Flutter, Dart, REST API, WebSocket, OpenGL, OpenCV, Firebase, Supabase"
-벳플럭스,React 프론트엔드 개발자,"Next.js, WebSocket, Redux, React"
-시어스랩,프론트엔드 (3년 이상),"WebSocket, GraphQL, React, Vue.js, Sentry, HTML5, CSS 3, Redux, TypeScript, iOS"
-스펙터,Frontend Engineer,"TypeScript, Next.js, Zustand, React Hook Form, React Query, TailwindCSS, SCSS, Emotion, pnpm"
-노아시스템즈,솔루션 프론트엔드(Frontend) 개발자,"GUI, REST API, JavaScript, React, TypeScript, IntelliJ IDEA, Visual Studio Code, ApexCharts"
-아몬드컴퍼니,스트리밍기반 콘텐츠서비스 프론트엔드,"JavaScript, React, Next.js, CSS 3, HTML5, TypeScript"
-데이터메이커,프론트엔드 개발자 (11년 ~ 15년),"JavaScript, ES6, Rust, three.js, Nuxt.js, TailwindCSS, Vue.js, GitHub"
-데이터메이커,웹 그래픽(F/E) 개발자 (16년 ~ 20년),"JavaScript, Babel, React, REST API, Nuxt.js, Webpack, HTML5, Vue.js, CSS 3, AngularJS"
-콜로세움코퍼레이션,Frontend Engineer(Lead),"React, Next.js, TypeScript, Storybook, Emotion, JavaScript, jQuery, HTML5, Slack, Git"
-데이터메이커,프론트엔드 개발자 (5년 ~ 10년),"JavaScript, ES6, Rust, three.js, Nuxt.js, TailwindCSS, Vue.js, GitHub"
+불마켓랩스(BullMarketLabsCo.Ltd.),Front-End Engineer,"JavaScript, TypeScript, Vuejs, React, Flutter, Nextjs, Reactjs, Boilerplate, GitHub, Actions"
+씨드앤,프론트엔드 리드 개발자(6~8년),"HTML, CSS, JavaScript, TypeScript, React, Native, Redux"
+아이스크림아트,AI서비스개발자(경력7~9년),"Nodejs, MySQL, PostgreSQL, REST, API, Prisma, Python, AWS, React, AI"
+리브스메드,SW Engineer:어플리케이션,"SW, C, C++, Qt, GUI, Embedded, Linux"
+제논,[인공지능솔루션] Frontend 개발자,"React, CSS, HTML, TypeScript, Docker, NestJS"
+시어스랩,Flutter 앱개발자 (3~5년),"Flutter, Dart, REST, API, WebSocket, OpenGL, OpenCV, Firebase, Supabase"
+벳플럭스,React 프론트엔드 개발자,"Nextjs, WebSocket, Redux, React"
+시어스랩,프론트엔드 (3년 이상),"WebSocket, GraphQL, React, Vuejs, Sentry, HTML, CSS, Redux, TypeScript, iOS"
+스펙터,Frontend Engineer,"TypeScript, Nextjs, Zustand, React, Hook, Form, Query, TailwindCSS, SCSS, Emotion, pnpm"
+데이터메이커,프론트엔드 개발자 (11년 ~ 15년),"JavaScript, ES, Rust, threejs, Nuxtjs, TailwindCSS, Vuejs, GitHub"
+데이터메이커,웹 그래픽(F/E) 개발자 (16년 ~ 20년),"JavaScript, Babel, React, REST, API, Nuxtjs, Webpack, HTML, Vuejs, CSS, AngularJS"
+콜로세움코퍼레이션,Frontend Engineer(Lead),"React, Nextjs, TypeScript, Storybook, Emotion, JavaScript, jQuery, HTML, Slack, Git"
 에이트테크,Front-end 개발 엔지니어 채용,"JavaScript, React, Git"
-프롬프트팩토리,[대구 근무] 프론트엔드 개발자,"React, Next.js"
-낭만상회,프론트 개발자 경력 채용,"React, React Native, TypeScript, Git, Node.js, Infra, Create React Native App"
-브레인즈컴퍼니,프론트엔드 개발자 (경력 5~10년),"Java, JavaScript, Spring Framework, React, SQL"
-올거나이즈코리아,Jr.React Front-end Engineer,"React, GraphQL, JavaScript, HTML5, CSS 3"
-팬딩,프론트엔드 주니어 개발자 (2~4년차),Vue.js
-퍼퓸그라피,향수 커머스 웹개발자(시니어급) 채용,"React, Node.js, HTML5, CSS 3, JavaScript, jQuery, TypeScript, PHP, Shopify, Figma"
-서울거래,Flutter 프론트엔드 개발자 채용,"Flutter, REST API, Git, MVVM, Dart, iOS, Android OS, Create React Native App"
-버추얼랩,프론트엔드 개발자,"Vue.js, Bootstrap, Nuxt.js, Vuetify"
-페이워크,React/React Native 프론트엔드 개발자,"HTML5, CSS 3, JavaScript, React, React Native, redux-saga, TypeScript, Node.js, MySQL"
-데이터메이커,웹 그래픽(F/E) 개발자 (5년 ~ 10년),"JavaScript, Babel, React, REST API, Nuxt.js, Webpack, HTML5, Vue.js, CSS 3, AngularJS"
-모멘티,에이전시 프론트엔드 개발자 채용 [강남구/팀장],"HTML5, CSS 3, JavaScript, Bootstrap, React, React Native, iOS, Android OS, Flutter, Vue.js"
-모멘티,에이전시 프론트엔드 개발자 채용 [강남구],"HTML5, CSS 3, JavaScript, Bootstrap, React, React Native, iOS, Android OS, Flutter, Vue.js"
+프롬프트팩토리,[대구 근무] 프론트엔드 개발자,"React, Nextjs"
+낭만상회,프론트 개발자 경력 채용,"React, Native, TypeScript, Git, Nodejs, Infra, Create, App"
+브레인즈컴퍼니,프론트엔드 개발자 (경력 5~10년),"Java, JavaScript, Spring, Framework, React, SQL"
+올거나이즈코리아,Jr.React Front-end Engineer,"React, GraphQL, JavaScript, HTML, CSS"
+서울거래,Flutter 프론트엔드 개발자 채용,"Flutter, REST, API, Git, MVVM, Dart, iOS, Android, OS, Create, React, Native, App"
+버추얼랩,프론트엔드 개발자,"Vuejs, Bootstrap, Nuxtjs, Vuetify"
+페이워크,React/React Native 프론트엔드 개발자,"HTML, CSS, JavaScript, React, Native, reduxsaga, TypeScript, Nodejs, MySQL"
+모멘티,에이전시 프론트엔드 개발자 채용 [강남구/팀장],"HTML, CSS, JavaScript, Bootstrap, React, Native, iOS, Android, OS, Flutter, Vuejs"
 와탭랩스,프론트엔드 개발자,React
-펫박스,이커머스 풀스템 팀장 앱웹,"React Native, Next.js, TypeScript, Kotlin, Java, Amazon CloudFront, PostgreSQL, Firebase"
-학교종이,프론트엔드 개발자 (신입/경력),"Angular 2, Ionic, TypeScript, RxJS, TailwindCSS, Firebase"
-커넥트웨이브,[스윗트래커]프론트엔드개발(5년 이상),"JavaScript, jQuery, Vue.js, React, Django REST framework, Spring Boot, MSSQL, DB"
-뷰런테크놀로지,Frontend Developer(프론트엔드 개발자),"JavaScript, TypeScript, Vue.js"
-세나클,"Windows Client(C#, WPF) 개발","C#, .NET, Git, WPF"
+펫박스,이커머스 풀스템 팀장 앱웹,"React, Native, Nextjs, TypeScript, Kotlin, Java, Amazon, CloudFront, PostgreSQL, Firebase"
+학교종이,프론트엔드 개발자 (신입/경력),"Angular, Ionic, TypeScript, RxJS, TailwindCSS, Firebase"
+커넥트웨이브,[스윗트래커]프론트엔드개발(5년 이상),"JavaScript, jQuery, Vuejs, React, Django, REST, framework, Spring, Boot, MSSQL, DB"
+세나클,"Windows Client(C#, WPF) 개발","C#, NET, Git, WPF"
 슈프리마,얼굴인식 서버 풀스택 소프트웨어 개발자,"C++, Go"
 라쿠카라차,"플러터 프론트엔드개발자(주35시간, 4.5일)",Flutter
 라쿠카라차,리액트 프론트엔드 (주 35시간/4.5일),React
 미리비트,"SmartFX 기반 C#, Java 개발자","C#, Java, Oracle, SQL"
-아이헤이트플라잉버그스,React 프론트엔드 개발자 (5년 이상),"TypeScript, GraphQL, React, Apollo, Next.js, Storybook"
-위에이알,[SimpleSeed] 프론트엔드 개발자 채용,"TypeScript, React, Next.js, Flutter, REST API, Git, React Native"
-플래티어,[ECS사업부문] 어플리케이션 아키텍트,"AWS, AZURE, Azure DevOps, Python, JavaScript, Spring, GitLab, QueryDSL"
+아이헤이트플라잉버그스,React 프론트엔드 개발자 (5년 이상),"TypeScript, GraphQL, React, Apollo, Nextjs, Storybook"
+뷰런테크놀로지,Frontend Developer(프론트엔드 개발자),"JavaScript, TypeScript, Vuejs"
+위에이알,[SimpleSeed] 프론트엔드 개발자 채용,"TypeScript, React, Nextjs, Flutter, REST, API, Git, Native"
+플래티어,[ECS사업부문] 어플리케이션 아키텍트,"AWS, AZURE, Azure, DevOps, Python, JavaScript, Spring, GitLab, QueryDSL"
 플래티어,[그루비 SaaS 솔루션] AI 엔지니어,"Python, R, TensorFlow, PyTorch, NLP, AWS, GCP"
-유비퍼스트대원,Frontend developer,"Java, Kotlin, Spring Boot, CSS 3, Vue.js, React, OpenAPI"
+유비퍼스트대원,Frontend developer,"Java, Kotlin, Spring, Boot, CSS, Vuejs, React, OpenAPI"
 리비바이오,프론트엔드 개발자,"NestJS, React, Zustand, Recoil"
-버블콘,프론트엔드 개발자,"CSS 3, JavaScript, React, Vue.js, TypeScript"
-한솔피엔에스,프론트엔드 개발자 경력 채용,"Vue.js, React, Nuxt.js, Next.js, CSS 3, JavaScript, Git"
-리비바이오,[병역특례]프론트엔드 산업기능요원,"JavaScript, React, Node.js, jQuery"
-아이쿠카,프론트엔드 개발자 (경력 1년 이상),"JavaScript, React, React Native, Java, HTML5, CSS 3"
-딥노이드,[의료R&D본부] 프론트엔드 개발 PL,"React, REST API, TypeScript, JavaScript, DICOM"
-스마트푸드네트웍스,Frontend 개발자,"Next.js, React Query, Jotai, TailwindCSS, TypeScript, pnpm, Webpack"
-이노웍스,웹프로그램(Node.js) 개발 및 유지보수,"Node.js, HTML5, CSS 3, JavaScript, jQuery, AWS, SQL, Git, REST API"
-랜딩,React 프론트엔드 개발자,"React, TypeScript, Next.js, AWS, Zustand, React Query, Storybook, Supabase"
-서울거래,JavaScript 프론드엔드 개발자 채용,"Java, HTML5, CSS 3, jQuery, Django, Python, AWS, REST API, JavaScript"
-크레스콤,프론트엔드 개발자 채용,"CSS 3, JavaScript, React, Vue.js, Angular 2, HTML5, Linux, Docker, Python"
-쓰리아이,Frontend Developer (프론트엔드 개발자),"TypeScript, Vue.js, WebRTC, React, WebGL, three.js, Confluence, Jira, Git"
+버블콘,프론트엔드 개발자,"CSS, JavaScript, React, Vuejs, TypeScript"
+한솔피엔에스,프론트엔드 개발자 경력 채용,"Vuejs, React, Nuxtjs, Nextjs, CSS, JavaScript, Git"
+리비바이오,[병역특례]프론트엔드 산업기능요원,"JavaScript, React, Nodejs, jQuery"
+아이쿠카,프론트엔드 개발자 (경력 1년 이상),"JavaScript, React, Native, Java, HTML, CSS"
+딥노이드,[의료R&D본부] 프론트엔드 개발 PL,"React, REST, API, TypeScript, JavaScript, DICOM"
+스마트푸드네트웍스,Frontend 개발자,"Nextjs, React, Query, Jotai, TailwindCSS, TypeScript, pnpm, Webpack"
+이노웍스,웹프로그램(Node.js) 개발 및 유지보수,"Nodejs, HTML, CSS, JavaScript, jQuery, AWS, SQL, Git, REST, API"
+랜딩,React 프론트엔드 개발자,"React, TypeScript, Nextjs, AWS, Zustand, Query, Storybook, Supabase"
+서울거래,JavaScript 프론드엔드 개발자 채용,"Java, HTML, CSS, jQuery, Django, Python, AWS, REST, API, JavaScript"
+크레스콤,프론트엔드 개발자 채용,"CSS, JavaScript, React, Vuejs, Angular, HTML, Linux, Docker, Python"
+쓰리아이,Frontend Developer (프론트엔드 개발자),"TypeScript, Vuejs, WebRTC, React, WebGL, threejs, Confluence, Jira, Git"
 보스반도체,SOC TOP Design Enginer,"ARM, Verilog, Python, C++, OpenCV, FPGA, TypeScript, Linux, React, Redux"
-에피소든,프론트엔드 개발자,"React, Next.js, TypeScript, WebRTC, React Native"
-딜리버리랩,프론트엔드 개발자 채용,"Vue.js, Java, JavaScript, HTML5, jQuery, JSP, PHP, MySQL, AWS"
+에피소든,프론트엔드 개발자,"React, Nextjs, TypeScript, WebRTC, Native"
 휴런,Front-end 개발자 채용,"JavaScript, TypeScript, React"
-잇올,프론트엔드 개발자 주니어 채용 [본사],"Yarn, React, Next.js, TypeScript, React Query, Zustand, REST API, JSON, GCP, AWS"
-아이브,Frontend Engineer,"React, Next.js, TypeScript, JavaScript, CSS 3, HTML5, REST API, Git"
+잇올,프론트엔드 개발자 주니어 채용 [본사],"Yarn, React, Nextjs, TypeScript, Query, Zustand, REST, API, JSON, GCP, AWS"
+아이브,Frontend Engineer,"React, Nextjs, TypeScript, JavaScript, CSS, HTML, REST, API, Git"
 코그넷나인,프론트엔드개발자,"React, JavaScript"
 롯데이노베이트,SaaS설계(HR) 계약직 채용,"DB, SQL"
-베스텔라랩,App(React Native) 개발자(전문연구요원가능),"Python, Spring Framework, AWS, React, Git, GitHub, Linux, PHP, Swift, Kotlin"
-잇올,프론트엔드 개발자 시니어 채용 [본사],"Yarn, React, Next.js, TypeScript, React Query, Zustand, REST API, JSON, AWS, AZURE"
-부지런컴퍼니,"모바일 앱개발자(Flutter,ReactNative)","React Native, Flutter, Java, Kotlin, JavaScript, Swift"
-슈프리마,경영정보시스템 개발/운영 담당자,"React, Vue.js"
-아이디벨롭,프론트엔드 개발자 경력직 채용,"HTML5, CSS 3, JavaScript, React Native"
-세라크래프트,React.js 웹 개발자 모집(경력 3~6년),"React.js Boilerplate, NGINX, Django, WebGL, Redux, Python, PostgreSQL, GUI, three.js, Google Cloud Storage"
-카플,풀스택 웹 개발자/이커머스 자동화 대시보드 개발,"React, Node.js, AWS, Amazon EC2, Python"
-아이엠아이,웹(Front-End) 개발자 채용 (근무지/전주),"PHP, MySQL, Git, Jira, Redis, HTML5, CSS 3, JavaScript, TypeScript, React Native"
-채비,S/W팀(UI업무 경력자 채용),"Linux, C#, WPF, Java, Android OS, SW"
-엔엑스,프론트엔드 개발자(서울),"HTML5, CSS 3, JavaScript, React, Next.js, ES6, TypeScript"
-아주큐엠에스,Java 개발자 책임급,"Java, JavaScript, jQuery, Oracle, MSSQL, Spring Framework"
-유니온커뮤니티,소프트웨어개발 및 유지보수 경력 모집,"Java, REST API, DB, Spring, React"
-세라크래프트,React.js 웹 개발자 모집(경력 7~10년),"React.js Boilerplate, NGINX, Django, WebGL, Redux, Python, PostgreSQL, GUI, three.js, Google Cloud Storage"
-에프엘이에스,프론트엔드 개발자 경력직 채용,"Node.js, Java, AWS, React.js Boilerplate"
-엔엑스,프론트엔드 개발자(울산),"HTML5, CSS 3, JavaScript, React, Next.js, ES6, TypeScript"
-인투씨엔에스,[경력] 프론트엔드 개발자 채용,"JavaScript, HTML5, CSS 3, Vue.js, React Native"
-엔엑스,"EMS, BEMS, FEMS 개발자","REST API, Mfc, C++, Linux, JavaScript, MySQL, Spring Framework, AWS, React, jQuery"
-에너지엑스,풀스택 기술 리더 개발 팀장 채용,"Java, Spring Boot, Gradle, Hibernate, TypeScript, React, Next.js, HTML5, CSS 3, React Query"
-비즈톡,카카오톡 상담톡/챗봇 서비스 개발자,"C++, C"
+베스텔라랩,App(React Native) 개발자(전문연구요원가능),"Python, Spring, Framework, AWS, React, Git, GitHub, Linux, PHP, Swift, Kotlin"
+잇올,프론트엔드 개발자 시니어 채용 [본사],"Yarn, React, Nextjs, TypeScript, Query, Zustand, REST, API, JSON, AWS, AZURE"
+부지런컴퍼니,"모바일 앱개발자(Flutter,ReactNative)","React, Native, Flutter, Java, Kotlin, JavaScript, Swift"
+슈프리마,경영정보시스템 개발/운영 담당자,"React, Vuejs"
+세라크래프트,React.js 웹 개발자 모집(경력 3~6년),"Reactjs, Boilerplate, NGINX, Django, WebGL, Redux, Python, PostgreSQL, GUI, threejs, Google, Cloud, Storage"
+카플,풀스택 웹 개발자/이커머스 자동화 대시보드 개발,"React, Nodejs, AWS, Amazon, EC, Python"
+아이디벨롭,프론트엔드 개발자 경력직 채용,"HTML, CSS, JavaScript, React, Native"
+아이엠아이,웹(Front-End) 개발자 채용 (근무지/전주),"PHP, MySQL, Git, Jira, Redis, HTML, CSS, JavaScript, TypeScript, React, Native"
+채비,S/W팀(UI업무 경력자 채용),"Linux, C#, WPF, Java, Android, OS, SW"
+엔엑스,프론트엔드 개발자(서울),"HTML, CSS, JavaScript, React, Nextjs, ES, TypeScript"
+유니온커뮤니티,소프트웨어개발 및 유지보수 경력 모집,"Java, REST, API, DB, Spring, React"
+아주큐엠에스,Java 개발자 책임급,"Java, JavaScript, jQuery, Oracle, MSSQL, Spring, Framework"
+에프엘이에스,프론트엔드 개발자 경력직 채용,"Nodejs, Java, AWS, Reactjs, Boilerplate"
+인투씨엔에스,[경력] 프론트엔드 개발자 채용,"JavaScript, HTML, CSS, Vuejs, React, Native"
+엔엑스,"EMS, BEMS, FEMS 개발자","REST, API, Mfc, C++, Linux, JavaScript, MySQL, Spring, Framework, AWS, React, jQuery"
+에너지엑스,풀스택 기술 리더 개발 팀장 채용,"Java, Spring, Boot, Gradle, Hibernate, TypeScript, React, Nextjs, HTML, CSS, Query"
+벙커키즈,Tech - Frontend Engineer,"JavaScript, TypeScript, Emotion, Nextjs, Recoil, Storybook, React, Query, Zustand"
+핌아시아,이커머스 프론트엔드 경력 (과장 이상),"Nextjs, AWS, Flutter, JavaScript, TypeScript, Spring, Framework, React"
 엘리펀트키즈에듀테인먼트,전산팀 앱개발 신입 채용,"Java, Linux, Oracle"
-엘리펀트키즈에듀테인먼트,웹개발자 신입채용,"JavaScript, Node.js, React, Vue.js, ASP.NET"
+비즈톡,카카오톡 상담톡/챗봇 서비스 개발자,"C++, C"
+엘리펀트키즈에듀테인먼트,웹개발자 신입채용,"JavaScript, Nodejs, React, Vuejs, ASPNET"
 엘리펀트키즈에듀테인먼트,프론트엔드 개발자 신입채용,"JavaScript, TypeScript"
-엔에이치엔링크,티켓링크 프론트엔드 개발 (5년이상),"JavaScript, TypeScript, HTML5, CSS 3, React, jQuery, Jotai, pnpm, Vite, Webpack"
-에이치에너지,모햇 서비스 프론트엔드 개발,"JavaScript, CSS 3, HTML5, MySQL, Vue.js, Linux, Python"
-북아이피스,프론트엔드 개발자,"AWS, JavaScript, TypeScript, React, Next.js, React Query, Zustand, pnpm, Google Workspace, Notion"
-지니언스,Server팀 Frontend 개발 및 유지보수,"HTML5, CSS 3, JavaScript, React, Next.js, AngularJS, Spark Framework, Git, Webpack"
-라라잡,웹 프론트엔드 개발자(React 4년 이상),"React Native, JavaScript, TypeScript, Next.js, React Query, Zustand, AWS, Yarn, pnpm, React"
-핀즐,프론트엔드 개발자 경력채용(3년~5년),"Next.js, React, TailwindCSS, styled-components, React Query, TypeScript, React Router, Slack, Jira, Notion"
-엘리펀트키즈에듀테인먼트,전산팀 앱개발 경력 채용(4~7년),"Java, Spring Boot, Linux, Oracle, Git"
-넥써쓰,프론트엔드 개발자[9~11년],"Blockchain, React Native, Next.js, React"
-넥써쓰,프론트엔드 개발자[6~8년],"Blockchain, React Native, Next.js, React"
-핀즐,프론트엔드 개발자 경력채용(6년~9년),"Next.js, React, TailwindCSS, styled-components, React Query, TypeScript, React Router, Slack, Jira, Notion"
-엘리펀트키즈에듀테인먼트,전산팀 앱개발 경력 채용(8년 이상),"Java, Spring Boot, Linux, Oracle, Git"
-엠투클라우드,프론트엔드 개발 경력 정규직 채용,"JavaScript, HTML5, CSS 3, AngularJS, AWS, Git, TypeScript"
-핀즐,프론트엔드 개발자 경력채용(10년~),"Next.js, React, TailwindCSS, styled-components, React Query, TypeScript, React Router, Slack, Jira, Notion"
-위펀,Frontend Engineer(React)(경력 8~12년),"JavaScript, Git, TypeScript, React, Semantic UI, Semantic UI React, Java, HTML5, Vue.js, CSS 3"
-위펀,Frontend Engineer(React)(경력 5~7년),"JavaScript, Git, TypeScript, React, Semantic UI, Semantic UI React, Java, HTML5, Vue.js, CSS 3"
-엘리펀트키즈에듀테인먼트,프론트엔드 개발자 경력채용(2~4년),"JavaScript, Next.js, TypeScript, Git"
-아이트럭,시니어 프론트엔드 개발자,"JavaScript, Kotlin, Node.js, REST API, Java, Python, SQL, Vue.js"
-엘리펀트키즈에듀테인먼트,프론트엔드 개발자 경력채용(8~11년),"JavaScript, Next.js, TypeScript, Git"
-핌아시아,이커머스 프론트엔드 경력 (과장 이상),"Next.js, AWS, Flutter, JavaScript, TypeScript, Spring Framework, React"
-엘리펀트키즈에듀테인먼트,웹개발자 경력(4~7년),"JavaScript, Node.js, React, Vue.js, ASP.NET"
-엘리펀트키즈에듀테인먼트,전산팀 앱개발 경력 채용(1~3년),"Java, Spring Boot, Linux, Oracle, Git"
-엘리펀트키즈에듀테인먼트,웹개발자 경력(1~3년),"JavaScript, Node.js, React, Vue.js, ASP.NET"
-핌아시아,이커머스 프론트엔드 리드 [떠리몰],"Next.js, AWS, Flutter, JavaScript, TypeScript, Spring Framework, React"
-넥써쓰,프론트엔드 개발자[3~5년],"Blockchain, React Native, Next.js, React"
-부스터스,Software Engineer (Front-End),"Vue.js, jQuery, TailwindCSS, Bootstrap, SW, Dashboards by Keen IO"
-리브스메드,SW Engineer:어플리케이션,"SW, C, C++, Qt, GUI, Embedded Linux, Linux"
-라닉스,웹개발자 (Front End),"HTML5, CSS 3, JavaScript, Python, Node.js, AWS, ExpressJS, Spring, iOS, Android OS"
-다우기술,Web/WTS 채널 개발,"Java, Spring Framework, jQuery, Vue.js"
-다우기술,공통 SW 아키텍처 개발,"C, Java, Spring Framework, JavaScript, Oracle, jQuery, MySQL, Linux"
-다우기술,콜센터 고객상담시스템 개발,"Spring Framework, Vue.js, Java, Spring Boot, jQuery"
-비글즈,웹 프론트엔드 개발자 채용(4년 이상),"Next.js, React, JavaScript, TypeScript"
-라이터스컴퍼니(쿠키),[Kooky] Flutter앱 개발(6~8),"Flutter, Swift, Kotlin, C, C++, Objective-C, Java, WebSocket"
-다우기술,HTS 채널 개발,"JavaScript, Mfc"
-이노룰스,[신제품개발] 금융 관련 솔루션 개발자,"Java, Spring Boot, JavaScript, Node.js, TypeScript, React, MySQL, PostgreSQL"
-다우기술,투자정보서버 개발,"Linux, C, Redis, Oracle, MySQL"
-커넥트웨이브,[스윗트래커]프론트엔드개발(5년 이상),"JavaScript, jQuery, Vue.js, React, Django REST framework, Spring Boot, MSSQL, DB"
-라이터스컴퍼니(쿠키),[Kooky]React 프론트엔드(7~10),"Next.js, React Query, TailwindCSS, Git, JavaScript, TypeScript"
-딥노이드,[보안AI사업본부] 프론트엔드 개발자,"React, TypeScript"
-다우기술,법인매매 시스템 개발,"C, C++"
-아스타,Gen AI 서비스 프론트엔드 개발자 채용,"AWS, Git, JavaScript, React, React.js Boilerplate, TailwindCSS, TypeScript, Vite, Next.js, React Query"
-씨메스,front End 개발자(threejs),"TypeScript, three.js, Next.js, React, FastAPI, Python, JavaScript"
-라이터스컴퍼니(쿠키),[Kooky]Flutter 앱 개발(2~5),"Flutter, Swift, Kotlin, C, C++, Objective-C, Java, WebSocket"
-라이터스컴퍼니(쿠키),[Kooky] React 프론트엔드(3~6),"Next.js, React Query, TailwindCSS, Git, JavaScript, TypeScript"
-팜피,웹 개발자(WEB Developer Front/Back),"WebGL, Node.js, TypeScript, Vue.js"
-케이웨더,프론트엔드 웹개발자 채용(경력8~10년),"Java, Linux, React, Next.js, TypeScript, JavaScript, REST API"
-엔카닷컴,시니어 프론트엔드 개발자 (5년이상),"Redux, TypeScript, Next.js, Node.js, Git Flow, AWS, Bamboo, Jenkins, macOS, Jira"
-케이웨더,프론트엔드 웹개발자 채용(경력5~7년),"Java, Linux, React, Next.js, TypeScript, JavaScript, REST API"
-엘리펀트키즈에듀테인먼트,프론트엔드 개발 경력(5~7년),"JavaScript, Next.js, TypeScript, Git"
+엔에이치엔링크,티켓링크 프론트엔드 개발 (5년이상),"JavaScript, TypeScript, HTML, CSS, React, jQuery, Jotai, pnpm, Vite, Webpack"
+에이치에너지,모햇 서비스 프론트엔드 개발,"JavaScript, CSS, HTML, MySQL, Vuejs, Linux, Python"
+북아이피스,프론트엔드 개발자,"AWS, JavaScript, TypeScript, React, Nextjs, Query, Zustand, pnpm, Google, Workspace, Notion"
+핀즐,프론트엔드 개발자 경력채용(6년~9년),"Nextjs, React, TailwindCSS, styledcomponents, Query, TypeScript, Router, Slack, Jira, Notion"
+엘리펀트키즈에듀테인먼트,전산팀 앱개발 경력 채용(8년 이상),"Java, Spring, Boot, Linux, Oracle, Git"
+엠투클라우드,프론트엔드 개발 경력 정규직 채용,"JavaScript, HTML, CSS, AngularJS, AWS, Git, TypeScript"
+위펀,Frontend Engineer(React)(경력 8~12년),"JavaScript, Git, TypeScript, React, Semantic, UI, Java, HTML, Vuejs, CSS"
+엘리펀트키즈에듀테인먼트,프론트엔드 개발자 경력채용(2~4년),"JavaScript, Nextjs, TypeScript, Git"
+아이트럭,시니어 프론트엔드 개발자,"JavaScript, Kotlin, Nodejs, REST, API, Java, Python, SQL, Vuejs"
+넥써쓰,프론트엔드 개발자[9~11년],"Blockchain, React, Native, Nextjs"
+라라잡,웹 프론트엔드 개발자(React 4년 이상),"React, Native, JavaScript, TypeScript, Nextjs, Query, Zustand, AWS, Yarn, pnpm"
+부스터스,Software Engineer (Front-End),"Vuejs, jQuery, TailwindCSS, Bootstrap, SW, Dashboards, by, Keen, IO"
+지니언스,Server팀 Frontend 개발 및 유지보수,"HTML, CSS, JavaScript, React, Nextjs, AngularJS, Spark, Framework, Git, Webpack"
 엑셈,C 개발자(3년 이상),"C++, C, Linux, Network"
-하이,웹 개발자,"TypeScript, GCP, Firebase, Jira, Vue.js, Google Cloud Platform, Markdown, Swagger UI"
-엔쓰리엔,Frontend 개발자 (4~6년),"React, React Native, JavaScript"
-아이디벨,프론트엔드 개발자 [경력 3~7년],"JavaScript, HTML5, CSS 3"
+라닉스,웹개발자 (Front End),"HTML, CSS, JavaScript, Python, Nodejs, AWS, ExpressJS, Spring, iOS, Android, OS"
+다우기술,Web/WTS 채널 개발,"Java, Spring, Framework, jQuery, Vuejs"
+다우기술,공통 SW 아키텍처 개발,"C, Java, Spring, Framework, JavaScript, Oracle, jQuery, MySQL, Linux"
+다우기술,콜센터 고객상담시스템 개발,"Spring, Framework, Vuejs, Java, Boot, jQuery"
+다우기술,HTS 채널 개발,"JavaScript, Mfc"
+라이터스컴퍼니(쿠키),[Kooky]React 프론트엔드(7~10),"Nextjs, React, Query, TailwindCSS, Git, JavaScript, TypeScript"
+딥노이드,[보안AI사업본부] 프론트엔드 개발자,"React, TypeScript"
+아스타,Gen AI 서비스 프론트엔드 개발자 채용,"AWS, Git, JavaScript, React, Reactjs, Boilerplate, TailwindCSS, TypeScript, Vite, Nextjs, Query"
+다우기술,투자정보서버 개발,"Linux, C, Redis, Oracle, MySQL"
+씨메스,front End 개발자(threejs),"TypeScript, threejs, Nextjs, React, FastAPI, Python, JavaScript"
+라이터스컴퍼니(쿠키),[Kooky]Flutter 앱 개발(2~5),"Flutter, Swift, Kotlin, C, C++, ObjectiveC, Java, WebSocket"
+다우기술,법인매매 시스템 개발,"C, C++"
+이노룰스,[신제품개발] 금융 관련 솔루션 개발자,"Java, Spring, Boot, JavaScript, Nodejs, TypeScript, React, MySQL, PostgreSQL"
+비글즈,웹 프론트엔드 개발자 채용(4년 이상),"Nextjs, React, JavaScript, TypeScript"
+팜피,웹 개발자(WEB Developer Front/Back),"WebGL, Nodejs, TypeScript, Vuejs"
+케이웨더,프론트엔드 웹개발자 채용(경력8~10년),"Java, Linux, React, Nextjs, TypeScript, JavaScript, REST, API"
+엔카닷컴,시니어 프론트엔드 개발자 (5년이상),"Redux, TypeScript, Nextjs, Nodejs, Git, Flow, AWS, Bamboo, Jenkins, macOS, Jira"
+하이,웹 개발자,"TypeScript, GCP, Firebase, Jira, Vuejs, Google, Cloud, Platform, Markdown, Swagger, UI"
+엔쓰리엔,Frontend 개발자 (4~6년),"React, Native, JavaScript"
+딜리버리랩,프론트엔드 개발자 채용,"Vuejs, Java, JavaScript, HTML, jQuery, JSP, PHP, MySQL, AWS"
 인피닉,FrontEnd팀 개발자 채용,"Java, JavaScript, Docker, SW, React"
-아이디에스앤트러스트,포탈 웹사이트 Front-End 개발자 경력,"Java, Spring Framework, React, Next.js, TypeScript, HTML5, CSS 3, JavaScript, React.js Boilerplate, Vue.js"
-아웃스프링,프론트엔드 개발자 채용,"HTML5, CSS 3, PostCSS, JavaScript, React, React Native, Flutter, Vue.js, Next.js, Nuxt.js"
-데이터메이커,웹 그래픽(F/E) 개발자 (11년 ~ 15년),"JavaScript, Babel, React, REST API, Nuxt.js, Webpack, HTML5, Vue.js, CSS 3, AngularJS"
-데이터메이커,프론트엔드 개발자 (16년 ~ 20년),"JavaScript, ES6, Rust, three.js, Nuxt.js, TailwindCSS, Vue.js, GitHub"
-에브리심,시뮬레이션 소프트웨어 개발자,"React, TypeScript, Node.js, Git, AWS, GCP, Docker, Kubernetes, three.js, C++"
-한맥아이피에스,프론트엔드 개발자 (경력 15년 이상),"HTML5, CSS 3, JavaScript, TypeScript, React, Vue.js, Angular 2, jQuery, Ajax"
-아이디벨,프론트엔드 개발자 [경력 8년 이상],"JavaScript, HTML5, CSS 3"
-인서트,프론트엔드개발자 채용,"React, Git, JavaScript, HTML5, CSS 3"
-오투플러스,프론트엔드 개발자,"Git, REST API, React, vuex, Vue.js, AngularJS"
-박영사,UI/UX 디자이너 경력 3년이상,"Figma, HTML5, CSS 3, Java, JavaScript, Adobe Photoshop, Adobe Illustrator"
+아이디벨,프론트엔드 개발자 [경력 3~7년],"JavaScript, HTML, CSS"
+아이디에스앤트러스트,포탈 웹사이트 Front-End 개발자 경력,"Java, Spring, Framework, React, Nextjs, TypeScript, HTML, CSS, JavaScript, Reactjs, Boilerplate, Vuejs"
+아웃스프링,프론트엔드 개발자 채용,"HTML, CSS, PostCSS, JavaScript, React, Native, Flutter, Vuejs, Nextjs, Nuxtjs"
+에브리심,시뮬레이션 소프트웨어 개발자,"React, TypeScript, Nodejs, Git, AWS, GCP, Docker, Kubernetes, threejs, C++"
+한맥아이피에스,프론트엔드 개발자 (경력 15년 이상),"HTML, CSS, JavaScript, TypeScript, React, Vuejs, Angular, jQuery, Ajax"
+링크12,CTO: Full-stack 모집,"JavaScript, TypeScript, Nextjs, NestJS, PostgreSQL"
+인서트,프론트엔드개발자 채용,"React, Git, JavaScript, HTML, CSS"
+오투플러스,프론트엔드 개발자,"Git, REST, API, React, vuex, Vuejs, AngularJS"
+박영사,UI/UX 디자이너 경력 3년이상,"Figma, HTML, CSS, Java, JavaScript, Adobe, Photoshop, Illustrator"
 아이피샵,프론트엔드 개발자,"JavaScript, PHP"
-아이디자인랩,[펀픽] 플러터(Flutter) 개발자 채용,"Flutter, MariaDB, MySQL, Python, Android OS, Swift, Kotlin"
-클래스101,프론트엔드 엔지니어(경력 9~11년),"React, TypeScript, GraphQL, Apollo, React Native"
-클래스101,프론트엔드 엔지니어(경력 6~8년),"React, TypeScript, GraphQL, Apollo, React Native"
-엔쓰리엔,Frontend 개발자 (7~10년),"React, React Native, JavaScript"
-클래스101,프론트엔드 엔지니어(경력12년 이상),"React, TypeScript, GraphQL, Apollo, React Native"
-블링크큐벡스핀,프론트엔드 개발(13~15년),"JavaScript, PHP, Figma, HTML5, jQuery, CSS 3"
-블링크큐벡스핀,프론트엔드 개발(7~9년),"JavaScript, PHP, Figma, HTML5, jQuery, CSS 3"
-세계입찰,프론트엔드 개발자 경력(8~10년) 채용,"HTML5, C, C#, JavaScript, Node.js"
-세계입찰,프론트엔드 개발자 경력(5~7년) 채용,"HTML5, C, C#, JavaScript, Node.js"
-블링크큐벡스핀,프론트엔드 개발(10~12년),"JavaScript, PHP, Figma, HTML5, jQuery, CSS 3"
-세계입찰,프론트엔드 개발자 경력(11~13년) 채용,"HTML5, C, C#, JavaScript, Node.js"
-위버스브레인,프론트엔드개발자 모집(3년~5년),"Flutter, React, REST API, Git, Redux, Next.js, React Native, Supabase, Figma, Zeplin"
-텐빌리언,프론트엔드 개발 경력 (2~5년),"JavaScript, HTML5"
-텐빌리언,프론트엔드 개발 경력 (6~9년),"JavaScript, HTML5"
-위버스브레인,프론트엔드개발자 모집(6년~10년),"Flutter, React, REST API, Git, Redux, Next.js, React Native, Supabase, Figma, Zeplin"
-텐빌리언,프론트엔드 개발 경력 (10년 이상),"JavaScript, HTML5"
-위버스브레인,프론트엔드개발자 모집(11년~15년),"Flutter, React, REST API, Git, Redux, Next.js, React Native, Supabase, Figma, Zeplin"
-브랜디,프론트엔드 개발자 (Front-end Developer),"Java, JavaScript, Node.js, REST API, Next.js, Vue.js, TypeScript, Webpack"
+아이디자인랩,[펀픽] 플러터(Flutter) 개발자 채용,"Flutter, MariaDB, MySQL, Python, Android, OS, Swift, Kotlin"
+클래스101,프론트엔드 엔지니어(경력 9~11년),"React, TypeScript, GraphQL, Apollo, Native"
+블링크큐벡스핀,프론트엔드 개발(7~9년),"JavaScript, PHP, Figma, HTML, jQuery, CSS"
+세계입찰,프론트엔드 개발자 경력(8~10년) 채용,"HTML, C, C#, JavaScript, Nodejs"
+위버스브레인,프론트엔드개발자 모집(3년~5년),"Flutter, React, REST, API, Git, Redux, Nextjs, Native, Supabase, Figma, Zeplin"
+텐빌리언,프론트엔드 개발 경력 (2~5년),"JavaScript, HTML"
+스페이스맵,프론트엔드 개발자(3년 이상~7년 이하),"JavaScript, TypeScript, React, Nextjs, threejs, Redux, Zustand, Query, AWS, HTML"
+브랜디,프론트엔드 개발자 (Front-end Developer),"Java, JavaScript, Nodejs, REST, API, Nextjs, Vuejs, TypeScript, Webpack"
 빅웨이브로보틱스(주),로봇 통합 관제 시스템 백엔드 개발자 (5년 이상),"AWS, Kotlin, devops, Redis, Linux, JUnit, Firebase, Flutter, React, GitHub"
-(주)딥브레인에이아이,"[딥브레인 AI] 개발자(Front, Back) 및 PM 채용의 건","JavaScript, TypeScript, Node.js, Next.js, Express, MongoDB, React, Figma"
+(주)딥브레인에이아이,"[딥브레인 AI] 개발자(Front, Back) 및 PM 채용의 건","JavaScript, TypeScript, Nodejs, Nextjs, Express, MongoDB, React, Figma"
 (주)캐처스,Javascript / Typscript 개발,"JavaScript, TypeScript"
 (주)모카시스템,웹 프론트엔드 시니어 개발자 모집,"JavaScript, React"
-(주)위펀,(주)위펀 - Frontend Engineer(React),"JavaScript, Git, SEO, ux, HTML/CSS, TypeScript, Vue.js, React, Framer, GUI"
-(주)야나두,[야나두] 프론트엔드 개발 (React),"React, Next.js, JavaScript, TypeScript, Redux, Vue.js"
-씨드앤,프론트엔드 리드 개발자 (6년 이상),"TypeScript, HTML/CSS, Redux, React, React Native"
+(주)위펀,(주)위펀 - Frontend Engineer(React),"JavaScript, Git, SEO, ux, HTMLCSS, TypeScript, Vuejs, React, Framer, GUI"
+(주)야나두,[야나두] 프론트엔드 개발 (React),"React, Nextjs, JavaScript, TypeScript, Redux, Vuejs"
+씨드앤,프론트엔드 리드 개발자 (6년 이상),"TypeScript, HTMLCSS, Redux, React, Native"
 빅웨이브로보틱스(주),로봇 통합 관제 시스템 프론트엔드 개발자 (5년 이상),"AWS, devops, React, Firebase, GitHub, SQL, Redis, Flutter, Git, JUnit"
-플루토스디에스 주식회사,프론트엔드 개발자,"React, Angular, Vue.js, HTML/CSS, JavaScript, Redux, MobX, Git, Next.js, TypeScript"
-(주)윙크스톤파트너스,웹 퍼블리셔,"HTML/CSS, JavaScript, jQuery, VSCode, Git, Figma"
-(주)플래스크,(주)플래스크 개발자 (Frontend Software Engineer) 채용,"react.js, Next.js, TypeScript, github-actions, Figma, frontend, react-query, ssr, csr"
-인프랩 (인프런),[인재풀] 전 직군,"MS-Office, Slack"
+플루토스디에스 주식회사,프론트엔드 개발자,"React, Angular, Vuejs, HTMLCSS, JavaScript, Redux, MobX, Git, Nextjs, TypeScript"
+(주)윙크스톤파트너스,웹 퍼블리셔,"HTMLCSS, JavaScript, jQuery, VSCode, Git, Figma"
+(주)플래스크,(주)플래스크 개발자 (Frontend Software Engineer) 채용,"reactjs, Nextjs, TypeScript, githubactions, Figma, frontend, reactquery, ssr, csr"
+인프랩 (인프런),[인재풀] 전 직군,"MSOffice, Slack"
 (주)디랙스,AWS 소프트웨어 개발자 모집,"Java, Spring, MySQL, AWS, Android, iOS, JSP"
-아파트아이,프론트엔드 개발자 (React.JS_주니어),"RxJS, React, .NET, Vue.js, DBMS/RDBMS, jQuery"
+아파트아이,프론트엔드 개발자 (React.JS_주니어),"RxJS, React, NET, Vuejs, DBMSRDBMS, jQuery"
 (주) 딥노이드,프론트엔드 개발자,"React, TypeScript, JavaScript, SPA, Angular"
-하이프로토콜,[Web3] 크로스체인 프로토콜 프론트엔드 시니어 개발자 채용,"TypeScript, React, Redux, react-query, Next.js, websockets"
-데이터메이커,프론트엔드 개발자,"JavaScript, ES6, Rust, Vue.js, Nuxt.js, Three.js, Github, Notion, Jetbrains, ChatGPT"
-리빌더AI,프런트엔드 개발자,"JavaScript, Java, HTML/CSS, TypeScript"
-데일리펀딩,프론트엔드 개발자,"React, Java, HTML/CSS, Git, TypeScript, Sass, Next.js"
+하이프로토콜,[Web3] 크로스체인 프로토콜 프론트엔드 시니어 개발자 채용,"TypeScript, React, Redux, reactquery, Nextjs, websockets"
+데이터메이커,프론트엔드 개발자,"JavaScript, ES, Rust, Vuejs, Nuxtjs, Threejs, Github, Notion, Jetbrains, ChatGPT"
+리빌더AI,프런트엔드 개발자,"JavaScript, Java, HTMLCSS, TypeScript"
+데일리펀딩,프론트엔드 개발자,"React, Java, HTMLCSS, Git, TypeScript, Sass, Nextjs"
 스윗코리아,프론트엔드 개발자 (Front-end Developer),Angular
-세나클소프트,[경력] Windows Client(C# WPF) 개발,"C#, .NET, Git, wpf"
-한솔코에버주식회사,JAVA 개발자 경력직 채용,"Java, Vue.js, JPA, Spring, Spring Boot"
-주식회사 시크한,Back-end 개발자 채용 공고,"NestJS, Spring Boot, Google Cloud Platform, GraphQL, PostgreSQL, REST API"
-(주)다날,다날 결제시스템 FE개발 경력 채용,"HTML/CSS, React, Vue.js, JavaScript, Spring, PHP, Python"
-(주)패스트레인,프론트엔드 개발자,"JavaScript, TypeScript, React, Next.js, zustand, react-query, Git, github-actions, Figma, JIRA"
+세나클소프트,[경력] Windows Client(C# WPF) 개발,"C#, NET, Git, wpf"
+한솔코에버주식회사,JAVA 개발자 경력직 채용,"Java, Vuejs, JPA, Spring, Boot"
+주식회사 시크한,Back-end 개발자 채용 공고,"NestJS, Spring, Boot, Google, Cloud, Platform, GraphQL, PostgreSQL, REST, API"
+(주)다날,다날 결제시스템 FE개발 경력 채용,"HTMLCSS, React, Vuejs, JavaScript, Spring, PHP, Python"
+(주)패스트레인,프론트엔드 개발자,"JavaScript, TypeScript, React, Nextjs, zustand, reactquery, Git, githubactions, Figma, JIRA"
 주식회사 비피엘파트너스,구독형 버티컬 인재 매칭 플랫폼,"Flutter, Firebase, Git, JIRA"
-(주)탄소중립연구원,[전환형 인턴] 탄소회계 솔루션 웹 프론트엔드 개발자,"Vue.js, React, GraphQL, TypeScript"
-휴스테이션,프론트엔드 개발자,"React, HTML/CSS, JavaScript, JIRA"
-버터소프트 주식회사,프론트엔드 개발자,"React, Next.js, TailWindCSS, React Native"
+(주)탄소중립연구원,[전환형 인턴] 탄소회계 솔루션 웹 프론트엔드 개발자,"Vuejs, React, GraphQL, TypeScript"
+휴스테이션,프론트엔드 개발자,"React, HTMLCSS, JavaScript, JIRA"
+버터소프트 주식회사,프론트엔드 개발자,"React, Nextjs, TailWindCSS, Native"
 (주)퍼브,(주)퍼브 솔루션개발팀 개발자 정규직 채용,"Java, JavaScript, SQL"
-(주)디에스랩글로벌,풀스택 개발자,"React, HTML/CSS, FastAPI, Django"
-21세기전파상,개발 총괄 [CTO],"Git, Github, AWS, MySQL, SQL, JavaScript, React, React Native, Node.js"
-주식회사 원아이소프트,의류전문 물류 시스템 개발 총괄 CTO 급 PL포지션,"딥러닝, Tensorflow, Linux, Vue.js, Java"
+(주)디에스랩글로벌,풀스택 개발자,"React, HTMLCSS, FastAPI, Django"
+21세기전파상,개발 총괄 [CTO],"Git, Github, AWS, MySQL, SQL, JavaScript, React, Native, Nodejs"
+주식회사 원아이소프트,의류전문 물류 시스템 개발 총괄 CTO 급 PL포지션,"Tensorflow, Linux, Vuejs, Java"
 (주)크라우드웍스,[크라우드웍스] AI솔루션팀 Full-stack 개발자,"Python, Java, JavaScript, React, RAG, Linux"
 휴레이포지티브,프론트엔드 개발자 (Lead),"TypeScript, Tensorflow, JavaScript, React, vue, Angular"
-주식회사 더블유쓰리컴퍼니,글로벌 앱 서비스 프론트엔드 개발자 채용,"React, React Native, Redux, redux-toolkit, zustand, JavaScript, TypeScript, Kotlin, Swift"
-(주)크라우드웍스,[크라우드웍스] AI플랫폼팀 Full-stack 개발자(Junior),"Java, Python, https, restful, Linux, LLM, RAG, 머신러닝"
-주식회사 트라이포드랩,트라이포드랩에서 함께 성장해나갈 리드 개발자를 모십니다.,"Java, Spring Boot, NestJS, React, AWS, DBMS/RDBMS"
-주식회사 페칭,[페칭] 패션 플랫폼 React 프론트엔드 개발자 경력직,"React, React Native, nextjs, tailwind-css, Redux"
+주식회사 더블유쓰리컴퍼니,글로벌 앱 서비스 프론트엔드 개발자 채용,"React, Native, Redux, reduxtoolkit, zustand, JavaScript, TypeScript, Kotlin, Swift"
+(주)크라우드웍스,[크라우드웍스] AI플랫폼팀 Full-stack 개발자(Junior),"Java, Python, https, restful, Linux, LLM, RAG"
+주식회사 트라이포드랩,트라이포드랩에서 함께 성장해나갈 리드 개발자를 모십니다.,"Java, Spring, Boot, NestJS, React, AWS, DBMSRDBMS"
+주식회사 페칭,[페칭] 패션 플랫폼 React 프론트엔드 개발자 경력직,"React, Native, nextjs, tailwindcss, Redux"
 찾아줘부동산,플러터 개발자 or 프론트 개발자 모십니다.,Flutter
-(주)알로카도스,React-Native 스태프 엔지니어,"React Native, TypeScript, Swift, Objective-C, Kotlin, JavaScript, Java"
-(주)유니드,"프론트엔드/백엔드 개발자(Vue, Python, Java)","Vue.js, Flutter, Python, PHP, MySQL, Java"
-마이플레이컴퍼니,개발팀 리더,"Python, Django-REST-Framework, Django, AWS, aws-ec2, Lambda, 애자일, 리팩토링"
-TIM Robotics,React.JS (Next.JS) 프론트엔드 엔지니어,"react.js, Next.js, TypeScript, TypeORM"
-(주)인터프로커뮤니케이션,[인터프로인디고] 웹 사이트 개발자 모집,"PHP, HTML/CSS, JavaScript"
-(주)얼라이언스인터넷,Alliance Internet 커머스랩 개발자 채용 공고,"Next.js, FastAPI, PostgreSQL, Redis, LLM"
-해줌,프론트엔드 개발 팀장,"HTML/CSS, JavaScript, React, Vue.js"
+(주)알로카도스,React-Native 스태프 엔지니어,"React, Native, TypeScript, Swift, ObjectiveC, Kotlin, JavaScript, Java"
+(주)유니드,"프론트엔드/백엔드 개발자(Vue, Python, Java)","Vuejs, Flutter, Python, PHP, MySQL, Java"
+마이플레이컴퍼니,개발팀 리더,"Python, DjangoRESTFramework, Django, AWS, awsec, Lambda"
+TIM Robotics,React.JS (Next.JS) 프론트엔드 엔지니어,"reactjs, Nextjs, TypeScript, TypeORM"
+(주)인터프로커뮤니케이션,[인터프로인디고] 웹 사이트 개발자 모집,"PHP, HTMLCSS, JavaScript"
+(주)얼라이언스인터넷,Alliance Internet 커머스랩 개발자 채용 공고,"Nextjs, FastAPI, PostgreSQL, Redis, LLM"
+해줌,프론트엔드 개발 팀장,"HTMLCSS, JavaScript, React, Vuejs"
 (주)애즈랜드,프론트엔트/백엔드,"PHP, JavaScript, jQuery, Ajax, MySQL"
-베링랩,프론트엔드 개발자,"React, TypeScript, 동시성, Next.js, frontend"
+베링랩,프론트엔드 개발자,"React, TypeScript, Nextjs, frontend"
 (주)누아,웹(Web) 프론트엔드 개발자,TypeScript
-슬릭코퍼레이션,Front-end Engineer,"React, TypeScript, Jest, Webpack, JavaScript, Flutter, Next.js, Parcel"
+슬릭코퍼레이션,Front-end Engineer,"React, TypeScript, Jest, Webpack, JavaScript, Flutter, Nextjs, Parcel"
 주식회사 제로엑스플로우,Frontend Engineer(5년 이상),"React, JavaScript"
-(주)드래프타입,웹/프론트엔드 개발자 (3년 이상),"Git, GitHub, AWS, TypeScript, HTML/CSS, JavaScript, REST API, swagger"
-프록시펙토리,프론트엔드 개발자,"React, React Native, HTML/CSS"
+(주)드래프타입,웹/프론트엔드 개발자 (3년 이상),"Git, GitHub, AWS, TypeScript, HTMLCSS, JavaScript, REST, API, swagger"
+프록시펙토리,프론트엔드 개발자,"React, Native, HTMLCSS"
 (주)두비스,"신입직원 - 웹/앱 프로그래머, 응용프로그래머","Android, iOS"
 프로베디,앱테크 서비스 관련 APP 프런트엔드 개발 (Flutter) - 프리랜서,"Flutter, MVVM, grpc, GitHub"
 한국전력정보(주),신재생 에너지 거래 플래폼 소프트웨어 개발,"api, Java, NoSQL, Python, AWS, Docker, Kafka"
-(주)스플랩,[인재풀] Frontend Developer,"TypeScript, React, Next.js, React Native"
-주식회사 유니유니,[주식회사 유니유니] ‘개발 리드’ 채용,"Java, React, Github, Node.js, AWS"
-런치팩 주식회사,[런치팩] 테마 프론트엔드 개발(시니어),"Vue.js, 플랫폼 비즈니스"
-(주)크라우드웍스,[크라우드웍스] 데이터플랫폼팀 Full-stack 개발자,"vue, React, TypeScript, css, Nuxt.js, nextjs, Sass, Java, Spring Boot, Git"
-주식회사 다이노즈,React / Next.js 웹개발자 (경력 2년 이상),"React, Next.js, TypeScript, HTML/CSS, Firebase, Git, GitHub, github-actions"
-주식회사 나두모두,[신입/인턴] 소프트웨어 개발자,"Next.js, React, Node.js, AWS, TypeScript"
-솔로트립,"프론트엔드 개발자 (React, React.Native)","React, React Native, GraphQL"
-(주)에이티앤피파트너즈,프론트엔드 개발자 경력 2년 이상,"React, Node.js, TypeScript, Next.js, aws-ec2, nginx, github-actions, Figma"
-21세기전파상,프론트엔드 개발자,"Git, Github, MySQL, SQL, React, React Native, JavaScript, Node.js, AWS"
-21세기전파상,시니어 개발자,"Git, Github, AWS, MySQL, SQL, React, React Native, JavaScript, Node.js"
+(주)스플랩,[인재풀] Frontend Developer,"TypeScript, React, Nextjs, Native"
+주식회사 유니유니,[주식회사 유니유니] ‘개발 리드’ 채용,"Java, React, Github, Nodejs, AWS"
+런치팩 주식회사,[런치팩] 테마 프론트엔드 개발(시니어),Vuejs
+(주)크라우드웍스,[크라우드웍스] 데이터플랫폼팀 Full-stack 개발자,"vue, React, TypeScript, css, Nuxtjs, nextjs, Sass, Java, Spring, Boot, Git"
+주식회사 다이노즈,React / Next.js 웹개발자 (경력 2년 이상),"React, Nextjs, TypeScript, HTMLCSS, Firebase, Git, GitHub, githubactions"
+주식회사 나두모두,[신입/인턴] 소프트웨어 개발자,"Nextjs, React, Nodejs, AWS, TypeScript"
+솔로트립,"프론트엔드 개발자 (React, React.Native)","React, Native, GraphQL"
+(주)에이티앤피파트너즈,프론트엔드 개발자 경력 2년 이상,"React, Nodejs, TypeScript, Nextjs, awsec, nginx, githubactions, Figma"
+21세기전파상,프론트엔드 개발자,"Git, Github, MySQL, SQL, React, Native, JavaScript, Nodejs, AWS"
+21세기전파상,시니어 개발자,"Git, Github, AWS, MySQL, SQL, React, Native, JavaScript, Nodejs"
 장가 컴퍼니,"PHP 개발자 / fastAPI 개발 (경력무관, 4000이상)","PHP, Python"
-(주)편안랩스,프론트엔드 개발자,"React, Next.js, TypeScript, React Native, JavaScript"
-홉스,시니어 프론트엔드 엔지니어,"HTML/CSS, React, TypeScript, Next.js, Jest, Git, ESLint, Github, github-actions"
+(주)편안랩스,프론트엔드 개발자,"React, Nextjs, TypeScript, Native, JavaScript"
+홉스,시니어 프론트엔드 엔지니어,"HTMLCSS, React, TypeScript, Nextjs, Jest, Git, ESLint, Github, githubactions"
 주식회사 코아메소드,(주)코아메소드 웹개발 경력직 모집,Java
-주식회사 메가인포아이티,Frontend 개발자(3년이상),"AWS, HTML/CSS, GitHub, JavaScript, React"
-테이퍼랩스,Front-end Engineer,"Swift, Flutter, Python, openai, NLP, 인공지능(AI)"
-애자일,프론트엔드 개발자,"JavaScript, Vue.js, Java, JSP, 애자일, Jira Cloud, confluence cloud"
-(주)원더라운드,여행 플랫폼 WOKA Frontend 개발자,"AWS, HTML/CSS, Git, JavaScript, Node.js, TypeScript, React"
-주식회사 오오칠팔구,[경력] 스타트업 프론트엔드 개발자 채용,"Git, React, TypeScript, restful, REST API"
-주식회사 브룩허스트거라지,Full Stack Software Engineer,"REST API, React, Vue.js, JavaScript, robot, 드론 개발, Python, C, C++"
-(주)쓰리뷰,프론트엔드 개발자 모집,"C#, .NET, MSSQL, MySQL, Java, Swift, Flutter"
-아파트아이,프론트엔드 개발자 (React.JS_주니어),"RxJS, React, .NET, Vue.js, DBMS/RDBMS, jQuery"
-런치팩 주식회사,"[런치팩_풀스택] 테마, 서비스 부분수정 개발(리드급)","Vue.js, 플랫폼 비즈니스, Django"
+주식회사 메가인포아이티,Frontend 개발자(3년이상),"AWS, HTMLCSS, GitHub, JavaScript, React"
+테이퍼랩스,Front-end Engineer,"Swift, Flutter, Python, openai, NLP, AI"
+애자일,프론트엔드 개발자,"JavaScript, Vuejs, Java, JSP, Jira, Cloud, confluence, cloud"
+(주)원더라운드,여행 플랫폼 WOKA Frontend 개발자,"AWS, HTMLCSS, Git, JavaScript, Nodejs, TypeScript, React"
+주식회사 오오칠팔구,[경력] 스타트업 프론트엔드 개발자 채용,"Git, React, TypeScript, restful, REST, API"
+주식회사 브룩허스트거라지,Full Stack Software Engineer,"REST, API, React, Vuejs, JavaScript, robot, Python, C, C++"
+(주)쓰리뷰,프론트엔드 개발자 모집,"C#, NET, MSSQL, MySQL, Java, Swift, Flutter"
+런치팩 주식회사,"[런치팩_풀스택] 테마, 서비스 부분수정 개발(리드급)","Vuejs, Django"
 주식회사 컨시언스파트너스,Nextjs Engineer,"nextjs, JavaScript, TypeScript, PostgreSQL, supabase"
 이빗,[EBIT] AI Trainer (Data Labeler) 개발자(Coder) 모집,"Python, JavaScript, Java, C#, C, C++, PHP"
-선데이띵커,[판다랭크] 프론트엔드 개발자,"HTML/CSS, scss, Node.js, Express, jQuery"
-커피팅 주식회사,프론트엔드 개발자 (크로스플랫폼 앱),"TypeScript, React Native, react-query, zustand, Node.js, React, AWS"
-(주)코딧,[SW] 하반기 프론트엔드 개발자 인턴 채용 (React.js),"JavaScript, HTML/CSS, React, TypeScript"
-엑세스 주식회사,프론트엔지니어 개발자(주니어),"JavaScript, Kotlin, Java, react.js, Vue.js, Angular, TypeScript, Next.js, Jetpack, REST API"
-(주)디에스랩글로벌,프론트엔드 개발자,"React, HTML/CSS, iOS, Android, Git"
-브이아이펫,[재택근무 주1회]펫VIP(브이아이펫)React Native 개발 가능한 풀스텍개발자 모집,"React Native, Java, JavaScript"
-에듀클라우드,[에듀클라우드] 풀스택 개발자 경력직(5년 이상) 채용,"React Native, Flutter, expo, Figma, AWS, Docker"
-아하앤컴퍼니(주),[아하] 프론트엔드 엔지니어,"Node.js, NestJS, TypeScript, SEO"
-(주)필라넷,.NET 웹개발자 채용,"ASP.NET Core, ASP, MSSQL, .NET, jQuery, JavaScript, SharePoint"
-엑세스 주식회사,프론트엔지니어 개발자(시니어/미들),"JavaScript, Kotlin, Java, react.js, Vue.js, Angular, TypeScript, Next.js, Jetpack"
-빅테크플러스,[빅테크플러스] 풀스택 개발자 채용,"Java, Kotlin, TypeScript, JavaScript, React, CI/CD, DBMS/RDBMS, spring-jpa, ORM, 애자일"
-주식회사 서큘러스,SW개발자 채용,"React, tailwind-css, Node.js, MongoDB, Python, GitHub, JavaScript"
-피벗 주식회사,React 개발자,"React, react.js"
-커넥션스튜디오,프론트엔드 개발자,"React, TailWindCSS, JavaScript, TypeScript, react-query, Redux, zustand, GitHub"
-먼치팩토리,[hourplace] React 프론트엔드 개발자,"• UI/UX 설계 및 구현: 사용자 친화적이고 직관적인 인터페이스를 React로 구현하고, 다양한 사용자 흐름을 최적화하여 몰입도 높은 사용자 경험 제공
-• 컴포넌트 기반 시스템 구축: 재사용 가능한 컴포넌트를 설계하여 코드 일관성과 효율성을 높이고, 디자인 시스템과 일치하는 컴포넌트 구조 유지
-• API 연동 및 데이터 관리: 백엔드 API와의 통신을 통해 실시간 데이터를 반영하고, 상태 관리 라이브러리를 사용하여 데이터 흐름을 최적화
-• 반응형 웹 및 크로스 디바이스 최적화: 다양한 화면 크기와 디바이스에서 일관된 경험을 제공할 수 있도록 반응형 디자인과 스타일링 구현
-• 검색 및 필터링 기능 강화: 복잡한 검색 필터 기능 구현 및 최적화를 통해 사용자 편의성 향상
-• 성능 최적화: 페이지 로딩 속도 개선 및 렌더링 성능 최적화, 코드 스플리팅 및 Lazy Loading 적용
-• 테스트 및 디버깅: 다양한 브라우저 및 기기에서 일관된 성능을 보장하기 위한 테스트와 정기적인 디버깅 수행
-• 코드 품질 유지: 코드 리뷰, Git, CI/CD 파이프라인 활용을 통해 코드 품질 및 일관성 유지
-
-• React 및 JavaScript에 대한 깊은 이해: 최신 React 기능과 JavaScript에 대한 숙련도
-• HTML/CSS와 프론트엔드 기본 지식: 웹 표준을 준수한 마크업과 스타일링 경험
-• 상태 관리 라이브러리 경험: 상태 관리 라이브러리 사용 경험 및 효율적인 데이터 흐름 구축 능력
-• 비동기 프로그래밍 및 API 연동 경험: API와의 통신을 통해 데이터 연동을 처리하고 비동기 요청을 관리할 수 있는 능력
-• 반응형 웹 디자인 구현 능력: 다양한 디바이스 환경에 맞춰 반응형 UI를 개발한 경험
-• 성능 최적화 경험: Lazy Loading, 코드 스플리팅, 캐싱 등 성능 향상 기법 적용 경험
-• 협업 도구 활용 능력: Git, Jira, Slack 등 협업 도구를 활용하여 효율적인 팀워크를 경험한 이력
-• 3년 이상 프론트엔드 개발 경력: 최소 3년 이상의 프론트엔드 개발 경력, 특히 React 기반 프로젝트 경험
-
-• 대규모 웹 애플리케이션이나 플랫폼 개발 경험
-• SEO 최적화 및 웹 접근성에 대한 지식
-• TypeScript 사용 경험
-• CI/CD 파이프라인 구축 및 활용 경험
-• 문제 해결을 위한 창의적이고 논리적인 사고 능력"
-펫프렌즈,프론트엔드 엔지니어,"1. 펫프렌즈 모바일 APP/WEB 서비스 개발 및 기존 서비스 유지보수
-2. UI/UX 디자인 기술적 구현
-3. 기존 코드베이스에 새로운 기술을 적용해 코드 최적화 및 개선
-
-1. 경력 3~5년차
-2. ReactJS 개발에 능숙하신 분
-3. JavaScript(es6), CSS3, HTML5 능숙하신 분
-4. Git 및 GitHub 기반 협업에 능숙하신 분
-5. 새로운 기술에 관심이 많고, 기술 도입에 도전적인 분
-6. 모바일 또는 반응형 웹 개발 경험
-
-1. VueJS 사용 경험
-2. NextJS 사용 경험
-3. 레거시 코드 리팩토링 경험"
-메딜리티,Frontend Engineer (React & Flutter),"[포지션 개요]
-• 최상의 사용자 경험을 만들기 위해 적합한 기술을 활용하여 서비스를 구현합니다.
-• 지속 가능한 유지 보수가 가능하도록 설계합니다.
-• 제품 관리자 및 제품 디자이너와 협업하여 더 나은 사용자 경험을 위해 꾸준히 개선합니다.
-
-[이런 기술 스택을 활용합니다]
-• Flutter
-• React on Next.js
-• Docker
-• Github / Github Actions
-• AWS EC2 / ECR
-• Slack, Notion, Google Workspace, JIRA, Confluence
-
-[합류하시면 이런 일을 합니다]
-• 알약 카운팅 서비스 PillEye의 Flutter 앱 및 Webview 로 제공되는 사용자 경험을 개선해나갑니다.
-• 약국의 조제 결과를 검수하는 서비스 PouchEye의 사용자 인터페이스를 만들어갑니다.
-• 백오피스 서비스를 개선해 운영 효율화를 이뤄나갑니다.
-• 홈페이지 등 웹사이트를 업데이트해 세일즈와 유저 경험에 기여합니다.
-
-• 소프트웨어 엔지니어링 분야에서 5년 이상의 경력을 보유하거나 이에 준하시는 분
-• 자기주도성, 빠른 실행력을 가지고 메딜리티의 성장을 함께 만들어 갈 수 있으신 분
-• 경험해보지 못한 문제를 논리적으로 추론하고 해결할 수 있으신 분
-• 타 직군과의 커뮤니케이션을 통해 문제를 구체적으로 정의하고 대안을 제안할 수 있으신 분
-• 팀원들과 원만한 코드 리뷰를 진행할 수 있으신 분
-• 디자인 패턴에 대한 이해를 바탕으로 구조적 설계를 진행할 수 있으신 분
-
-• 타입스크립트에 능숙하신 분
-• 스타일 작성이 능숙하신 분
-• 코드 작성 외의 배포 환경 설정, 자동화 등의 운영경험이 있으신 분
-• 작성한 코드가 아닌 사용하는 툴에서 발생한 문제도 파악하고 대응할 수 있는 분
-• 모바일 앱 개발 경험이 있는 분
-• 오픈 소스 기여 경험이 있는 분
-• 글로벌 서비스 개발 / 운영 경험이 있으신 분"
-에이든랩,웹 프론트엔드 개발자,"• 인플루언서 마케팅 및 이커머스 모니터링 신규 서비스 프론트엔드 개발
-• 더 나은 개발 환경을 위한 프론트엔드 구조 개선, 성능 최적화
-
-[참고 - 서비스 주요 기능]
-Incode8은 인플루언서 마케팅과 이커머스를 연결하는 솔루션으로, 데이터를 기반으로 효과적인 마케팅 전략을 지원합니다.
-사용자 관리
-• 브랜드, 인플루언서, 관리자별 맞춤형 대시보드 제공
-• 다국어(한국어/영어/일본어) 지원 시스템 구축
-• 인플루언서 마케팅 지원
-• 인플루언서 데이터를 분석하여 트렌드 및 성과 제공
-• 브랜드와 인플루언서를 효과적으로 연결하는 매칭 기능
-• 이커머스 데이터 분석
-• 글로벌 마켓(큐텐, 라쿠텐 등) 상품 데이터를 수집 및 시각화
-• 특정 상품 및 브랜드의 시장 동향 모니터링 기능 제공
-• AI 기반 기능
-• AI를 활용한 콘텐츠 생성 및 자동화된 트렌드 분석 지원
-• 글로벌 마케팅을 위한 자동 뉴스 피드 및 리포팅 기능
-• 운영 및 관리 시스템
-• 서비스 전반의 모니터링 및 운영 효율화 지원
-
-• 프론트엔드 개발 경력 3년 이상 또는 그에 준하는 실력을 갖추신 분
-• HTML, CSS, JavaScript, HTTP 등 웹 기본 기술에 대한 이해가 탄탄하신 분
-• React, TypeScript, Next.js를 활용해 웹/모바일 앱을 만들어보신 분
-• Git으로 협업하고, 코드 리뷰 문화에 익숙하신 분
-• Zustand, TanStack Query 같은 상태 관리 도구를 능숙하게 다뤄보신 분
-• Docker 기반의 개발 환경이나 서비스 운영 경험이 있으신 분
-• Webpack, Vite 등 모듈 번들러를 써보셨거나 관심 있으신 분
-• CI/CD 파이프라인을 구성하거나 자동화 도구를 써보신 경험이 있는 분
-• 기술적인 이야기를 팀과 잘 나누고, 함께 문제를 풀어나가는 걸 좋아하시는 분
-
-• 재사용 가능한 UI 컴포넌트를 설계하고 구현해본 경험
-• 기존 코드베이스를 기반으로 점진적인 리팩토링이나 마이그레이션을 해보신 분
-• 서버사이드 렌더링(SSR)에 대한 이해와 경험
-• UX/UI에 관심 많고, 사용자 경험 개선을 위해 고민하고 제안하는 걸 즐기는 분
-• AWS를 활용한 클라우드 환경에서의 인프라 구축 및 운영 경험
-
-
-[기술 스택]
-프레임워크: React v18+, Next.js v13+
-언어: TypeScript
-상태 관리: Zustand, Recoil, Redux 등
-스타일링: Tailwind CSS, styled-components
-API 통신: RESTful API
-협업 도구: Git, GitHub/GitLab, JIRA
-빌드 도구: Vite
-테스트: Jest, React Testing Library"
-슈퍼센트,프론트엔드 개발자 (3년 이상),"[데이터 플랫폼 팀을 소개합니다]
-슈퍼센트에서 데이터는 현재 슈퍼센트의 상태와 예측에 대한 기준입니다. 데이터 플랫폼 팀은 효율적인 데이터 수집, 가공, 시각화를 통해 판단과 결정을 돕고, 슈퍼센트와 팀원 개개인의 동반 성장을 지원합니다. 
-
-이러한 전반적 성장을 위해, 데이터 플랫폼팀은  방식을 가리지 않는 제안(Break Things)과, 작은 테스트 셋으로의 검증(Move Fast)으로 다양한 시도를 해보고, 합리적인 의사결정을 통해 회사에 기여하는 방식을 고민하고, 실천하며, 성장합니다(Grow Together). 저희는 함께 초기 프론트엔드 셋업부터 업무 프로토콜, 기술 스택에 걸쳐 주도적으로 영향력을 발휘해주실 프론트엔드 개발자를 찾고 있습니다. 
-
-[이런 일을 해요]
-• 슈퍼센트 성장에 필요한 지표 시각화 업무 전반을 수행합니다
-    • 데이터를 분명하고 매력적으로 전달할 수 있는 UI/UX를 설계하고 구현합니다
-    • 레거시 시스템의 프론트엔드를 업그레이드하고 유지·보수 합니다
-• 새로운 시각화 요구사항이나 사용성 개선 포인트를 탐색하고, 주도적으로 해결합니다
-
-• 3년 이상의 프론트엔드 실무 경험이 있으신 분
-• ‘왜?’라는 질문의 중요성에 공감하고, 기획 단계부터 최종 사용자 경험까지 폭넓은 관점에서 고민하시는 분
-• 데이터와 지표를 시각적으로 표현하는 데 흥미가 있고, 결과물을 완성하는 과정에서 성취감을 느끼시는 분
-• 개인 혹은 팀 단위로 프로그래밍 프로젝트를 주도적으로 기획하고, 개발부터 마무리까지 경험해보신 분
-
-[이런 기술이 필요해요]
-• React, Redux, Javascript
-• GCP 인프라 환경에 대한 이해 또는 이를 빠르게 학습할 수 있는 역량
-
-[함께하기 위해 필요한 기본 요건이에요]
-• 해외 여행에 결격 사유가 없으신 분
-
-• 효율적인 협업을 위해, 문제 해결에 중점을 두고 의사소통을 진행할 수 있는 분
-• AI 활용(ChatGPT 등)에 익숙하신 분
-• Docker, Typescript, 기타 다른 개발 언어/툴 사용이 가능하신 분
-• 다양한 데이터 시각화 라이브러리(예: D3.js, Recharts 등)에 관심이 있거나 사용 경험이 있으신 분"
-힐링페이퍼(강남언니),웹 프론트엔드 개발자,"＜강남언니 팀 개발자는 이렇게 일해요＞
-
-1. 배우고 경험하고 성장해요
-우리는 멈추지 않고 성장하고 싶습니다. 강남언니는 '더 좋은 의료 서비스를 누구나 누릴 수 있게'라는 목표를 이루기 위해 시장의 문제를 해결해 왔습니다. 이제 그동안보다 더 크고 복잡한 문제를 해결해 나가기 위해 강남언니는 개발자를 비롯한 제품개발 조직 구성원들의 지속적인 성장이 반드시 필요하다고 판단합니다. 그러기에 강남언니 개발자는 마주한 문제를 해결하는 것 만큼이나, 해결 과정의 경험과 새로운 지식의 학습을 통해 성장을 이루려고 노력합니다.
-
-2. 협업해요
-강남언니의 그 누구도 혼자서 문제를 해결하지 않습니다. 강남언니는 높은 수준의 협업을 추구합니다. 우리는 극도의 협업을 통해서만 뛰어난 팀이 만들어지며 미용의료 산업의 크고 복잡한 문제를 해결할 수 있다고 믿습니다. 강남언니 개발자는 동료 개발자, 디자이너, Product Owner와 긴밀하게 협업하며 혼자서는 풀어내기 어려운 문제들을 풀어냅니다.
-
-＜우리는 이런 도구를 사용해요＞
-
-강남언니 팀 웹 프론트엔드 개발자는 다음의 도구를 주로 사용해요. 그 밖에도 주어진 문제에 따라 가장 적합한 여러가지 도구를 도입합니다.
-1. 개발 언어: TypeScript
-2. 프레임워크: React/Next.js, Monorepo(Turborepo), Node.js
-3. 상태관리: React-Query
-4. 스타일링: Tailwind, Styled-components
-5. 패키지 매니저: PNPM
-6. 인프라: AWS, Kubernetes
-
-• 5년 이상의 모던 웹 개발(Nextjs/React 등) 경험이나 그에 준하는 역량을 갖춘 분
-• Tailwind CSS와 styled-components를 활용한 모던 스타일링 방식에 능숙하신 분
-• 제품 개발 과정(개발, 테스트, 배포, 유지보수)에 대한 이해를 바탕으로 효율적인 제품 라이프사이클 관리 역량을 갖추신 분
-• 문제의 본질을 이해하고 답을 찾기 위해 동료의 의견에 집중하는 분
-• 자신의 생각을 말, 글, 그림을 통해 합리적으로 표현할 수 있는 분
-• 문제 해결에 필요하다면 자신의 지식과 경험을 내려놓을 수 있는 분
-• 지금보다 더 나은 엔지니어로 성장하고 싶은 분
-
-• 모바일 앱 내 웹뷰 개발 경험을 가진 분
-• 좋은 아키텍처의 생산성 기여를 깊이 이해하시는 분
-• 디자인 시스템 도입 등 팀 개발 효율을 높인 경험을 가진 분
-• 모듈화에 대한 설계 원칙들의 개념과 장단점을 이해하는 분
-• 성능 문제를 발견하고 개선한 경험이 있는 분
-• 테스트 주도 개발 이해와 경험을 가진 분
-• 자동화된 테스트, 빌드, 배포를 위한 CI/CD 파이프라인 설계 및 유지보수를 경험하신 분"
-불마켓랩스,Front-End Engineer,"[Dev팀은 어떤 팀인가요?]
- 가상화폐 거래소 운영에 필요한 기술적인 지원을 하고 있습니다. API 개발 부터 화면 구성 등의 업무를 하고 있습니다. 현재는 외주 개발된 서비스를 내재화하고 있으며, 추후에는 거래소 관련 아키텍쳐 고도화, 매칭엔진 고도확 작업을 할 예정입니다.
-
-[합류하시면 함께 할 업무예요]
-- 웹 및 앱 서비스 프론트엔드 개발
-- next.js 기반 웹, 모바일, 데스크탑 등 멀티 플랫폼 클라이언트 개발
-- flutter 기반 앱 개발
-
-[기술 스택]
-- typescript, javascript
-- react.js, next.js, flutter
-- Github action
-
-[이런 분을 찾고 있습니다!]
-- 5년 이상 프론트엔드 서비스 개발 및 유지 관리 경험을 가지신 분
-- 실제 고객에게 서비스 되는 프로젝트를 참여한 경험이 있으신 분
-- 비즈니스 요구사항에 맞게 로직을 설계, 구현하고 운영할 수 있는 분
-- 주도적으로 문제를 발견하고 분석해서 해결 방법을 제안할 수 있으신 분
-- 새로운 기술을 도입하여 팀의 생산성을 개선 해본 경험이 있으신 분
-- 다양한 부서와 협업하기 위한 원활한 커뮤니케이션 능력을 갖추신 분
-
-[이런 분이면 더 환영합니다!]
-- 커머스, 가상화폐, 핀테크 도메인 경험이 있으신 분
-- 코드 리뷰와 리팩토링으로 코드 퀄리티를 개선한 경험이 있으신 분
-- Clean Architecture / Hexagonal architecture 에 대한 경험이 있으신 분
-- 테스트코드 자동화, 배포자동화에대한 경험이 있으신분"
-프리윌린,[개발팀] Tech Innovation 워킹그룹 풀스택 개발자 (8년 이상),"프리윌린의 개발은 높은 수준의 수학교육을 모두에게 제공하기 위한 목표 아래 기획, 개발, 디자인, QA 등 다양한 역할의 구성원들이 같이 모여 노력하고 있습니다. 큰 도약을 앞둔 현시점에서 앞으로의 성취를 함께하실 유능한 백엔드 개발자를 모십니다.
-• 콘텐츠 저작 도구 프론트엔드/백엔드 개발
-• 아이디어를 신속하게 개발하고 검증
-• 변화하는 요구사항에 맞춰 다양한 기술 활용
-• 실무팀과 긴밀하게 협업하여 각 팀의 생산성 향상을 도모 
-• AI와 연계하여 기능 개발
-
-• 서버 개발 경력 3년 이상
-• 프론트엔드 개발 경력 3년 이상
-• React, TypeScript 사용 경험이 있으신 분
-• SPA(React, Vue.js, Angular) 개발 경험이 있으신 분
-• Kotlin(Java) with Spring 필수, Python, Node.js, Golang 중 1가지 이상 활용하여 서버를 개발한 경험이 있으신 분
-• 데이터베이스(RDB/NoSQL) 모델 설계, ORM을 활용한 데이터베이스 개발 경험이 있으신 분
-• AWS 및 Cloud 기반의 개발 및 운영이 가능하신 분
-
-• 기획과 설계에서 적극적으로 참여하신 분
-• 새로운 기술을 도입하고 좋은 사례로 이끌어낸 분
-• 다양한 AWS의 기술을 사용하고 성능 최적화를 적용해보신 분
-• 오픈소스 기여 경험이 있으신 분
-• 스타트업 근무 경험 우대
-• Kubernetes 또는 컨테이너 인프라 환경 구축 및 운영 경험이 있으신 분
-• AI를 활용한 작업 효율화에 관심이 있으신 분
-• GPT 등 LLM모델을 활용하는 기능을 개발해 보신 분
-• React-Admin, MUI 등을 활용해 도구를 개발한 경험이 있으신 분
-• Windows 앱 개발 경험이 있으신 분"
-엘박스,Frontend Engineer,"• 법률 문서 리서치 서비스 엘박스의 프론트엔드 개발을 함께해요.
-• 기존에는 Angular 기반이었던 서비스를 현재 대부분 Next.js 기반의 Mono-Repo로 전환하여 마이크로 프론트엔드를 구축했어요. 장기적으로는 React로의 완전한 전환을 목표로 하고 있어요.
-• 합류하신다면 엘박스 서비스를 개발하는 스쿼드에 배정되며, 스쿼드의 OKR을 달성하기 위한 기여를 하시게 돼요.
-
-[엘박스의 기술 스택]
-• React, Next.js
-• Angular
-• TypeScript
-• Tailwindcss
-• Vitest, Playwright, Storybook
-• Npm, Yarn
-• Github Actions
-
-• 웹 프론트엔드 개발 경력 5년 이상에 준하는 실력을 보유한 분
-• React.js, Typescript를 활용한 프로젝트 경험이 있으신 분
-• 읽기 쉬운 코드의 작성을 위해 노력하시는 분
-• Git을 활용한 코드 관리에 익숙한 분
-
-• 오픈소스 기여 및 프론트엔드 클라이언트에 대한 깊은 이해가 있는 분
-• TDD 및 프론트엔드 E2E 테스트에 대한 깊은 이해가 있는 분
-• 서비스를 개발하면서 보다 나은 사용자 경험을 만들기 위한 깊이 있는 고민을 해 본 분
-• 레거시를 기반으로 리팩토링 한 경험이 있는 분"
-런업,[풀스택] 개발자 채용 SCM 스타트업,"대규모 트랜잭션과 실시간 데이터 흐름이 발생하는 환경에서 백엔드 로직 최적화 및 SQL 성능 튜닝을 수행합니다.
-장애에 강한 시스템을 구축하기 위해 백업·복구 전략을 설계하고, 장애 발생 시 신속하게 대응합니다.
-프론트엔드와 백엔드를 아우르는 전체 시스템의 성능을 모니터링하고, 로그 분석을 통해 병목 지점을 개선합니다.
-데이터 무결성과 보안 강화를 위해 인증/인가 로직을 구현하고, 사용자 권한 관리 기능을 개발합니다.
-AWS, GCP 등 클라우드 환경에서의 인프라 운영 경험을 바탕으로 안정적인 서비스 운영과 배포 자동화를 지원합니다.
-
-• 컴퓨터공학 또는 관련 분야의 학사 학위(전문학사 포함)를 소지하신 분이어야 합니다.
-• 풀 스택에 대한 이해가 있으신 분이어야 합니다.
-• 문제 해결 능력과 분석적 사고를 갖추신 분이어야 합니다.
-
-• SCM 관련 프로젝트 경험
-• 클라우드 서비스(AWS, Azure 등) 사용 경험
-•  JAVA , js 등 프로그래밍 언어에 능숙하신 분
-• 소프트웨어 개발 경력이 3년 이상이신 분을 우대합니다.
-• 대규모 프로젝트 경험이 있으신 분을 우대합니다.
-• ERP 또는 CRM 시스템 개발 경험이 있으신 분을 우대합니다.
-• 클라우드 환경에서의 개발 경험이 있으신 분을 우대합니다.
-• IT 관련 자격증을 소지하신 분을 우대합니다.
-• 영어로 의사소통이 가능하신 분을 우대합니다."
-페칭,패션 플랫폼 React 프론트엔드 개발자,"[상세 업무 내용] 
-1. 프론트엔드 개발자는 고객이 마주하는 페칭 서비스를 책임지는 핵심 포지션 
-2. React.js 활용하여 커머스 WEB, ADMIN 구축 담당
-3. Web-view와 React-Native를 활용하여 페칭의 앱 개발 담당    
-
-[사용 기술 스택]  
-• 프론트 : React, React Native, NextJS, Tailwind CSS, Recoil, Redux, styled-components
-• Notion으로 프로젝트 관리 및 Slack으로 소통
-
-• 전체 개발 경력이 4년 이상이신 분
-• React 개발 경력 3년 이상 또는 그에 준하는 실력을 갖추신 분
-• Redux 등 상태관리 라이브러리를 이용한 개발 경험이 있으신 분
-• HTML/CSS/JavaScript(ES2015 이상)에 대해 깊이 이해하고 계신 분
-• TypeScript를 사용한 개발 경험이 있으신 분
-• 기획자, 디자이너와 의사소통이 원활하신 분
-• 항상 기술적으로 더 나은 것을 추구하고 계속 성장하고자 하는 분
-
-• 성능 최적화에 대해 지속적으로 고민하고 노력하시는 분
-• 코드 리뷰 진행을 좋아하며 협업의 가치를 중요하게 생각 하시는 분
-• Flutter 개발 경력 및 경험이 있으신 분"
-밴플,[여행] [AI] [위치기반] 프론트엔드 앱 개발자(React Native),"• 어디(EODI) 프론트엔드 개발 총괄
-    - 리액트 네이티브
-
-• React Native 숙련도 중상 이상
-• 해당 스택으로 조직 내에서 최소 5년 이상의 프론트엔드 개발 경험을 갖추신 분
-• Git을 통한 버전 관리 및 협업 경험이 있으신 분
-• 여행 및 새로운 경험을 좋아하시는 분은 우대
-
-• 빠르게 합류 가능할 경우
-• 스타트업 경험이 있을 경우
-• 지도 기반 서비스 경험이 있을 경우
-• 우리 서비스 산업에 대한 관심과 기본 이해를 보유했을 경우"
-위메이드(WEMADE),프론트엔드 개발(Wepublic),"• Wepublic 서비스 내의 신규 기능 개발 및 유지보수
-
-• 해당 경력 8년 이상 보유하신 분
-• 웹 표준 및 웹 접근성을 지키며 반응형 마크업 개발이 가능하신 분
-• HTML, CSS, Javascript에 대한 경험과 이해도가 높으신 분
-• React, Vue, Angular 등의 프레임워크를 개발 경험과 동작 원리에 이해도가 높으신 분
-
-*경력 기반의 자기 소개서 제출, 미제출시 서류 심사에서 불합격
-
-• 웹 퍼블리싱 업무 경험이 있으신 분
-• Typescript, Webpack, Babel, Jest, esLint 등의 스택을 이용한 개발 경험이 있으신 분
-• Nuxt.js 혹은 Next.js를 이용한 SSR(서버사이드렌더링) 웹앱 경험이 있으신 분
-• WebGL을 이용한 개발 경험이 있으신 분
-• 차트 라이브러리 개발 또는 이용 경험이 있으신 분
-• 블록체인을 활용한 개발 경험이 있으신 분
-• 언어와 환경에 구애 받지 않고 개발을 할 수 있으신 분"
-위메이드(WEMADE),블록체인 메인넷 개발,"• 메인넷(WEMIX 체인) 노드 개발
-• 메인넷/테스트넷 유지 보수, 개선 및 장애 대응
-• 메인넷에 사용되는 governance contract 개발/유지보수
-• 블록체인 합의 엔진 연구 개발
-• 차세대 블록체인 기술 연구 개발
-• 기타 상위 센터/실에서 필요한 블록체인 서비스 개발
-
-• 개발 경험 5년 이상이신 분
-• 블록체인 노드 개발 경험 1년 이상이신 분
-• Go 언어에 능통하신 분 혹은 프로그래밍 언어를 빨리 배우시는 분
-• 블록체인에 대한 이해도가 높으신 분
-• 커뮤니케이션 능력이 좋고 협업이 원활하신 분
-• 오픈소스 개발에 익숙하신 분
-
-• 끊임없이 문제를 찾아내고 좋은 해결 방법 고민을 즐기시는 분
-• 이론에 대한 깊은 이해와 프로그래밍 실력을 갖추신 분
-• 논문 학습에 어려움이 없고, 학습 능력이 뛰어나신 분
-• 논리적 빈틈이 적고 꼼꼼하고 차분하게 어려운 문제를 풀 수 있는 분
-• 코드 리뷰 능력이 뛰어나고 디버깅을 잘하시는 분
-• 성능 개선 경험이 많으신 분
-• 팀과 조화를 잘 이루시는 분"
-보이저엑스(VoyagerX),[Vrew] 웹 애플리케이션 개발자,"1. 업무내용: 웹 기술에 기반한 동영상 편집기 Vrew를 개발
-
-2. 업무 관련 기술: React, Nodejs, Typescript, FFmpeg, WebGL, WebAudio, AWS
-
-A. 모든 개발자 공통 요건
-• 개발을 좋아함
-• 수학을 좋아함
-• 딥러닝에 관심이 많음
-• 협업이 두렵지 않음
-• 책임감이 강함
-
-B. 앱 개발자 공통 요건
-• 앱 개발에 보람을 느낌
-• 1px 어긋난 것이 자꾸 눈에 밟힘
-• 동작이 부드럽지 않으면 고치고 싶음
-• 더 빨리 더 잘 만들 수 없을까 고민함
-• 완벽만큼 완성을 중요하게 생각함
-
-C. Vrew 웹 앱 개발자 요건 
-• C++ 혹은 Javascript 에 대한 이해가 깊음
-• 필요에 따라서 더욱 저수준으로 내려갈 수 있음
-• 동영상 관련 기술에 대해 관심이 많음 
-
-D. 앱 개발자 공통 기술 질문: 5개 이상 잘 대답할 수 있어야 함
-• PNG와 JPG의 차이점은?
-• Dynamic Programming이란?
-• Virtual Memory란?
-• Garbage Collection이란?
-• Cache란?
-• Database Index 추가의 장단점은?
-• 비대칭 암호화란?
-• HDD, SSD, DRAM 각각의 성능은?
-• GIT의 장점은?
-
-E. Vrew 데스크탑 앱 개발자 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함
-• UTF-8 이란?
-• React 란?
-• Web Browser 의 프로세싱 중 Reflow 란?
-• 함수형 프로그래밍 패러다임이란?
-• Callback hell 이란?
-• async I/O 란?
-• 프로세스 간 통신(IPC) 이란?
-• C++ 에서 다형성이란?
-• 그래픽카드를 이용한 하드웨어 가속이란?"
-부스터스,Software Engineer (Front-End),"[직무 및 팀 소개]
-부스터스 Tech팀은 부스터스의 브랜드 사업 구조에서 오는 복잡도를 데이터와 시스템으로 보다 쉽게 관리할 수 있게 데이터를 다루며 업무 자동화를 지원하는 팀입니다. Tech팀이 개발중인 프로덕트는 데이터를 기반으로 상황을 빠르게 판단하여 업무 결정에 도움을 줄 수 있는 BI툴의 성격과 데이터를 활용하여 반복적인 업무를 자동화할 수 있는 업무자동화 툴로 두 가지 성격을 지니고 있습니다. 
-
-Tech 팀의 Software Engineer (Front-End) 포지션은 개발 중인 프로덕트를 다양한 라이브러리를 활용하여 적합한 UI/UX로 개발합니다.
-
-[합류하시면 담당해주실 업무입니다.]
-• Vue.js, 디자인 템플릿 등을 활용한 웹 서비스 개발을 담당합니다.
-• 내부 관리 툴 (데이터 대시보드) UI/UX 개발을 담당합니다.
-
-[아래 경험을 보유하신 분들을 모십니다.]
-• Front-End 개발 영역에서 2년 이상 경력을 보유하신 분
-• 대졸 이상 IT/컴퓨터 관련 전공자
-• 유연한 사고와 존중을 기반으로 한 원활한 의사소통 능력을 갖추신 분
-• 커뮤니케이션이 원활하고, 적극적이고 끈기있는 태도를 지니신 분
-
-[아래 경험과 성향을 보유하신 분이라면 더욱 좋습니다.]
-아래 항목 중 둘 이상 충족되는 분을 우대하고 있습니다.
-
-• vue.js 를 활용하여 개발을 해보신 분
-• 웹 Framework 및 라이브러리를 사용하여 개발을 해보신 분
-• UI/UX 에 대한 이해도가 높으신 분
-• 복잡한 문제해결, 자동화에 대한 경험이 있으신 분
-• 개발에 대한 성장을 하고 싶으신 분"
-벙커키즈,Tech - Frontend Engineer,"[기술 스택]
-Web
-• nextjs : app router 기반(23년 이전 page router)
-• 전역상태관리 : zustand(22년 이전 recoil)
-• 서버상태관리 : react query
-• 스타일 : emotion, tailwind
-• 테스트 : vitest
-
-App
-• React native와 native module
-• 기본적으로 webview로 처리하고 native 이벤트 처리가 필요한 경우 RN을 사용
-• 그 외에 native module의 구현이 필요한 경우 능동적으로 처리함
-
-[주요 업무]
-• React, nextjs, React Native(주로 웹뷰, 필요시 Native module)로 웹/앱 서비스 개발
-• Product Owner / Designer / Stakeholder 와 긴밀히 협업하여, 복잡한 비즈니스 요구사항을 단순화 시키고, 이를 높은 수준의 Front-end 디자인으로 완성시켜 여러 번 반복되는 테스트를 최소의 개발비용으로 지원
-
-• 프론트엔드 개발 경험 3년 이상 보유
-• React 프레임워크를 활용한 웹 애플리케이션 개발 경험이 있는 분
-• React, web browser에 대한 높은 수준의 이해도를 가진 분
-• React/nextjs 기술 트랜드를 따라가며 각 기술 스택의 장단점을 알고 적용 가능하신 분
-• PO가 작성한 제품 요구사항을 보고 의사소통을 통해 task를 정의하고 요구사항을 적절히 조율하여 비즈니스에 맞는 개발을 할 수 있는 분
-
-• 백엔드 개발 경험, end-to-end 프로덕트 개발 경험
-• 스타트업 코파운더 / 초기 멤버 경험
-• 최신 AI 테크 서비스(cursor 등)의 사용을 통해 생산성을 올리는데 거리낌이 없는 분"
-벙커키즈,Tech - Frontend Lead,"[기술 스택]
-Web
-• nextjs : app router 기반(23년 이전 page router)
-• 전역상태관리 : zustand(22년 이전 recoil)
-• 서버상태관리 : react query
-• 스타일 : emotion, tailwind
-• 테스트 : vitest
-
-App
-• React native와 native module
-• 기본적으로 webview로 처리하고 native 이벤트 처리가 필요한 경우 RN을 사용
-• 그 외에 native module의 구현이 필요한 경우 능동적으로 처리함
-
-[주요 업무]
-• React, nextjs, React Native(주로 웹뷰, 필요시 Native module)로 웹/앱 서비스 개발
-• Product Owner / Designer / Stakeholder 와 긴밀히 협업하여, 복잡한 비즈니스 요구사항을 단순화 시키고, 이를 높은 수준의 Front-end 디자인으로 완성시켜 여러 번 반복되는 테스트를 최소의 개발비용으로 지원
-• 프론트엔드 리드로서 기술스택의 선택을 business driven하게 선택하고 적용
-
-• 프론트엔드 개발 경험 5년 이상 보유
-• React 프레임워크를 활용한 웹 애플리케이션 개발 경험이 있는 분
-• React, web browser에 대한 높은 수준의 이해도를 가진 분
-• React/nextjs 기술 트랜드를 따라가며 각 기술 스택의 장단점을 알고 business driven하게 취사 선택할 수 있는 분
-• PO가 작성한 제품 요구사항을 보고 의사소통을 통해 task를 정의하고 요구사항을 적절히 조율하여 비즈니스에 맞는 개발을 할 수 있는 분
-
-• 백엔드 개발 경험, end-to-end 프로덕트 개발 경험
-• 스타트업 코파운더 / 초기 멤버 경험
-• 최신 AI 테크 서비스(cursor 등)의 사용을 통해 생산성을 올리는데 거리낌이 없는 분"
-원셀프월드,[애드테크/마케팅/리워드앱] 앱 개발자 (프론트엔드),"• Flutter 기반의 하이브리드 앱 신규 기능 및 운영 개발
-• React 를 활용한 일부 웹 프론트 개발 (WEBVIEW 기반)
-• NestJS 기반 REST API 연동 및 데이터 처리 최적화
-• SQLite 등 로컬 DB 를 활용한 앱 내 데이터 처리
-• 팀 내 리팩토링, 테스트 코드 작성 및 코드 품질 개선 (20%)
-• 디자이너, 기획자, 마케터와의 유기적 협업
-
-• 3~6년 경력의 프론트엔드 개발자
-• Flutter 및 Dart 기반 앱 개발 경험
-• React 및 TypeScript 기반 웹 경험 (우대)
-• NestJS 또는 유사 백엔드 API 연동 경험
-• SQLite 또는 로컬 DB 활용 경험
-• 협업과 커뮤니케이션을 중요하게 생각하는 분
-• 문제 해결과 성장에 진심이신 분
-• chatGPT, cursor 등 AI 활용에 진심이신 분
-
-• 실제 앱 출시 및 운영 경험
-• Firebase, AWS 등 클라우드 연동 경험
-• 테스트 코드 작성 및 CI/CD 경험
-• AI 기능이 포함된 앱/서비스 개발 경험
-• UI/UX 디자이너와 협업"
-테스트웍스,풀스택 개발자,"• AI 학습 데이터 생성 tool 및 프로젝트 관리 서비스의 유지 보수 및 장애 대응
-• AI 학습 데이터 생성 tool 및 프로젝트 관리 서비스의 신규 기능 개발
-• 홈페이지, 블로그 관리 
-• 사업부 사업에 대한 사업 지원
-
-ㆍHTML, CSS에 대한 이해
-ㆍReact 경험
-ㆍPython & Django 또는 Java & Spring Boot 프레임워크 중 최소 하나에 대한 개발 경험
-ㆍ경력 무관 (경력 2년 미만의 경우 포트폴리오 제출 필수 ( Python & Django 필수))
-
-ㆍ퍼블리싱 가능자"
+선데이띵커,[판다랭크] 프론트엔드 개발자,"HTMLCSS, scss, Nodejs, Express, jQuery"
+(주)코딧,[SW] 하반기 프론트엔드 개발자 인턴 채용 (React.js),"JavaScript, HTMLCSS, React, TypeScript"
+엑세스 주식회사,프론트엔지니어 개발자(주니어),"JavaScript, Kotlin, Java, reactjs, Vuejs, Angular, TypeScript, Nextjs, Jetpack, REST, API"
+(주)디에스랩글로벌,프론트엔드 개발자,"React, HTMLCSS, iOS, Android, Git"
+브이아이펫,[재택근무 주1회]펫VIP(브이아이펫)React Native 개발 가능한 풀스텍개발자 모집,"React, Native, Java, JavaScript"
+에듀클라우드,[에듀클라우드] 풀스택 개발자 경력직(5년 이상) 채용,"React, Native, Flutter, expo, Figma, AWS, Docker"
+아하앤컴퍼니(주),[아하] 프론트엔드 엔지니어,"Nodejs, NestJS, TypeScript, SEO"
+(주)필라넷,.NET 웹개발자 채용,"ASPNET, Core, ASP, MSSQL, NET, jQuery, JavaScript, SharePoint"
+엑세스 주식회사,프론트엔지니어 개발자(시니어/미들),"JavaScript, Kotlin, Java, reactjs, Vuejs, Angular, TypeScript, Nextjs, Jetpack"
+빅테크플러스,[빅테크플러스] 풀스택 개발자 채용,"Java, Kotlin, TypeScript, JavaScript, React, CICD, DBMSRDBMS, springjpa, ORM"
+주식회사 서큘러스,SW개발자 채용,"React, tailwindcss, Nodejs, MongoDB, Python, GitHub, JavaScript"
+피벗 주식회사,React 개발자,"React, reactjs"
+커넥션스튜디오,프론트엔드 개발자,"React, TailWindCSS, JavaScript, TypeScript, reactquery, Redux, zustand, GitHub"
+로플랫,웹 개발자,"loplat, X, DMP, Reactjs, Redux, Recoil, Python, FastAPI, MySQL, Redis, BigQuery, Git, Jira, Slack, Notion, React, JavaScript, REST, API, TOPIK, JS, E2E, SSR, TypeScript, Webpack, AI"
+블루밍그레이스,Frontend Engineer,"HTML, CSS, JavaScript, Python, Frontend, AI"
+에스엠하이플러스,Front-end Engineer,"UIUX, iOS, App, Store, Connect, REST, API, Swift, SwiftUI, Flutter, React, Native, UIKit, XCTest, Core, Data, RESTful, ObjectiveC, Google, Play, Console, CICD, Jenkins, GitHub, Actions, NFC, GPS, Vuejs, Spring, MyBatis, TypeScript"
+위메이드(WEMADE),프론트엔드 개발(WEMIX PLAY),"Wemix, Play, Console, FE, App, Wallet, Connect, Javascript, SDK, Back, Office, Injected, Module, TypeScript, React, Nextjs, SSR, JavaScript, CSS, HTML, RESTful, API, jsonrpc, Web3js, ethersjs, connect, Blockchain, UIUX, Git, Jira, Confluence"
+위펀(스낵24),프론트엔드 개발자 (Frontend/React),"React, TypeScript, RESTful, API, GraphQL, UIUX, Jest, Cypress, E2E, CICD, JavaScriptES6, HTML5, CSS3, Git, Semantic, Markup, UI, UX"
+제논,[인공지능솔루션] Frontend 개발자,"React, GenOS, UIUX, AI, Nextjs, App, Router, TypeScript, HTML, CSS, SCSS, WebSocket, ServerSent, Events, Data, Fetching, Rendering, Routing, QA, Docker, Deep, Learning, Framework"
+먼치팩토리,[hourplace] React 프론트엔드 개발자,"UIUX, React, API, Lazy, Loading, Git, CICD, JavaScript, HTMLCSS, UI, Jira, Slack, SEO, TypeScript"
+펫프렌즈,프론트엔드 엔지니어,"APPWEB, UIUX, ReactJS, JavaScriptes6, CSS3, HTML5, Git, GitHub, VueJS, NextJS"
+메딜리티,Frontend Engineer (React & Flutter),"Flutter, React, on, Nextjs, Docker, Github, Actions, AWS, EC2, ECR, Slack, Notion, Google, Workspace, JIRA, Confluence, PillEye, Webview, PouchEye"
+에이든랩,웹 프론트엔드 개발자,"Incode8, AI, HTML, CSS, JavaScript, HTTP, React, TypeScript, Nextjs, Git, Zustand, TanStack, Query, Docker, Webpack, Vite, CICD, UI, SSR, UXUI, AWS, v1+, Recoil, Redux, Tailwind, styledcomponentsAPI, RESTful, API, GitHubGitLab, JIRA, Jest, Testing, Library"
+슈퍼센트,프론트엔드 개발자 (3년 이상),"Break, Things, Move, Fast, Grow, Together, UIUX, React, Redux, Javascript, GCP, AI, ChatGPT, Docker, Typescript, D3js, Recharts"
+힐링페이퍼(강남언니),웹 프론트엔드 개발자,"Product, Owner, TypeScript2, ReactNextjs, MonorepoTurborepo, Nodejs3, ReactQuery4, Tailwind, Styledcomponents5, PNPM6, AWS, Kubernetes, NextjsReact, CSS, styledcomponents, CICD"
+불마켓랩스,Front-End Engineer,"Dev, API, nextjs, flutter, typescript, javascript, reactjs, Github, action, Clean, Architecture, Hexagonal, architecture"
+프리윌린,[개발팀] Tech Innovation 워킹그룹 풀스택 개발자 (8년 이상),"QA, AI, React, TypeScript, SPAReact, Vuejs, Angular, KotlinJava, with, Spring, Python, Nodejs, Golang, RDBNoSQL, ORM, AWS, Cloud, Kubernetes, GPT, LLM, ReactAdmin, MUI, Windows"
+엘박스,Frontend Engineer,"Angular, Nextjs, MonoRepo, React, OKR, TypeScript, Tailwindcss, Vitest, Playwright, Storybook, Npm, Yarn, Github, Actions, Reactjs, Typescript, Git, TDD, E2E"
+런업,[풀스택] 개발자 채용 SCM 스타트업,"SQL, AWS, GCP, SCM, Azure, JAVA, js, ERP, CRM, IT"
+페칭,패션 플랫폼 React 프론트엔드 개발자,"Reactjs, WEB, ADMIN, Webview, ReactNative, React, Native, NextJS, Tailwind, CSS, Recoil, Redux, styledcomponents, Notion, Slack, HTMLCSSJavaScriptES2, TypeScript, Flutter"
+밴플,[여행] [AI] [위치기반] 프론트엔드 앱 개발자(React Native),"EODI, React, Native, Git"
+위메이드(WEMADE),프론트엔드 개발(Wepublic),"Wepublic, HTML, CSS, Javascript, React, Vue, Angular, Typescript, Webpack, Babel, Jest, esLint, Nuxtjs, Nextjs, SSR, WebGL"
+위메이드(WEMADE),블록체인 메인넷 개발,"WEMIX, governance, contract, Go"
+부스터스,Software Engineer (Front-End),"Tech, BI, Software, Engineer, FrontEnd, UIUX, Vuejs, IT, vuejs, Framework"
+벙커키즈,Tech - Frontend Lead,"Web, nextjs, app, router, page, zustand2, recoil, react, query, emotion, tailwind, vitestApp, React, native, module, webview, RN, Native, Product, Owner, Designer, Stakeholder, Frontend, business, driven, web, browser, Reactnextjs, PO, task, endtoend, AI, cursor"
+벙커키즈,Tech - Frontend Engineer,"Web, nextjs, app, router, page, zustand2, recoil, react, query, emotion, tailwind, vitestApp, React, native, module, webview, RN, Native, Product, Owner, Designer, Stakeholder, Frontend, web, browser, Reactnextjs, PO, task, endtoend, AI, cursor"
+원셀프월드,[애드테크/마케팅/리워드앱] 앱 개발자 (프론트엔드),"Flutter, React, WEBVIEW, NestJS, REST, API, SQLite, DB, Dart, TypeScript, chatGPT, cursor, AI, Firebase, AWS, CICD, UIUX"
+테스트웍스,풀스택 개발자,"AI, tool, HTML, CSS, React, Python, Django, Java, Spring, Boot"
+와이피랩스(커넥팅),프론트엔드 개발자(React Native) (2년차 이상),"React, Native, native, redux, saga, reactjs, Swift, android, NPM"
+미리디,[미리캔버스] 프론트엔드 개발자,"React, Nextjs, SSRServerSide, Rendering, Micro, Frontends, SSR, HTML, CSS, JavaScript, HTTP, Typescript, jotai, ReactQuery, styledcomponents, Turborepo, Vite, Webpack, Rollup, CICD, GitHub, Actions"
+넥스트증권,Frontend Developer,"UXUI, AI, AB, React, Next, RESTful, API, GraphQL, Git, TypeScript, Jest, Cypress, CICD, iOSAndroid, AWS, GCP"
+오너클랜,"개발자 백엔드(API, 2년 이상)(GraphQL, typescript)","GraphQL, typescript, NodeJs, MySQL, MariaDB, RDBMS, LinuxUnix, Git, MySQLMaria, DB, API, Typescript, javascript, AWS, GCP, NHN, Cloud, Redis, Elasticsearch, GitGitlab, VisualStudioCode, Docker, Gitlab, MR, CI, DevContainer, Jenkins, Sentry, PRTG, NodeJS, graphQL, MySQLMariaDB, elastic, search"
+화이트큐브,[챌린저스] 프론트엔드 개발자 (3년 이상),"React, NativeReact, Native, TypeScript"
+웨이브릿지,Front-end Developer,"Frontend, Web, UX, React, TypeScript, HTML, CSS, JavaScript, Backend, UIUX, Nextjs, ReactQuery, Jotai, Tailwind, Emotion, MonorepoNx, Vite, Storybook, Bitbucket, Figma, Slack, Jira, Confluence"
+코어시큐리티,[Web] 프론트엔드 개발자 (4년차 이상),"SISM, DBMS, JavaScriptReact, CSS, HTML, React, Elastic, Search"
+온라인셀러혁신법인,[바이나우] React Front-End Engineer,"ReactJS, VueJS, VOC, React, Vuejs"
+마이리얼트립,프론트엔드 개발자,"PM, QA, React, Typescript, Emotion, Scss, Jest, Storybook, reacttestinglibrary, Webpack, Babel, Yarn, XSLT, XML, JQuery, Javascript, Reactjs, viewport, UIUX, JSP, Nextjs, Ruby, On, Rails, webpack, rollup, parcel"
+마이노멀컴퍼니,[인아웃] 프론트엔드 개발자 (3년 이상),"React, Native, Nextjs, Typescript, ReactQuery, Docker, B2C, UI"
+미소(miso),Salesforce Developer,"Salesforce, Sales, Cloud, Service, Platform, Developer, III"
+다임리서치,웹 프론트엔드 개발자 (AI 로봇 관제 솔루션),"Visual, Component, Web, UI, Library, TypeScript, React, Storybook, workspace, WEB, BE, ASP, Net, core, Nodejs, Java, Spring, GL, Renderer, Pixijs, MMORPG"
+모니모니,React Native모바일 앱 개발자(5년 이상),"React, Native, Third, Party, SumOne, Hook, Mobile, Application, iOS, Android, graphql, JavaScript, TypeScript, ES6, UI, Git, Nodejs, DAU, UIUX"
+씨메스(CMES),front End 개발자(threejs),"3D, Rendering, Rendering3, typescript, python, framework, threejs, unity, react, webgl, unreal, opengl"
+두잉랩,프론트엔드 개발자(Web),"AI, Vite, TypeScript, Nextjs, redux, tanstackquery, shadcnui, tailwindCSS, Github, Jira, Confluence, Slack, React, Vue, Web, Framework, HTML, CSS, JavaScript, HTTP, Restful, API, PC"
+뤼튼테크놀로지스,[크랙] Mobile App Engineer (3년 이상),"AI, Generative, React, Native, iOS, Android, Module, App, CICD, WebSocket, WebRTC, Reanimated, Skia, 2d, LLM"
+이마고웍스,Solution Developer,"3D, AI, CAD, CMake, Mesh, Volume, DICOM"
+글로지(GloZ),프론트엔드 개발자 (7년 이상),"Nextjs, React, AI"
+스마트푸드네트웍스,프론트엔드 개발자,"Reactjs, Nextjs, ReactQuery, Jotai, TRPC, TailwindCSS, TypeScript, PNPM, Webpack, HTTP, SSR, formatter, linter, bundler"
+래피드글로벌,프론트엔드 개발자,"Commerce, Class, Community, FirstCommunityCore, Squad, React, Nextjs, Zustand, Query, Hook, Form, Tailwind, CSS, Vercel, Chrome, Extension, GitHub, Slack, Notion, Confluence, Jira, AI, Monorepo, CICD, SSR, SSG, Test, Driven, Development, TDD, UI"
+브레인즈컴퍼니,프론트엔드 개발자 (5-10년),"Vue, React, SPA, Framework, JavaScript, SQL"
+통로이미지,[클립아트코리아] 에디터팀 프론트엔드 웹개발자 (Next.js/React),"NextJs, React, ReactNextjsTypeScript, Git, Jira, Agile"
+에브리심,시뮬레이션 소프트웨어 개발자,"CAE, SaaS, React, UIUX, API, CPU, TypeScript, Nodejs, Git, AWS, GCP, C#, Python, CAD, Threejs, Solidworks, CATIA, Inventor, AIMLDL, Pytorch, TensorFlow, WebAssembly"
+플랜바이테크놀로지스,Front-End Engineer,"AI, B2B, Nextjs, +, Tailwind, CSS, UX, Education, Experiences, React, TypeScript, JavaScript, RESTful, API, GraphQL, UIUX, Skill, Knowledge, Vercel, HTML, CSSSCSS, JavaScriptES6+, Zustand, Git, Nodejs, Express, NestJS, SaaS, AWS, Firebase"
+콥틱(브리즘),프론트엔드 (React) 리드 개발자 (5년 이상),"UIUX, React, Recoil, UI, Redux, Context, eg, Accessibility, TypeScript, Nextjs, Gatsby, Socketio, Material, Zustand, Jira"
+뉴스젤리(Newsjelly),풀스택 웹 개발자 (책임급),"#, DB, API, Python, JavascriptTypescript, Java, FlaskDjangoFastAPI, Spring, ReactNextjs, Docker, K8s, SaaS, Onpremise"
+뉴스젤리(Newsjelly),웹 프론트엔드 개발자 (3년 이상),"#, HTMLCSSJavascript, D3Highcharts, CSVJSON, VueReact, SPA, ViteWebpack, Typescript"
+보끄레머천다이징,AI Data 분석 및 자동화,"Fashion, Multimodal, AI, Agent, MD, Python, MCP, Web, Full, Stack, +, REST, API, AWS, GCP, SQL, NoSQL"
+팀플러스,[티켓베이] 프론트엔드 개발자,"Nextjs, WebView, UI, NextjsReact, HTMLCSS, Redux, Recoil, TypeScript, Git, PR, Android, iOS, RESTful, API"
+아이오트러스트,프론트엔드 개발 (블록체인/Web3지갑),"Web3, Dapp, UXUI, AndroidiOS, Hybrid, Mobile, App, API, Nodejs, Vuejs, Vue, React, Typescript, Pinia, Vite, Web3js, Github, VSCode, Yarn, Storybook, Slack, Notion, ChatGPT, CICD, Javascript, HTML, CSS, Composition, api, Native, Webpack, Contract, Apache, NGINX, AI"
+에스에스알,프론트엔드 개발자,"React, Typescript"
+핀포인트,프론트엔드 개발자(ReactNative) 3년 이상,"Taap, ReactNative, Typescript, Git, iOSAndroid, React, iosandroid, B2B, IT, GCP, CICD, rest, api, Sentry, Firebase, dev, stg, prod, Confluence, Figma, JIRA, Slack, Macbook"
+아파트아이,Front-end 개발자 (5년 이상),"React, HTML, CSS, xJavaScriptES6, Git, Jira, Reactjs, Framework, Nextjs, pages, router, UI, library, v1, reactquery, zustand, WebView, CICD, exd3js, Storybook"
+더백커스,[Backersby] 백엔드 개발자,"Backersby, API, AWS, Fargate, RDS, JavaSpring, Boot, RESTful, MySQL, PostgreSQL, RDB, Git, EC2, S3, Kafka, Redis, Lambda, SQS, DevOpsCICD, GitHub, Actions"
+라이드,Frontend Engineer (3년),"Web, WebView, Admin, UIUX, PMPO, Reactjs, Nextjs, Typescript, Git, Modern, JavaScriptES6, JavaScript, npm, yarn, CS, REST, API, clean, code, architecture, TDD, Refactoring, Code, Review, React, Native"
+스튜디오프리윌루전,[인턴] 프론트엔드 개발자,"AIKive, aikivecom, HTML5, CSS, JavaScript, ES6, React, REST, API, Jira, Github, TypeScript, IT, AI"
+피클플러스,프론트엔드 주니어 개발자,"TypeScript, React, Nextjs, JavaScript, Vue, HTTP, REST, API, Git, UI, SSR, AWS"
+버즈빌(buzzvil),[광고 운영 플랫폼팀] 프론트 엔드 개발자 (3년 이상),"SelfServe, UX, UIUX, Vuejs, AB, Automation, Rule, React, Typescript, Jest, nodejs, Github, Action, ArgoCD, Jira, Confluence, Slack, Figma, Datadog, Grafana, Prometheus, Loki, Sentry, Vue, Angular, B2B, LLM, AI"
+버즈빌(buzzvil),[Ad Expansion팀] 프론트 엔드 개발자 (3년 이상),"Ad, Expansion, Nextjs, React, Jest, UIUX, Tailwind, css, Figma, Vuejs, Typescript, AB, Datadog, RUM, Sentry, Google, AnalyticsAd, Jira, Confluence, Slack, Github, Action, Spinnaker, Loki, Analytics, Monorepo, Turborepo, Lerna, yarn, workspace"
+쿠팡,"Sr~Staff, Front-end Engineer(Fintech Frontend)","Product, Owner, UX, Designer, SW, Engineer, product, Web, Frontend, JavaScriptES6, TypeScript, HTML5, CSS, React, Redux, Vuejs, Angular, Webpack, Babel, Jest, Storybook, UI, Component, Lean, SPASingle, Page, Application, SSRServer, Side, Rendering, Nodejs, Express, NestJs, Git, CICD, Spring, Framework, Micro, service, architecture, Open, API, SDK"
+닥터다이어리,프론트-엔드 개발자(2년차 이상),"B2B, Javascript, Typescript, Nextjs, Recoil, TanStack, Query, B2C, RESTful, UIUX, Github, Slack, Jira, Figma, Notion, iOSAndroid, App, Server, Side, Rendering, Nodejs, Storybook, Sentry, Datadog"
+닥터다이어리,Android 개발자(3년차 이상),"Android, Kotlin, Clean, Architecture, Jetpack, Compose, UIUX, Dependency, Injectionex, Dagger2, Koin, Coroutines, Flow, ViewBinding, Multi, Module"
+비브스튜디오스,프론트엔드 개발자,"Reactjs, Electron, JavaScriptES6+, TypeScript, HTML5, CSS3, ReduxZustand, RESTful, API, Jest, ESLint, Vite, Nodejs, Nextjs, JavaScript, TypeScriptRedux, Zustand, APIsHTML5, Tailwind, CSS, shadcnuiGit"
+플레이링스,클라이언트 개발자-병역특례 보충역(산업기능요원),"#, C++, Javascript, Cocos2DX, Android, iOS, OpenGL, WebGL"
+르몽,프론트엔드(F/E) 개발자,"Front, End, React, Native, AI, SPA, REST, API, UIUX, TypeScript, Github, Jira, Confluence, Figma, Slack, Pull, Request, AWS, Code, pipeline, CI, Cloudwatch, Mixpanel, Mobile, App, Vuejs, Frontend"
+리액트피크,축구 iot 장비 개발자,"IoT, Flutter, EmbeddedPythonRaspberry, pi, pico, or, CESP3, Firebase, Application, MVVC, Pattern, BLE, Connection, Data, License, framework, Android, IOS, ESP3, Raspberry, Pi, App, Database, Postgre, SQLMy, SQL, Rest, API, Fast, Agile, UIUX, My, SQLPostgre, Refactoring, APIRest"
+코드스테이츠(CodeStates),Product Engineer,"B2C, B2B, AWS, DevOps, Kakao, Mixpanel, API, TypeScript, React, Nextjs, Nodejs, Nestjs, RDBMSPostgreSQL, RESTful, GitHub, Bitbucket, CICD, Notion, Jira, Frontend, App, Router, Jota, MUI, Backend, REST, InfraDevOps, ECS, S3, CloudFront, Lambda, Slack, Git, AI"
+레브잇,Software Engineer (프론트엔드),"Growth, FeatureCommerce, Platform, Frontend, UX, HTML, CSS, TypeScriptJavaScript, ReactVueAngular, React, Native, API, GraphQL, Relay, Query, AWS, EC2, S3, Lambda, Route, CloudFront, CICD, GitHub, Actions, Argo, CD, Git, MobX, zustand, Datadog, Sentry, Slack, Jira"
+이롬넷,IT실 플랫폼 개발자,"REST, API, React, Vue, Angular, SPA, Frontend, Java, JavaScript, SpringBoot, vertx, Jenkins, SonarQube, Mysql, kafka, KRaft, Redis, Nginx, Git, Confluence, Jira, Slack, UIUX, CICD"
+비즈니스캔버스,Re:catch 프론트엔드 엔지니어(3년 이상),"UX, Peer, Review, UIUX, Tooling, Frontend, DX, React, TypeScript, Nextjs, RxJS, Tanstack, Query, Vitest, Playwright, Storybook, Styled, Components, Ant, Design, PNPM, CICD, Github, Actions, Turborepo"
+헤렌,[브랜다즈] 자바/코틀린 백엔드 개발자,"B2C, Core, Batch, Kotlin, SpringBoot, JavaKotlinSpring, RESTful, REST, API, RDBMS, AWS, Infrastructure, DockerECSK8S, Java, Kafka, JPAHibernate, Postgresql, IntelliJ, DataGripGitHub, Slack, Notion, AWSECS, EB, EKS, Jenkins, CICD"
+아스타,Gen AI 서비스 프론트엔드 개발자 (4년차 이상),"ASTARMIZE, UX, API, TypeScript, JavaScript, Nextjs, React, Vite, Router, Recoil, Zustand, TanStack, Query, QueryCSS, Tailwind, CSS, Hook, Form, ZodUI, Radix, UI, shadcnui, Framer, Motion, ESLint, PrettierHTTP, Axios, Tiptap, Konva, reactkonva, i18next, reacti18next, Expressjs3D, Threejs, AI, api, UXUI, AWS, Azure, Jest, Mocha"
+시그니처알앤디,웹 앱 개발자,"JavaScript, HTML, CSS, React, Angular, Vuejs, PHPASP, Nodejs, Python, Ruby, AWS, Azure"
+부동산플래닛,프론트엔드 개발자,"O2O, React, Nextjs, TypeScript, Zustand, ReactQuery, Tailwind, CSS, webpack, OpenLayers, D3, PO, git, jira, GeoServer"
+굳센,백엔드 개발자,"Java, Python, Pyautogui, UI, Jupyter"
+코딧(CODITCorp.),프론트엔드 개발자 (React.js 2년이상),"ReactJS, NextJS, JavasScriptES6, Typescript, CSS, HTML, Javascript, React, Webpack, Vite, Babel, redux, Zustand, reactquery, Git, Jira, Jest, Jasmine, Mocha"
+스윕(Sweep),"[Full Stack, AI-Driven] Software Engineer","POPD, AI"
+헥토이노베이션,플랫폼개발실 서버 및 클라이언트 개발 (7년 이상),"Front, API, Java, Spring, boot, Web, JSP, javascriptJQuery, AJAX, reactvuejs, Frontend, RDBMSMySQL, Table, SQL, Linux, Apache, Tomcat, Native, AppWEB, JAVA, Boot, javascriptJquery, react, vuejs, Oracle, MySQL, Jenkins"
+메디쏠라,프론트엔드 React 개발자 (4년 이상),"React, HTML5, CSS3, JavaScriptES6+, Typescript, Rest, API, GraphQL, UX, NextJS, SSR, Supabase, PostgreSQL, MySQL, SQL, Redux, Recoil, Zustand, Tailwind, tanstack, Flutter"
+식스티헤르츠,Software Engineer - 전문연구요원(병역특례 채용),"SaaS, B2B, B2C, Web, Application, admin, jsp, UI, React, Nextjs, typescript, react, recoil, nextjs, vite, tailwindcss, sass, jQuery, mapbox, express, docker, AWS, Java, Spring, Oracle, MyBatis, JPA, Jenkins, Github, Action, Redis, RabbitMQ, Kafka, Python, Django, Flask, FastAPI, pytest, Airflow"
+젭(zep),프론트엔드 개발자,"1on1, PR, FE, Weekly, WILWeekly, I, Learned, with, pdf"
+고퀄(GOQUAL),프론트엔드 개발자,"IoT, dashboard, Backend, REST, API, RBAC, Tenant, Admin, CustomerUser, WebSocketMQTT, AGGrid, EChartsD3js, CSVExcel, UX, JWT, React, QuerySWR, TypeScript, APIWebSocket, ReduxZustandReact, Query, JestCypress, Git, AWS, core, Dashboard, ECharts, D3js, WebpackVite, DockerKubernetes, OAuth, iOS"
+두어스,프론트엔드 엔지니어,"ZVZO, React, Native, NextJS, UX"
+마카롱팩토리,프론트엔드 개발 (5년 이상),"React, TypeScript, JavaScript, HTML, Redux, Recoil, Context, api, interface, Native"
+쿠팡,[쿠팡] 프론트엔드 개발자 (7년 이상),"Frontend, engineer, webplatform, align, communication, Product, Owner, Designer, Stakeholder, Engineer, Legacy, Roadmap, Coupang, web, platform, PCMobile, FE, Web, React, application, Ecommerce, AWS, MSA, ES6, Nodejs, Mongojs, or, Elasticsearch"
+픽소(PIXO),시니어 프론트엔드 엔지니어,"React, TypeScript, Nextjs, ReactQuery, Zustand, npm, yarn, pnpm, Webpack, ESBuild, SWC, Babel, CICD, GitHub, Actions, Vercel, Slack, Notion, Clickup, Figma, IT, HTML5, CSS3, Typescript, ECMAScript, RESTful, API, UI, Singlepage, Application, FSD, Architecture"
+스펙터,Frontend Engineer,"Admin, B2B, B2C, Frontend, React, Nextjs, Typescript, tailwindcss, CSSinJS, css, reacthookform, formik, yup, zod, form, SSR, typescript, nextjs, zustand, reactquery, tailwind, scss, emotion, radixui, turborepo, pnpm, storybook, vitest"
+디엘티파트너스,Android 앱 개발자,"AI, Android, Java, Kotlin, MVVM, RxSwift, UIUX, HIG, CICD, React, Programming"
+오토엘(AutoL),FPGA 로직 개발자 (6년이상),"Top, Design, Xilinx, Zynq2, IP, RTL, AMBA, Simulation, Verification5, FPGA, Zynq, VerilogHDL, Fixed, pts"
+플래티어,[그루비 SaaS 솔루션] 백엔드 개발자 (2~5년),"JAVA, SPRING, REST, API, Spring, Boot, 2x, 3x, OpenJDK, Gradle, 6x, GitMongoDB, 4x, PostgreSQL, Google, BigQueryAWS, ec2, ecs, ecr, s3, ses, JiraConfluence, Github, IT, SpringBoot, javascript, jquery, json, Git, AWS, GCP, RDB, MongoDBAgile"
+백프로,해빗파워 어플리케이션 flutter 개발자,
+픽셀스코프,프론트엔드 엔지니어,"VAR, Javascript, Typescript, React, NextJs, Html, Css, Scss, Tailwind, Figma, Docker, Github, Actions"
+스튜디오랩(STUDIO LAB),프론트엔드 시니어 개발자 (8년차 이상),"GENCY, Frontend, Developer, UI, Canvas, API, Konva, JavaScript, SDK, TypeScript, React, WebGL3D, Nextjs, Vite, State, Management, Zustand, Context, Data, Fetching, Query, Styling, Tailwind, CSS, Rendering, HTML, Design, System, Storybook, Figma, canvas"
+렛유인에듀,PHP 개발자,"BackEnd, FrontEnd, PHP, FrontEndWeb, publishing, CodeIgniter, MySQL, RDBMS, API, Git, HTML, CSS, javascript, Ajax"
+비버웍스,React-Native 앱 개발(프론트엔드),"ReactNative, FB, MVP, PO, Product, Designer, Frontend, TypeScript, recoil, reactquery, UIUX, IT, UI, React, Native, iOSAndroid, App"
+피클플러스,프론트엔드 개발자,"TypeScript, React, Nextjs, Native, Monorepo, AWS, GitHub"
+식스티헤르츠,"[굿뉴스에너지] Frontend Engineer(TypeScript, React)","RE1, Registry, TypeScript, React, B2B, B2C, Web, Application, admin, UX, Typescript, typescript, react, redux, recoil, nextjs, vite, tailwindcss, sass, mapbox, express, docker, AWS, space, time, complexity, SW, selfmotivated"
+다우기술,법인매매 시스템 개발,"LP, OMS, ALTIBASE, C, C++, Jira, KIMS, SVN, C++Unix, Linux, TCPIP, UDP, UnixLinux"
+다우기술,콜센터 고객상담시스템 개발,"ARS, Java, Spring, framework, MVC, Security, jquery, Vuejs, ProC, Eclipse, Jira, Jenkins, Maven, Nexus, SVN, Sparrow, Web, Application, FrameworkJSPServlet, Ajax, HTML, CSS, JavaScript, Jquery, FrontEnd, DB, Table, SQL"
+다우기술,투자정보서버 개발,"SORSmart, Order, Routing, KRX, NXT, Unix, Linux, C, proC, Redis, DBOracle, MySQL, Jira, Mantis, KIMS, redmine, SVN, DB, ISAM, UnixLinux, TCA"
+다우기술,Web/WTS 채널 개발,"WTS, Java, Spring, framework, MVC, Security, jquery, Vuejs, ProC, Eclipse, IntelliJ, Jira, Jenkins, Maven, Nexus, SVN, Sparrow, Web, Application, Framework, JSPServlet, AJAX, MyBatis, JavaScript, JQuery, netty"
+다우기술,공통 SW 아키텍처 개발,"C, ProC, JAVA, Spring, Framework, HTML, CSS, JavaScript, Jquery, Oracle, MySQL, LinuxUnix, Eclipse, RCP, SVN, Jenkins, Jira, TCPIP, UDP, TUXEDO, UnixLinux"
+뷰런테크놀로지,Frontend Developer(프론트엔드 개발자),"Vueron, FE, UI, package, Lidar, 3D, Point, Cloud, Data, Frontend, HTML, CSS, React, Angular, Vuejs, JavaScript, ThreeJS, WebGL, Web, Worker, WASM, TypeScript, Design, Pattern"
+씨드앤,프론트엔드 리드 개발자 (6년 이상),"React, ReactNative, TypeScript, TanStackQuery, Jotai, Emotion, Yarn, ReactReact, Native, UX, HTML, CSS, JavaScript, Agile, NativeiOS, Android, IoT"
+리비바이오,[병역특례] 프론트엔드개발 산업기능요원,"Nextjs, Vercel, AWS, React, SPA, query, Zustand, Recoil, REST, API, GraphQL, Functional, programming, OOP, SSR, Git"
+콘텐츠퍼스트(Tappytoon/태피툰),Sr. Frontend 개발자 (5년 이상),"React, SPA, Redux, Recoil, Zustand, AZ, ReactNative, iOS"
+콘텐츠퍼스트(Tappytoon/태피툰),서비스 프론트엔드 개발자 (3년 이상),"Native, Web, React, Angular, Vue, SPA, UIUX, SSR, ReactNative"
+버블콘,프론트엔드 개발자,"React, Nextjs, TypeScript, HTML, CSS, JavaScript, ES6+, Webpack, Vite, Electron, Flutter, Native, Docker"
+휴멜로,"[생성형 인공지능] Frontend Engineer (Senior, 전문연有)","Position, Overview, AI, TTS, RTE, What, Youll, Do, ReactNextjs, TypeScript, Vite, SSR, React, Server, Component, Core, Web, VitalsLCP, FID, CLS, WCAG, UX, Technical, Skills, or, Query, SWR, Recoil, Redux, Lexical, RTERich, Text, Editor, WebSocket, ServerSent, EventsSSE, Audio, API, Bundle, Analyzer, Sentry, Datadog, GA, CI, Soft, Turborepo, Yarn, Workspace, Playwright, Vitest, GitHub, Actions, Jenkins, CICD, NodejsExpress, NestJS, RESTfulGraphQL, DockerKubernetes, GCP, AWS, Azure, CDN, i18n"
+펑타이그레이터차이나(피티코리아),사이트 QA 자동화를 위한 Tool 개발 (계약직),"Nodejs, Python, QA, AWSGitlabGithub, mysql, DB, AI"
+사고링크,프론트엔드 개발(3년 이상),"AI, UIUX, HTML, CSS, JavaScript, React, Vuejs, CS, Native, Flutter, Nodejs"
+씨메스(CMES),백엔드 개발자,"AI, Airflow, Kubernetes, Ansible, ELKStack, Elasticsearch, Logstash, Kibana, Grafana, MLFlow, KubeFlow, TestDriven, Development, TDD"
+피플리,프론트엔드 개발자 (5~10년),"React, NextJS, TypeScript, UIUX, Figma, UI, SSRCSR, RESTful, Git, B2C, Jira, Confluence, CICD, GitHub, Actions, DevOps"
+파우컴퍼니,[파우더룸] 프론트엔드 개발자,"httpsstackshareiopowderdevmystack, Vuejs, HTMLCSS, SPA, RESTful, API, ES5ES6, Typescript"
+컨시언스파트너스,"주니어 프론트엔드 개발자(Next.js, Typescript)","LLM, ERP, AI, Nextjs, +, App, Router, SSRCSR, Tailwind, CSS, ShadcnUI, Git, Github, UI, Autogeneration, CMS, PostgreSQL, Prisma, Drizzle, ORM, JWT, RBAC, Auth, flow, API, RESTful, RPC"
+피피비스튜디오스(PPB Studios Co.),프론트엔드 개발자,"httpshapakristincokr, httpschuulenskr, httpsshopwincapp, Git, Jira, UI, AWS, EC2, S3, Amplify, Lambda, CloudFront, Docker, V"
+현대오토에버,[SDx] Frontend Developer - 스마트팩토리 서비스 개발,"UI, FW, JavaScript, HTMLCSS, Vuex, Webpack, React, Angular, Vue, SPA, SCSS, SASS, CSS, vuejs, i18n, Java, MSA, Tool, VScode, Git, GitLab, Jira, Confluence"
+현대오토에버,[SDx] Backend Developer - IT+OT 융합시스템 개발,"IoT, Data, Edge, Device, Lake, FrontEnd, Vue, BackEnd, JavaSpring, FW, SQL, Restful, API, GIT, JIRA, CONFLUENCE, C#, PL, CICD, scikit, learn"
+현대오토에버,[SDx] Backend Developer - 에너지관리시스템 개발,"UI, FrontEnd, Vue, BackEnd, JavaSpring, FW, SQL, Restful, API, GIT, JIRA, CICD, Web, FEMS, k8s"
+현대오토에버,[EnIT] Frontend Developer - H Chat 서비스 운영 및 개발,"H, Chat, FE, reactjs, nextjs, CSSHTML, redux, recoil, Git, MVC, MVVM, Http, RESTful, API, Flutter, React, Native, AWS, Google, Cloud, Azure, UIUX"
+현대오토에버,[EnIT] Backend Developer - 생산계획시스템 개발/운영,"Back, End, EV, APSII, DBMariaDB, MySQL, PostgreSQL, DBOracle, TIbero, SQL, DB, Linux, Java, Spring, FrameworkSpring, Boot, SCM, FrontEnd, PartBackEnd, Part, API, Git, Gitlab, CI"
+세이프닥,헬스케어 플랫폼 프론트엔드 개발자(4년 이상),"B2B, B2C, SafeDoc, React, Nextjs, Javascript, TypeScript, Ant, Design, Query, Zustand, Tailwind, CSS, ReactTypescriptNextjsNodejs, rest, api, git, Figma, HTMLCSS, Component, SSR, CSR, CICD"
+현대오토에버,[EnIT] Backend Developer - 엔터프라이즈IT 서비스 백엔드 개발,"IT, SI, Pool, Java, Spring, ORMJPA, Only, SQL, MapperiBatis, Git, MVC, MVVM, RESTful, API, Cloud, Native, AWS, Google, Azure, UIUX"
+워트인텔리전스,프론트엔드 개발자 (3년 이상),"AI, Keywert, React, Nextjs, frontend, JavaScript, TypeScript"
+잇올,프론트엔드,"Web, App, Admin, AWS, yarn, berry, ReactNextjs, TypeScript, React, Query, Tanstack, Zustand, UI, tailwind3, NextJS, Typescript, REST, JSON, API, CICD, Micro, Service, Cloud, Azure, GCP"
+현대오토에버,[EnIT] Backend Developer - 해외 포워딩 시스템 개발/운영,"Interface, Frontend, vue3react, Backend, Springboot, DBMS, AWS"
+올림플래닛(OLIM PLANET),[엑스로메다]프론트엔드 개발(시니어/주니어),"FE, Language, Typescript, javascript, ES6, Framework, ReactJS, HTML, CSS, TailwindCSS, Sass, StyledComponents, Tool, Webpack, Vite, 3D, graphics, BabylonJS, etc, React, Query, Redux, MSE, WebGL, WebVR, VideoStreaming, RD, HMD, Video, Streaming, ThreeJS"
+기웅정보통신,API 시스템 개발자 (과장급),"API, Spring, Cloud, MSA, Boot, Netflix, OSS, Vue, React, Frontend, Docker, ansible, rabbitMQ, MinIO, MongoDB, postgres, git, RESTful, GraphQL, Node, js, Java"
+포티투닷(42dot),Senior Frontend Engineer (IVI App Market),"IVI, JavaScript, TypeScript, HTML, CSS, React, Git, Server, Side, Rendering, Nextjs"
+아파트멘터리,프론트엔드 개발자,"Nextjs, UIUX"
+현대오토에버,[Tech] Platform Engineer - 클라우드플랫폼 구축/운영,"IaaS, x8, SW, Shell, script, Python"
+현대오토에버,[EnIT] Backend Developer - 그룹웨어서비스 개발 및 운영,"IT, FrontEnd, BackEnd, Web, Application, Layer, APM, JAVA, Stack, log, dump, SW, HW, Container"
+현대오토에버,[M&C] Backend Developer - 커넥티드카시스템 Test 자동화 툴 개발,"Frontend, Backend, Application, Spring, boot, Techincal, System, Architecture, CICD, kotlin, React, Vue"
+미니쉬테크놀로지,프론트엔드 개발(시니어),"UXUI, React, Vue, Svelte, HTML, CSS, JavaScript, ES6+, zustand, MobX, Redux, REST, API, websocket, UI, SEO"
+넥써쓰,프론트엔드 개발자 (블록체인),"Blockchain, Dapp, SDK, Crypto, Wallet, Token, Bridging, Decentralized, Exchange, react, nextjs, native, Cursor, Claude, ChatGPT, Javascript, Npm, Connect, golang, phaser, pixi, cocoscreator, javascripttypescript, C++, C#, EVM"
+현대오토에버,[EnIT] Frontend Developer - 채용시스템 및 HR 유관 시스템 운영,"WEB, HR, PL, Web, Spring, Jsp, Jquery, Frontend, Java, Framework, Backend, framework, RDBMS, SAP, RFC, NginxTomcat, WebtobJeus, PostgreSQLTibero, API, APM, CICD"
+라이너(Liner),Frontend Engineer (전문연구요원 가능),"UIUX, AB, Typescript, React, Nextjs, SEO, CICD, Frontend, Engineer"
+현대오토에버,[EnIT] Backend Developer - 웹 시스템 개발/운영 (울산 양정),"BOM, DB, PLSQL, RDBMS, JavaSpring, Frontend, Backend, SQL, VuejsReact"
+현대오토에버,[M&C] Backend Developer - 차량 사이버 보안 백오피스 서비스 개발 및 운영,"Java, Spring, Framework, Boot, Backend, RESTful, API, DBMS, SQL, CICD, PKIPublic, Key, InfrastructureKMIPKey, Management, Interoperability, Protocol, 3TierWEB, WAS, DB, Frontend, ORMObjectRelationalMapping, Mapper, pipeline, SW"
+현대오토에버,[Tech] Platform Engineer - EAI 솔루션 개발/구축/운영,"EAI, Java, Opensource, Spring, Boot, DBMSMariadb, HTTPHTTPS, Soap, REST, Apache, Camel, Cloud, MSA, AWSPrometheusDocker, Frontend, Js, Vue, extjs, React"
+크디랩,시니어 프론트엔드 개발자(React Native),"App, ReactNative, OS, iOSAndroid, Design, System, DX, UX, React, Native, TypeScript, Git, WebView, to, Jest, RNTL, Detox, AndroidiOS, CICD"
+넥스트컬쳐,프론트엔드 개발 (3년 이상),"React, Nextjs, Native, HTML, CSS, Javascript, Vue, Angular, SPA, SSR, Typescript, Webpack, Vite, Android, iOS, Git"
+아이이에스지(i-ESG),Frontend Developer (5-10년차),"iESG, Software, SaaS, Turborepo, Nx, Monorepo, Frontend, React, Nextjs, TypeScript, addon, Reactjs, MUI, TailwindCSS, CSS, Framework, Restful, Api, WebSocket, B2B, Git, GitHub, Azure, AWS, NCP, Global, Team"
+크라우드웍스,[데이터플랫폼팀] 소프트웨어 엔지니어(프론트엔드 개발자),"Vibe, Coding, ReactTypeScript, Data, Annotation, LMS, Vue, React, Typescript, CSS, Nuxt3, Next, Sass, Git, AI, Vuejs, AWS, GCP, Java, Spring, boot, Nodejs, BackEnd"
+매스프레소(콴다),Frontend Engineer (QANDA Core),"MAU, AI, QANDA, Frontend, Chapter, Design, System, Canvas, Architecture, Refactoring, HTTP, Webdev, Engineer, Clean, AB, Test, TDD, BDD, Monorepo, React, Nextjs, TypeScript, Redux, Query, Playwright, Vitest, MSW, Tailwind, CSS, Modules, Developer, HTML, JavaScript, Vue, Angular, RESTful, API, PDF"
+렌탈페이,프론트엔드 개발 (3년 이상),"JS, IT"
+게이트플러스,온라인 개발 팀장,
+아임웹,[노코드 웹빌더 스쿼드] Front-End Engineer,"Frontend, Engineer, UX, React, Architecture, UIUX, PHP, jQuery, Bootstrap, Typescript, Wysiwyg, Drag, Drop, Vue, Angular, SPA, Nextjs, Nx, Redux, Zustand, Vite, Storybook, CICD, TDD, JQuery, Emotion, TailwindCSS, Cypress, Playwright, ReactQuery, Recoil, Jotai"
+소하테크,"웹, 앱 프론트엔드 개발자 (4년 이상)","JavaScriptTypeScript, ReactNative, React, ESNext, javascriptReact, NativeTypescriptNestjsNodejs, Frontend, nodejs, github, action, cicd"
+위에이알,[SimpleSeed] 프론트엔드(앱) 개발자,"UIUX, reactnative, TypeScript, React, native, Reactjs, Nextjs, PDF, SimpleSeed, AI, Flutter, RestfulAPI, API, Git"
+블록체인글로벌,프론트엔드 개발(과장급/7년 이상),"UIUX, React, Vuejs, TypeScript, Semantic, Markup, Sass, Stylus, CSS, SPA, Framework, E7, TDD"
+오엔제이,Frontend Engineer(7년 이상),"Weldbeing, SaaS, HTML, CSS, Javascript, React, Typescript, REST, API, UIUX, AWS, Azure, Flutter, framework, WebAssembly, ReactJS, Recoil, Native, Webpack, Nextjs"
+옵스나우,IT B2B SaaS 개발자 (Frontend),"SW, Service, Request, AI, Incident, Datadog, Prometheus, PortalAdmin, Notification, SMS, Slack, Intellij, Git, Modern, JavaScript, Framework, React, Angular, Vuejs, UIUX, Figma, Zeplin, UI, HTMLCSS, W3C, CSS, SASS, LESS, CSSinJS, API, RESTful, GraphQL, Progressive, Web, AppPWA, SPASingle, Page, Application, Redux, MobX, Responsive, Design, CrossBrowsing, Jest, Mocha, Cypress, Webpack, Vite, WebSocket, WebFlow, CICD"
+직트럭,프론트엔드 개발자 (판교),"Data, Analysis, PMS, UX, APP, Admin, React, Vue, Angular, SPA, PM"
+레브잇,Jr.Software Engineer (Frontend),"Growth, FeatureCommerce, Platform, Frontend, UX, HTML, CSS, TypeScriptJavaScript, React, Native, API, GraphQL, Relay, Query, AWS, EC2, S3, Lambda, Route, CloudFront, CICD, GitHub, Actions, Argo, CD, Git, MobX, zustand, Datadog, Sentry, Slack, Jira"
+팀울트라(글릿),프론트엔드 시니어 개발자,"UX, Typescript, React, Angular, Ionic, RN, nextjs, RxJS, Redux, Web, Standards, API, Cypress, JEST, MSW, Android, iOS"
+트렌비,프론트엔드 엔지니어,"Frontend, Web, PlatformPCMobile, web, HTML, CSS, JavascriptES6+, TypeScript, React, UI, Component, ECommerce, Service, API, Cloud, iOS, Android, hybrid, app"
+인라이플,Front-end Developer (Vue.js),"Vue, Axios, REST, API, UI, Vuejs, TypeScript, HTML, CSS, JavaScriptES6, Composition, Android, iOS, WebView"
+미니쉬테크놀로지,풀스택개발 담당,"B2CB2B, REST, API, AWS, Docker, IT, CICD"
+위버,프론트엔드 개발자(React/Node.js),"B2B, facing, UIUX, AB, NX, monorepo, Javascript, ES6+, Nodejs, Typescript, Reactjs, Nextjs, React, Query, Zustand, Hook, Form, Formik, Styled, Components, Github, AWS, Vercel, TypeScript, SSR, REST, API, Git, CICD, GA4, SEO, DX"
+선데이띵커,[판다랭크] 풀스택 Nodejs 개발자,"UI, Nextjs, JavaScript, TypeScript, AWS, HTTP, API, WebSocket, B2C"
+커넥트웨이브,[스윗트래커] 프론트엔드 개발 팀장(5년 이상),"Frontend, API, CRM, React, frontend, HTML, javascriptjquery, css, UIUX, Vuejs, SPA, framework, DJangGo, Framework, Spring, boot, MS, SQL, DB"
+프롬프트팩토리,[대구 근무] 프론트엔드 개발자,"B2BB2C, React, Nextjs, HTML, CSS, JavaScript, HTTP, SEO, AWS, ZerotoOne"
+구름,프론트엔드 개발자 (디자인시스템),"Vapor, TypeScript, React, Nextjs, Radix, UI, Sass, Vanilla, Extract, Webpack, Rollup, Tsup, Turborepo, PNPM, Lerna, Storybook, Playwright, GitHub, Actions, Vercel, Amazon, S3, CloudFront, Route, JavaScript, Monorepo, Material, Design, UIUX, WCAGWeb, Content, Accessibility, Guidelines"
+로아이,Front-end Engineer (Three.js / WebGL),"AI, Xelo, Threejs, 3D, Reactjs, CICD, UI, AWS"
+클래스101(Class101),React Native 앱 개발자,"RN, App, Expo, GraphQL, Kotlin, Swift, TypeScript, Objc, Fastlane, Gradle, Cocoapods1, iOS, UIUX, Detox, Maestro, RNTL, React, Native, CPU, Ticks, render, reactnativereanimated"
+빅밸류,웹 풀스택 개발자(5년 이상),"Map, GEO, Chart, Report, AI, UIUX, React, +, Spring, Boot, Zustand, Java, DB, Git, FullStack, AZ, Figma, Slack, PostgreSQL, MariaDB, Docker, k8s, AWS, GCP, Naver, Cloud, JavaScriptTypeScript, HTML5, CSS3, ORM, Python, MavenGradle"
+메이크스타,Software Engineer,"Software, Engineer, Product, Owner, Designer, Data, Analyst, DevOps, Kpop, CS, VuejsNuxtjs, Flutter, PythonDjango, FastAPI, JavaSpring, GCP, Sentry"
+현대오토에버,[FE Engineering] 개발/운영 및 Governance 체계 수립 - Frontend Engineer,"Governance, Toolchain, Frontend, JavaScript, TypeScript, HTML, CSS, React, Vue, GitLab, GitHub, Actions, CICD, DXDeveloper, Experience, CLI, AgileScrum"
+루티너리,[Dev] RN Developer,"React, Native, NativeTypescript, mobx, zustand, firebase, reactquery, native, A, to, Z"
+에이치투비즈,프론트엔드 개발자,"JavaScript, TypeScript, Reactjs, React, native, Redux, Recoil, git, Web, view"
+콜로세움코퍼레이션,Frontend Engineer(Lead),"colo, Slack, Confluence, Google, WorkSpace, ReactJS, HTML, CSS, JavaScript, ReactNextjsTypescriptStorybookemotionjavascriptjqueryhtml5jsp, OpenCloud, Git, TypeScript"
+"브레이브모바일(숨고,Soomgo)",Sr. Front-end Engineer,"Nextjs, Vue, Typescript, ReactQuery, Redux, Vuex, Storybook, Jest, Docker, AWS, Jira, Confluence, Slack, Frontend, Framework, Next, Modern, React, Angular, SSR, SEO, UI, API, Technical, Writing, Webpack, Rollup, Chapter, Lead, Isaac"
+후플렉스,React/Next.js 프론트 개발자 (신입),"ReactNextjs, Flutter, webRTC, SaaS, Typescript, SEO, UI, SSR"
+씨제이올리브영(CJ올리브영),Software Engineer (글로벌프로덕트),"IT, HB, Health, Beauty, Live, Young, Tech, Stack, Javascript, Typescript, NodeJS, NextJS, React, iOS, Native, Android, Java, Kotlin, Spring, Boot, Redis, Kafka, RabbitMQ, MySQL, MongoDB, Airflow, and, a, suit, of, AWS, services, Kubernetes, EKSIntroductionOliveYoung, Global, Dev, Center, is, committed, to, building, the, worlds, best, omnichannel, service, We, are, on, mission, copy, success, OliveYoung, in, Korea, let, global, citizens, enjoy, same, quality, convenience, for, living, young, life, Come, join, nations, most, minds, build, beauty, commerce, scale, that, never, existed, beforeGlobal, Product, Team, under, charge, overall, product, engineering, taking, care, worldwide, customers, user, journey, before, payments, details, listed, below, Overall, infrastructure, web, app, Features, listing, detail, pages, Data, handling, connect, users, products, via, comments, wishlists, likes, Various, including, banners, promotions, rewards, points, Shopping, carts, order, managementTech, StackAll, frontend, backend, sides, architected, with, proper, level, modularization, better, development, experiences, systems, scalability, normally, use, technologies, frameworks, choice, tech, stack, made, flexible, fashion, Frontend, Backend, Common, modules, Infrastructure, EKS, +, years, professional, software, Proficiency, one, modern, programming, language, Experience, cloud, native, or, migration, Good, understanding, architectures, Love, face, technical, challenges, selfmotivation, Possession, logical, thinking, effective, communication, skills, mobile, application, ecommerce, checkoutorderpaymentshipment, multilanguage, multiregion, largescale, distributed, Bachelors, degree, computer, science, equivalentOpportunities, API, CICD, operational, excellence, autoscaling, Monolithic, Build, robust, servers, sit, middle, at, end, communicating, endlessly, other, system, components, APIs, Partner, managers, designers, deliver, core, functionality, Collaborate, develop, directly, many, supply, chain, such, as, warehouse, management, inventory, ordershipment, much, more, Work, data, scientists, machine, learning, engineers, enable, extreme, personalization, localization, Test, deploy, your, code, daily, basis, full, cycle, Express, endless, ownership, by, joining, call, rotation, pursuing, excellences, Sharpen, continuous, feedback, from, review, design, blamefree, postmortem, Practice, stateoftheart, agile, methodologies, containerbased, high, availability, Participate, legacy, monolithic, scalable, modularized, structures"
+리디(RIDI),Senior Frontend Engineer,"React, JavaScript, Typescript, Unit, E2E"
+하이어다이버시티,프론트엔드 ​엔지니어,"HTML, CSS, JavaScript, React, Vue, Angular, Git, TypeScript, Nextjs, AI, MVP, IT, PM"
+스튜디오키코,React 프론트엔드 개발자,"Pinderland, Web, Application, Reactjs, SPA, Typescript, ES6+, Zustand, Redux, Recoil, UIUX, Git, React, Native, SNS"
+그렙(프로그래머스),[프로그래머스] 프론트엔드 개발자 (교육솔루션팀),"LMS, TypeScript, Vue, React"
+에이치비엠피,[인턴] 프론트엔드 개발자,"Reactjs, javascriptes6+, typescript, Restfull, API, UI, tailwind, mui, emotion, Redux, react, React, Native, Mysql, RDBMS"
+딥세일즈,프론트엔드 개발자 (3년 이상),"AI, UI, TypeScript, JavaScriptES6, +, NextjsReact, SPASSR, Animation, Transition, REST, API, SEO, Nodejs, Python, Node, Package, Manager, npm, yarn, reactnative, flutter, Chrome, Extension, AWS, GCP, Azure"
+케이비핀테크,프론트엔드 엔지니어,"KB, React, Native, Next, TypeScript, Emotion, TailwindCSS, Jest, ReactTestingLibrary, Zustand, Visual, Studio, Code, Jetbrain, IDEAI, Assistant, Notion, Slack, Google, WorkspaceGmail, Calendar, Figma, AWS, Typescript, JavaScriptES6, HTML5, CSS3, UXUI, WebView, SSRServer, Side, Rendering, Kotlin, Swift, Cloud, Service"
+메이코더스,웹개발자,"MAYK, B2B, SEOUL4PM, REST, API, Frontend, TypeScript, React, Nextjs, ReactQuery, Zustand, Infra, AWS, Github, Action, Docker, Yarn"
+크림(KREAM),Partner Frontend 개발자,"Frontend, React, SPA, TypeScript, ESNext, Typescript, UI, Framework, UX"
+크림(KREAM),서비스 Web Frontend 개발자,"KREAM, Admin, Frontend, TypeScript, ESNext, Vue, Nuxt, SSR, SCSS, Webpack, Vite, QA"
+씨디알아이(CDRI),프론트엔드 개발자,"B2B, Certicos, Cosbridge, Cosmetest, React, HTML5, CSS3, JavaScript, CDRI, TypeScript, Reactjs, Nextjs, Query, Redux, Recoil, Zustand, Ant, Design, Emotion, Styled, Components, Tailwind, CSS, Webpack, Rollup, Vite, npm, Yarn, pnpm, Amazon, Web, Services, AWS, GitHub, Actions, Jira, Software, Notion, Figma, Slack"
+샤플앤컴퍼니,하다(HADA) 프론트엔드 개발,"React, AWS, CICD, #, TypeScript, ES6+, emotion, reactquery, Jotai, Zustand, pnpm, Vite, Jest, Testing, Library, API, Axios, Swagger, shoplflow, +, RESTful, UIUX, Git, Figma, Jira"
+부동산플래닛,풀스택 개발자,"DB, O2O, React, Nextjs, TypeScript, Zustand, ReactQuery, Tailwind, CSS, webpack, Java, Spring, Boot, PostgreSQL, REST, Docs, Redis, MyBatis, JPA, PO, git, jira, OpenLayers, GeoServer"
+비댁스,가상자산서비스 Frontend,"BDACS, React, Nextjs, TypeScript, AWS, B2B, ISMS"
+보맵,프론트엔드 개발자 (2~6년),"Webview, Admin, Vue3, ReactNextjs, ReactVueAngular, Pinia, Redux, Zutstand, TanStack, Query, JavaScript, CSS, HTML, Git, Backend, Network, Database, TypeScript, React, UI, TailwindScss, Veevalidate, Vite, UIUX"
+여기어때컴퍼니,Frontend Team Leader,"Frontend, UIUX, ReactVue, REST, API, Redis, MongoDB, SQLite, 3rd, Party, Application, CICD"
+클래스101(Class101),시니어 프론트엔드 개발자,"Core, Development, 2Technical, Contribution, 3Team, Collaboration, Product, Design, React, TypeScript, GraphQL, Apollo, Nextjs, Native, CICD, EduTech"
+여니으니,웹 프론트엔드 (ReactJS) (재택근무),"MVP, TypeScript, Reactjs, Application, Hooks, Context, API, States, Redux, React, CSSHTML, Flexbox, Grid, HTML5, Selfmanagement, UIUX, Adobe, XD, Figma, Sketch, Vite, WCAG, SEO, Progressive, Web, AppsPWA, SSR"
+토스플레이스,Frontend Developer,"B2B, POSPoint, Of, Sales, WindowsmacOSAndroidiOS, POS, CRM, FB, SDK, QR, VAN, React, SPA, Electron, TypeScript, Flow, JavaScript, Nextjs, ReactQuery, Recoil, Yarn, Berry, Pnpm, Webpack, ESBuild, SWC, Babel, Jest, Vitest, CICD, GitHub, Actions"
+토스플레이스,Frontend UX Engineer,"React, SPA, UIUX, UI, Apple, HIG, Material, Design, Sketch, Figma, Framer, TypeScript, Nextjs, Emotion, Sass, Framermotion, GSAP, Vite, webpack, ESBuild, Yarn, pnpm, CICD, GitHub, Actions, CircleCI"
+휴먼스케이프,[레어노트] React Native Engineer,"React, Native, Amplitude, Firebase, Sentry, UIUX, Typescript, REST, API, Redux, Recoil, Query, Git, Fastlane, CodePush, Analytics, Crashlytics, Remote, Config, UI"
+코리아포트원,Front-end Engineer,"UIUX, DX, HTML, CSS, JavaScript, ES6, React, Vue, Angluar, SPA, Git, PO, Vite, Solidjs, Nextjs, TypeScript, Vitest, Testing, Library, Storybook, Module, Tailwind, UnoCSS, Vercel, Github, Actions, Query, OpenAPI, GraphQL, Relay, Valtio, Jotai, pnpm, Unleash, Hygraph, TinaCMS, UI"
+라바웨이브,[서울본사] Mobile App Engineer (React Native),"AI, React, Native, Frontend, JavascriptTypeScript, iOS, Android, Module, WebSocket, WebRTC, Skia"
+리사이클팜코리아,프론트엔드 - iOS 개발자,"iOS, UXUI, Swift, SwiftUI, Figma, UI, WEB3, UX, Concurrency"
+리사이클팜코리아,프론트엔드 - 안드로이드 개발자,"Android, UXUI, Kotlin, framework, Coroutines, Flow, ViewBinding, Clean, Architecture, MVVM, WEB3, Hilt, DI, UX"
+뷰노,생체신호 FE Leader 개발자,"SW, PO, DL, QA, Deep, Learning, Frontend, Computer, Science, Software, Engineering, Team, Reactjs, Angularjs, Vuejs, App, framework, SPA, Single, Page, Application, JavaScript, RESTful, API, Typescript, React, Hook, UI, UX, UIUX, Git, Jira, EMR, HL7, FHIR, DICOM"
+디셈버앤컴퍼니(핀트),핀트(fint) 프론트엔드(front-end) 개발자,"KB, IRP, SEO, CRM, PREFACE, React, TypeScript, Nextjs, ReactQuery, Jotai, Emotion, Yarn, Berry, pnpm, Turborepo, Webpack, ESBuild, SWC, Babel, CICD, GitLab, Vue, Angular, SPA, HTML, CSS, JavaScript, Git, Asana, Confluence, Slack, Figma, SSR, UI"
+에스투더블유(S2W),Frontend Engineer (Product 3 팀),"UX, Angular, React, HTML5, CSS, SCSS, TailwindCSS, Nextjs, SSRServerSide, Rendering, BFFBackendFor, Frontend, SVG, HTML, Canvas, WebGL"
+라바웨이브,[서울본사] 프론트엔드 엔지니어 (5년 이상),"AI, Nextjs, UIUX, Reactjs, TypeScript, JavaScript, SEO"
+엘리스,AIDT 콘텐츠 엔지니어,"AI, PC, GitGithub, Gitflow, React, TypeScript, JavaScript, HTMLCSS, ES6+, +, Application, REST, API, EmotionMUI, Jest, Testing, Library, Cypress, UnitE2E, ESLint, Prettier, WebSocket, figma, jira, teams, Threejs, p5js, JavsScript"
+한솔피엔에스,프론트엔드 개발자 (8년 이상),"Nuxt3, Vue3, web, application, frontend, UIUX, IT, vue, react, nuxt, nextjs, htmlcssxjavascript, Git, typescript, vite, webpack, Vitest, Jest, Cypress, backend, spring, db"
+케이존,프론트엔드 개발자(신입~5년차),"REMEX, KZONE, IMS, Frontend, React, HTML, CSS, Javascript, UI, REST, API, nextjs, typescript, B2B, Solution, jest"
+피닉스랩유한회사 서울지점,Frontend Engineer,"React, Tailwind, CSS, TypeScript, AI, API, UIUX, UX, UI"
+에버트레져,개발 총괄 팀장 (Lead Engineer),"API, Head, of, Product, Python, diango, Git, Docker, PC, DB, GCP, Agile, AI, KYCKYTAML, PM, Notion, Slack"
+와드(캐치테이블),B2B Front_End Developer,"B2B, APP, React, UXUI, Reactjs, TypeScript, TanStack, Query, Jotai, Redux, vanillaextract, Webpack, Vite, Nx, StoryBook, Github, Slack, Jira, Confluence, PR, GitHub, Actions, ESLint, Prettier"
+와드(캐치테이블),B2C Front_End Developer,"React, UXUI, Reactjs, TypeScript, TanStack, Query, Recoil, Redux, vanillaextract, Webpack, Vite, Nx, StoryBook, Github, Slack, Jira, Confluence, PR, GitHub, Actions, ESLint, Prettier"
+제이앤피메디(JNPMEDI),Front-end Software Engineer (3년 이상),"Maven, Clinical, Cloud, Digital, Transformation, Framework, React, Typescript, jsxtsxstyled, CICDGithub, Actions, TanStack, Query, ReactQuery, zustand, emotionstyled, Form, reacthookform, Validation, zod, yup, Build, Tool, Vite, UI"
+팬딩(Fanding),React Native 주니어 개발자 (2년차 이상),"Reactjs, Http, API, Git, Mercurial, ReactNative, Native, App, Android, iOS, GitHub, refactoring"
+팬딩(Fanding),프론트엔드 리드 개발자 (5년차 이상),"Vuejs, rest, api, or, GitHub, refactoring"
+엘리스,프론트엔드 엔지니어,"LXP, MUI, UI, MicroFrontend, AI, UIUX, B2C, B2B, MLAPI, UXUI, React, TypeScript, JavaScript, HTMLCSS, Cypress, Jest, Testing, Library, reactredux, zustand, ES6+, +, Application, REST, API, EmotionMUI, UnitE2E, ESLint, Prettier, WebSocket, WebRTC, NN"
+엘리스,프론트엔드 코어 엔지니어,"AI, SDK, WebSocket, LMS, WebRTC, NN, MicroFrontend, MonacoCodemirror, iframe, module, federation, MSA, NPM, Nextjs, Server, Side, Rendering, WebsocketRxJS, E2E, Jest, React, Testing, Library, Unit, Test, Cypress, Webpack, Esbuild, Rollup, Vite, ES6+, +, TypeScript, Application, REST, API, EmotionMUI, UnitE2E, ESLint, Prettier"
+엘리스,프론트엔드 리드 엔지니어,"MicroFrontend, AI, UIUX, React, TypeScript, JavaScript, HTMLCSS, MonacoCodemirror, iframe, module, federation, MSA, NPM, Nextjs, Server, Side, Rendering, WebsocketRxJS, WebRTC, E2E, Jest, Testing, Library, Unit, Test, Cypress, ES6+, +, Application, REST, API, EmotionMUI, UnitE2E, ESLint, Prettier, WebSocket, NN"
+크라우드웍스,[기획팀] Frontend 개발자,"Vibe, Coding, ReactTypeScript, AI, FrontWEBAPP, UIUX, TypeScript, React, Git, Jira, Figma, REST, API, 5x, +, Vite, 5xZustand, MUI, v5, Hook, FormTanStack, Query, OpenAPISwaggerGit, ESLintPrettier, VSCode, Storybook"
+넛지헬스케어(캐시워크),[병역특례 현역/보충역] 프론트엔드 개발자,"Nextjs, Back, Office, AWS, React, query, Zustand, Recoil, REST, API, GraphQL, Functional, programming, OOP, CI, IT"
+넛지헬스케어(캐시워크),[병역특례 현역/보충역] 풀스택 개발자,"AWS, express, nestjs, REST, API, GraphQL, MySQL, DynamoDB, PostgreSQL, Elasticsearch, Nextjs, Back, Office, IT"
+페이타랩(패스오더),iOS 개발자,"iOS, Swift, ObjectiveC, Xcode, Git, Figma, UI, UX, MVVM"
+페이타랩(패스오더),"Windows 개발자 (C#, WPF)","WPF, PC, C#, Visual, Studio, C++, Net, framework, RESTful, API, Socket, Thermal, Printer, POS"
+자몽컴퍼니,SI프로젝트 개발리더(PL),"SI, PL, FrontEnd, BackEnd, DBMSOracle, Tibero"
+비글즈,웹 프론트엔드 개발자 (4년 이상),"HTML, CSS, JavaScript, jQuery, UI, React, TypeScript, Nextjs, ReactQuery, Web, Application, WebViewInApp, GithubJiraSlack, AWS, Docker, Kubernetes, Azure"
+이씨에스텔레콤,컨택센터 솔루션 풀스택 개발(5년 이상),"SI, Vuejs, Nodejs, java, oracle, mysql, React, FrontEnd, Framework, Spring, Boot, REST, API, QueryDSL, JPA, Redis, PubSub"
+리디(RIDI),Full Stack Software Engineer,"Nodejs, TypeScript, MySQL, React"
+리디(RIDI),[디리토] Full Stack Software Engineer,"Nodejs, NestJS, Nextjs, TypeScript, MySQL, React, Native, AWS"
+리디(RIDI),Web Frontend DevOps Engineer,"DevOps, k8s, ecs, React, AWS, B2C, Typescript, ISMS"
+리디(RIDI),[디리토] Frontend Software Engineer,"Nextjs, React, Native, Nodejs, NestJS, TypeScript, MySQL, JavaScript"
+리디(RIDI),React Native Engineer,"iOS, Android, EPUB, MVVM, Clean, Architecture"
+한국전기차인프라기술,[기술연구소/SW개발팀]Front-End Developer Manager(2년이상),"APP, WEB, React, Native, Android, iOS, HTMLCSSJSJavaScript, HTML, CSS, TypeScript, NodeJs"
+플립커뮤니케이션즈,프론트엔드 개발자,"React, Vue, UI, Storybook, UIUX, Reactjs, Vuejs, Vuetify, Nuxt, Figma, Changesets, Turborepo, GitHub, Actions, Pages, CICD, Flutter"
+컬리,커머스 프론트엔드 개발자,"React, SPA, React1, http, html, css, Nextjs, AWS, Cloud, Native, Typescript"
+자이온,[개발] 프론트엔드 개발자(4년-),"Asset, Admin, Dashboard, TableChartGraph, ReactjsNextjs, FE, Redux, jotai, mobx, ReactNextjs, TypeScript, ES6+, Emotion, Reactquery, redux, Storybook, Jest, yarn, workspace, monoRepo, Next, React, E2E, RESTful, APIGraphQL, docker, onpremise, commonJS, ESM, Javascript"
+뉴빌리티,Front-end Web Developer(전문연구요원 편입 가능),"Web, frontend, ES6+, CSS, ReactNext, TypeScript, tailwindCss, Reactquery, Storybook, Jest, puppeteer, ReactjsNextjs, FE, Frontend, ios, andriod, Figma"
+위버케어,[닥터팔레트] 프론트엔드 개발자(병역특례 가능),"EMR, PC, UI, React, FE, Typescript, UX, browser, unmanaged, language, GraphQL, monorepo, MFAMicro, Frontend, Architecture"
+크램,React Native Frontend Engineer,"React, Native, JavaScriptTypeScript, Expo, Git, UIUX, GraphQL, OTA, EAS, iOSAndroid"
+뷰노,생체신호 FE Senior 개발자,"SW, PO, DL, QA, Deep, Learning, Frontend, Computer, Science, Software, Engineering, Reactjs, Angularjs, Vuejs, App, framework, SPA, Single, Page, Application, JavaScript, RESTful, API, Typescript, React, Hook, UI, UX, UIUX, Git, Jira, EMR, HL7, FHIR, DICOM"
+딜리버리랩,프론트엔드 개발자,"VUE, +, SPRING, BOOT, ADMIN, ERPVUE, MFC, WMS, TMS, FrontEnd, VUE3x, UIUX"
+이지시큐,React FrontEnd 개발자,"SECURIST, httpssecuristcokr, React, Context, API, Redux, Git, Github, Javascript, ES6, SCSS, CSS, Module, Figma, Slack, Jira, Discord, Notion, Typescript, Nextjs, ReduxSaga, ReduxToolkit, MUI, shadcnui, UI"
+퀸라이브,[재택근무] 프론트엔드 개발자 (2년 이상),"React, Nextjs, SSRServerSide, Rendering, Reactjs, SPASingle, Page, Application, HTML, CSS, JavaScript, UI, TypeScript, Query, Zustand, Tailwind, SSR, CSR, ISR, SEO, CICD, Docker, DevOps"
+콘센트릭스서비스코리아CATALYST,[장애인 특별전형] JAVA 개발자,Java
+블링크컴퍼니,개발자,"ReactJS, React, Native, NodeJSNestJS, ORMPostgreSQL, native, Node, JS, PostgreSQL, API, Agile"
+인플루디오,[포카마켓] React 프론트엔드 개발자 (1년 이상),"PM, Figma, HTML, CSS, JavaScript, React, Nextjs, Framework, SSR, HTTP, RESTful, API, CICD, Jest, Storybook"
+혜움,[개발] 프론트엔드 개발자(5-8년),"IT, CRM, AB, HTML, CSS, JavaScript, Vue, React, Growth, Team, 3rdpartyGoogle, Slack, API, E2E, BDD, ERP, CICD, Tech, Specs, TypeScript, Github, Gitlab, Bit, Bucket"
+나인와트,"S/W Front-end 개발자(전문연구요원, 병역특례 가능)","React, Nextjs"
+구름,프론트엔드 개발자(3년 이상),"UIUX, Goorm, Design, System, GDS, CICD, React, StoryBook, Nextjs, SEO, Engineer"
+구름,Common Product 개발자,"UIUX, Nodejs, React, OAuth, JWT, API, DevOps, Frontend"
+구름,풀스택 개발자(4년 이상),"cowork, NodeJS, React, JavaScript, MongoDB, Git, AWS, Frontend, Backend, Javascript, mongodb, DevOps, NestJS"
+구름,IDE 풀스택 개발자 (4년이상),"IDE, Docker, Kubernetes, LLM, AI, JavaScript, NodeJS, React, NextJS, MongoDB, AWS, DevOps, NestJS"
+구름,EDU 풀스택 개발자(3년 이상),"AI, API, JavaScript, NodeJS, React, NextJS, MongoDB, AWS, Docker, DevOps, NestJS"
+인터엑스,Frontend Engineer,"Reactjs, RESTful, API, Frontend, HTML, CSS, JS, Typescript"
+오토위니,프론트엔드 개발자 (2년 이상),"JSP, SPA, React, ReactJS, Redux, Sass, Java, Spring, 5x, Springboot, IDC, AWS, Kotlin, Swift, Oracle, 9c, MySQL, Redis, Elastic, Search, Git, Bitbucket, Jira, Figma, REST, API, UIUX, eCommerce"
+인터엑스,Backend Engineer,"Backend, Python, API, RESTful, Git, Thread, Async, SQL, PostgreSQL, MongoDB, Docker, DB, InfluxDB, Elasticsearch"
+메쥬(하이카디),웹 프론트엔드 개발자 (3년 이상),"SPA, UIUX, WebSocket, REST, API, TypeScript, Angular, React, D3js, RxJS, Zustand, Query, IT, Full, Time, RD, HTML, CSS, JavaScriptES6+, Git"
+휴런,Frontend개발자 (3년이상),"UI, Frontend, Javascript, TypeScript, Reactjs, Structural, Type, System, Recoil, RESTful, API, GitGithub, Gitflow, Jenkins, Asana, Confluence, Mobile, App, CommonJS, ES, Module, DICOM, HL7, cornerstonejs, vtkjs, itk, WebGL, Canvas, SVG"
+키다리스튜디오,프론트엔드 웹 개발자,"UIUX, ReactTypescriptNextjsNodejs, Component, CSS, FEFE"
+라라잡(동네알바),웹 프론트엔드 개발자(React 4년 이상),"React, DX, Frontend, REST, API, Backend, Code, Review, How, Clean, Typescript, nextjs, reactcontext, reactquery, zustand, tailwind, AWS, S3, Amplify, Hybrid, Web, App, yarn, pnpm, SSR, Framework, SEO, Reactnative, monorepo, CICD"
+모멘티,프론트엔드 개발자 (1~5년),"Vuejs, or, React, Native, Flutter"
+모멘티,풀스택 개발자 (1~5년),"Vuejs, or, React, Native, Flutter, Java, Springboot, AWS"
+렛서,Frontend Engineer (풀스택 우대),"Frontend, Engineer, AI, Staix, FE, CICD, BE, QA, Javascript, Typescript, React, Nextjs, Vanilla, Extract, TanStackQuery, AWS, CloudFront, S3, Codepipeline, Github, Jira, Slack, Notion, CS, Discussion, HTML, CSS, Fullstack"
+오직,웹 퍼블리셔(3년 이상),"UIUX, HTML, CSSSCSS, Tailwind, JavaScript, Figma, GSAP, Animejs, ARIA, SEO"
+오직,Vue.js 프론트엔드 개발자(3년 이상),"Vuejs, UIUX, php, java, HTML, CSSSCSS, Tailwind, JavaScriptES6+, Git, Nuxtjs, Pinia, Figma"
+스터닝,프론트엔드 개발자(신입),"UXUI, SEO, CRA, Nextjs, React, Typescript, Webpack, Vite, Zustand, TanStack, Query, JavaScript, CSS, HTML, ASIS, CRACraco, Styledcomponent, ReduxToolkit, ReactRouter, TOBEwish, UIUX"
+버블쉐어(BubbleShare),프론트엔드 개발자 (2년~5년),"UI, UX, SEO, API, React, Nextjs, Javascript, HTTP, Network, Agile, Slack, Notion, Google, Workspace, Github, VScode, IDE, BackEnd"
+레인디어스,Next.js 프론트엔드 개발자(3년 이상),"B2B, Buybly, Nextjs, +, TailwindCSS, Zustand, RESTful, API, Git, MRO, i1, AWS, Azure"
+세이지,프론트엔드 개발자 (Senior),"Language, JavaScript, TypeScript, Framework, React, UI, Storybook, Linux, Windows, Git, Notion, Frontend, PM, Backend, Product, Designer, QA, AI, FE, SAIGE, VISION, Typescript, HTML, CSS, Javascript, SPA, B2B, Webpack, Rollup, Vite, HTML5, Canvas, API, Fabricjs, Konvajs, WebRTC, ECharts"
+아우토크립트,사이버보안 테스트 솔루션 프론트엔드 개발자 (5년이상),"Windows, React, Vuejs, CSS, WebSocket, git, Jira, CICD, C#, WPF, C, C++, Python, Pipeline"
+더스윙,Web-Front Engineer(운영 및 백오피스),"UIUX, React, Typescript, Javascript, HTML, CSS, Framermotion, APIGoogleNaverKakao, Map, API, BFF, Recoil, Jira, CI, CD"
+무신사,Frontend Engineer (리커머스개발실),"React, Typescript, Storybook, PNPM, turborepo, vite, Sentry, Kibana, Grafana, Datadog, Vuejs, Angular, SPA, nextjs, SSR, WebViewInApp, Web, Application, ES6+, Git, Rebase, merge, Squash, Problem, Solving"
+하이테커,프론트엔드 개발 (3년 이상),"#, JavaScript, ES6+, Webpack, Babel, React, Vue, SPA, Recoil, Zustand, Redux, Reduxtoolkit, Mobx, SockJS, StompJS, WebSocket, ES6, SEO, SSR, Tech, Leader, LMSLearning, Management, System, UI"
+사이버다임,연구소 서버개발팀 웹 클라이언트 개발자 (5년 이상),"Destiny, ECM, cloudium, SMBSmall, and, Medium, Business, Javascript, HTML, CSS"
+프로디파이,Software Engineer (Fullstack),"Prodifi, Software, Engineer, Fullstack, AI, Engineering, Agent, Research, AWS, Azure, GCP, JavaScript, TypeScript, Python, MySQL, Postgres, RDBMS, Elasticsearch, Redis, NoSQL, DB"
+로보코리아(LOVO Korea),프론트엔드 엔지니어,"LLM, AI, SaaS, UX, Frontend, Javascript, React, TypeScript, UIUX, ChatGPT, Cursor, CICD, SSR, Server, Side, Rendering, SEO"
+화해(버드뷰),Frontend Developer,"Javascript, Typescript, HTML, CSS, React, Nextjs, monorepo, design, system"
+라이프오아시스,[마음] React-Native 개발 (3년 이상),"Matching, Moment, Feed, Chat, Call, Payment, PO, UI, Reactnative, Android, iOS, Yoga, Shadow, Node, Bridge, JavascriptTypescript, Module, Graphql, RestAPI, API, Nextjs, Kotlin, Spring, boot, querydsl, grpc, graphql, Python, Grpcio, pydantic, sqlalchemy, fastapi, Go, gorm, entgo, WEBRTC, mediaServer, echo, Javascript, express, Typescript, ReactNative, Reactquery, Redux, Zustand, Compose, xml, Swift, UIKit, React, VercelNextJs, SSR, CSR, Infra, AWS, EC2, S3, EKS, RDSAuroraMYSQL, Redis, NOSQLDynamoDB, MSKKafka, Data, Engineer, Airflow, Spark, Pandas, Jupyter, notebook, BigQuery, Looker, rxjs, AndroidKotlin, iOSSwift, NextJs, 0XX, n, XXX, Streaming, Async, WebRTC"
+큐피스트(글램),모바일 앱 개발자 (React Native),"Native, AndroidiOS, React, JavaScript, TypeScript, RESTful, API, Git, CICD, AgileScrum"
+오픈갤러리,Django 풀 스택 개발자 (보충역),"Django, Bitbucket, Jira, Confluence, Agile, HTML, CSS, JavaScriptjQuery, PostgreSQL, AWS, ECSDocker, Circle, CI, Python, JavaScript, Notion"
+팀리부뜨,프론트엔드 엔지니어(5년이상) - 부산,"askyourtrade, askyourwork, UIUX, HTML, CSS, JavaScript, React, TypeScript, zustand"
+와탭랩스(WhaTapLabs),프론트엔드 개발,"IT, UIUX, Reactjs, Git, SaaS"
+메인메타,프론트엔드 시니어 엔지니어,"React, Redux, REST, API, Websocket, AWS, OAuth, HTML"
+포티투닷(42dot),Frontend Engineer (Vehicle Cloud),"2dot, A, Z, UMOS, Urban, Mobility, Operating, System, Frontend, Engineer, Vehicle, Cloud, Fleet, AI, SDVSoftware, Defined, Responsibilities, Intranet, UXUI, React, TypeScript, HTML, CSS, WebView, Design, Administration, Tools, E2EEndtoEnd"
+호패,React Native Developer (mobile),"We, are, looking, for, an, experienced, React, Native, Developer, to, join, our, team, and, help, develop, the, PlayID, App, a, platform, dedicated, eSports, players, You, will, be, responsible, shaping, future, of, app, improving, development, culture, promoting, collaboration, within, FrontEnd, teamWhat, Youll, Work, OnDevelop, based, on, TypeScriptBuild, apps, services, tailord, playersEnhance, teamEstablish, agile, processes, contribute, forming, cultureStackLanguages, TypeScript, Nextjs, ReactQuery, JavaScriptCollaboration, Tools, GitHub, Notion, Slack, FigmaDevelopment, Practices, Agile, ScrumKanbanMobile, iOSAndroid, native, module, experience, plusIntegration, CICD, REST, APIs, CICDQualifications3+, years, in, with, TypeScriptJSHandson, throughout, entire, lifecycle, from, launch, operationBachelors, or, Masters, degree, Computer, Science, related, fieldStrong, problemsolving, skills, clear, communication, abilitiesExperience, working, teambased, projects, using, GitExperience, knowledge, platformsCollaboration, server, developers, designersExperience, Git"
+씨제이이엔엠(CJ ENM),[Mnet Plus] 프론트엔드 개발,"Mnet, Plus, CMS, JavascriptTypescript, React, nodejs, SEO, i18n, Resource, Impact, Stage, Role, Formation"
+에이팀벤처스(ATEAM),프론트엔드 개발자,"Nextjs, httpscapaai, SSR, React, CSR, TypeScript, Tailwind, CSS, Figma, NestJs, PostgreSQL, AWS, EC2, S3, CloudFront, Lambda, Redis, GitHub, Actions, UIUX, Redux, TanstackQuery, Websocket, Github, action, CICD, Native, Flutter"
+카카오뱅크(kakaobank),웹 프론트엔드 개발자 - 신사업,"HTML, CSS, JavaScript, React, SPA, SVG, Canvas, WebGL3D, RESTful, API"
+알피,[ECG Buddy] Flutter 개발자 (5년 이상),"ECG, Buddy, web, mobileiOS, Android, Desktop, Flutter, UIUX, CICD, Dart, iOSAndroid, GetX, RESTful, API, InAppPurchase, TFLite, Yolo, PyTorch, GitHub, Actions, Bitrise"
+셀러비코리아,Flutter App Senior 개발자,"Swift, Kotlin, UIUX, Native, App, React, Flutter, CICD"
+태그프리,프론트엔드 개발자 시니어,"HTML, CSS, javascriptES5, React, Vuejs, javascript, DOM, API, SW, TDD"
+무무즈,프론트엔드 엔지니어,"ReactNextjs, typescript, HTML, CSS, Javascript, Git, Slack, Notion, monorepo, React, Nextjs, JavaScript, TypeScript, Tailwind, shadcn, reacthookform, SWR, zustand, pnpm, AtlassianJiraConfuenceBitbucket, Figma"
+볼라(와이스),소프트웨어 엔지니어,"Native, AppWeb, Product, React, Fullstack, UIUX"
+온택트헬스,FE 개발자,"Web, frontend, react, next, Frontend, JavaScript, HTML5, CSS, React, Vue, Next, SPA, CORS, Jira, Confluence, Slack, Git, Backend, Framework"
+퀀티파이드이에스지,프론트엔드 개발 / 웹 퍼블리싱,"VueNuxtReact, ESG, React, Vue, Angular, SPA, HTMLCSSWEBPACKJSHTTPHTTPS, REST, API, UIUX, UI, Git, Docs, Bootstrap, SPSS, SASS, PythonFlask, SQL, Alchemy, MySQL, DB, VUEX, Redux, SSRNext, Nuxt, Webpack, Babel, ES6+, AWSGoogle"
+에이비일팔공(AB180),Frontend Engineer,"SDLC, Best, Practice, React, TypeScript, Nextjs, Remix, SSR, D3"
+마켓핏랩,시니어 솔루션 엔지니어,"LG, FLO, CNS, WRTN, httpswwwmfitlabsolutionscom, httpswwwmfitlabcomsolutionsmixpanel, Growth, Hacking, Consulting, consultant, PO, PM, iOS, Android, PC, iOT, AB, CRM, SDK, Mixpanel, GA4, Amplitude, Google, Tag, Manager, Tealium, Segment, VWO, Optimizely, tasty, Adobe, Target, Braze, Onesignal, Moengage, ex, +, Analytics, DB, MarTech, AI, Python, Linux, GCP, AWS, Cloud, Professional, Data, Engineer, PDE, Certified, Specialty, Tableau, MySQL, Slack"
+우아한형제들(배달의민족),[Tech] 셀러프로덕트실 셀러셀프서비스팀 프론트엔드 개발자,"TypeScript, React, MobX, Redux, JavaScript, CSS, HTML, Vue, Angular, SPA, Webpack, Rollup, Vite, UIUX, TanStackQuery, Gitlab, Jira, Confluence, Figma, Slack, GitLab, Merge, Request, SonarQube, Jenkins, CI, Jest, MSW, Storybook, Sentry"
+포캐스크이엔엠,자사 디지털광고 솔루션 프론트엔드/풀스택 개발자 (3년이상),"React, Typescript, javascript, HTML, CSS, NginX, Nodejs, Spring, Mysql, Redis, AWS, Tencent, Cloud, PM2, Docker, Sentry, MVP, Open, API, framework"
+엠엑스엔커머스코리아(MXN Commerce Korea),프론트엔드/풀스택 시니어 개발자,"WMSWarehouse, Management, System, Frontend, React, javascript, UIUX, Typescript, Nodejs, Git, WMS"
+타운즈,react naitve 개발자 4~10년,"React, Native, ReactNative, Sprint, Git, Resource, Impact, Stage, Role, Formation, TypeScript, Recoil, Microsoft, Codepush, sentry, WebSocket, socketio"
+라텔앤드파트너즈,프론트 시니어 (리더급),"React, TypeScript"
+플래튼,프론트엔드 개발자,"REST, API, Frontend, Application, JavascriptES6, CSS, HTML, Typescript, Javascript, React, Vue, Anglar, web, app, service, Redux, MobX, zustand, zotai, Git, Github, Webpack, RollUp, Build, tool, Sketch, Figma, Adobe, XD, SASS, LESS, UI, Nextjs, GraphQL"
+이그나이트,Front-End Senior 개발자,"TypeScript, +, React, FrontEnd, SPA, NextJS1, Figma, Zeplin, UI, CSS, XSS, CSRF, Server, to, FE, Node, Express5, Monorepo, pnpm, Turborepo, yarn, monorepo, DNSVPN, OSI, Layer, CICD, OSCICD, AWS, S3, CloudFront, Route, Elastic, Beanstalk, CodePipeline, CodeDeploy, EC2, SecretManager, Webpack, Vite"
+엠플리파이,프론트엔드 개발자,"UI, TailwindCSS, Jest, RTL, JavaScript, TypeScript, Nextjs, React, Native, API, REST, Zustand, npm, Testing, Library, ESLint, Prettier, Github, Actions, Vercel, Discord, Notion, Figma, Sentry, CMS, Sanityio"
+투어라이브,웹개발자 Frontend Engineer (ReactJS),"Reactjs, UXUI, RESTful, API, GraphQL, 5JavaScript, ES6+, TypeScript, Nextjs, Redux, React, Query, CS, SSRServerSide, Rendering, CSRClientSide, SEO, Figma, Zeplin, UIUX"
+아토머스(마인드카페),React 프론트엔드 개발자,"httpsmindcafecokr, SSR, Nextjs, Nuxt, PO, PD, React, Vuejs, Angular, Html, CSS, JavaScript, UI, AWS"
+엠로(emro),데이터 분석 플랫폼 개발자,"Java, Python, BI, API, JavaScript, Spring, Framework, JPAHibernate, Data, JPA, RDBMSMySQL, PostgreSQL, RESTful, Git, Hadoop, Spark, Dataiku, Power, Tableau, AWS, Azure, GCP, DevOps, CICD, Docker, Kubernetes"
+엠로(emro),AI솔루션 개발자(PL),"AI, IT, Java, JavaScript, Spring, framework, RDBMS, DB, SQL, PL, Open, Search, AWS, Azure, Google, Cloud"
+앤서스랩코리아,[Platform]React Native App Engineer,"UX, UI, Agile, iOS, Android, Jest, Detox, RESTful, API, Apple, App, Store, Google, Play, Git, Typescript, Redux, MobX, CICD, AWS, Figma, Storybook"
+앤서스랩코리아,[Platform]Frontend Engineer,"FrontEnd, UI, Template, Front, UX, JiraConflunce, IOS, AOS, Client, Webview"
+오픈플랜,Front-End Senior 개발자 (React 기반),"B2C, Web, B2B, Backoffice, Service, Lead, React, nextjs, nodejs, Javascript, Typescript, publish, CICD, Docker, CS, Network, browser"
+오픈플랜,Front-End Junior 개발자 (React 기반),"B2C, Web, B2B, Global, Business, Backoffice, Service, React, nextjs, nodejs, Javascript, Typescript, publish, CICD, Docker, CS, Network, browser"
+씨제이올리브영(CJ올리브영),프론트엔드 개발자 (커머스서비스),"+, Frontend, JavaScript, React, Framework, Single, Page, Application, Nodejs, Typescript"
+하와이컴퍼니,"[Lead] 웹개발 (JavaScript, HTML5, CSS)","JavaScript, HTML5, CSS, Cursor, AI, GPT, React, Angular, Vuejs"
+하와이컴퍼니,"[Lead] 프론트앤드 웹개발 (JavaScript, HTML5, CSS)","Java, C#, Python, AWS, Azure"
+벤디트,"[Product, Cloud Squad] Front-end","Kiosk, TF, UIUX, or, Reactjs, Typescript, GraphQL, API, Electron, AWS, MSA, CC++"
+누아,웹(Web) 프론트엔드 개발자,"B2B, B2C, React, Vue, Angular, SPA, Typescript"
+엔츠,B2B 탄소회계 SaaS 프론트엔드 개발자 (3년이상),"Airflow, AWS, Beanie, FastAPI, Kubernetes, MongoDB, MariaDB, ERP, MES, RESTful, API, DB, CICD, RDBMS, NoSQLMongoDB, Redis, Docker, Git, K8s, EKS"
+에이핀아이앤씨,React 프론트엔드 개발자,"React, JS, Reactjs, javascript, Typescript, hooks, HTTP, CS, CssinJSstyledcomponent, SI, Cowork, Native, Expressjs, MySQL, DB, TDD, Test, Driven, Develop"
+아이헤이트플라잉버그스,프론트엔드 개발자 (5년 이상),"ReactHook, Class, Typescript, HTML, CSS, JavaScript, GraphQL, BE, UXUI, zustand, redux, toolkit, styleX, pandacss, css, Git, Gitflow, Apollo, Nextjs, Storybook, Chromatic, React, Mock, Service, Worker, Turborepo, Relay, RichEdtior, Bit, D3, storybook"
+넥서스커뮤니티,WEB 개발자,"JAVA, Spring, Framework, React, TypeScript, Git, Jira, Confluence"
+랜딩,프론트엔드 개발자,"Nextjs, React, Flow, AI, AWS, SDK, Supabase, API, Storybook, UI, SSR, CSS, zustand, tanstackquery, TypeScript, UIUX, Git, GitHub, Actions, CICD, Threejs, WebGL, Docker, Compose, testinglibraryreact, Cursor, Copilot"
+크리스틴컴퍼니,Sr. 프론트앤드 개발자 (7년이상),"React, Nextjs, TypeScript, Reactquery, Zustand, Jotai, GraphQL, Rest, API, Canvas, WebSocket, TailwindCSS, Emotion, SCSSGithub, Slack, Notion, Figma, GenAI, SaaS, Frontend, JavaScriptTypeScript, SCSS, CSS, SSR, SEO, UI, Technical, Writing, AWS, GCP, NCP, Azure, Google, AnalyticsGA"
+참치상사,BE/FE 개발자 (3년차~),"+, Java, Spring, React, Flutter, Figma, UIUX, SNS, OTT"
+스튜디오씨드코리아(프로토파이),Software Engineer (Graphic),"Studio, XID, Korea, UIUX, React, Typescript, Kotlin, TypeScript, Android, iOS, Web, JavaScript, Git, WebGL, Threejs, Babylonjs, OpenGL, Frontend, Javascript, HTMCSS, AI, ProductSolution"
+비플러스헬스케어,프론트엔드 개발자 (3년 이상),"React, TypeScript, JaveScript, HTML, CSS, Redux, zustand, FHIR, Jira, Confluence, Slack, Git, Jest, Testing, Library"
+뉴로퓨전,웹개발자(프론트엔드),"React, Nextjs, UIUX, Vue, Angular, SPA, HTML5, CSS3, JavaScript, Typescript, RESTful, API, GraphQL, Computer, Science, Engineering, SSR, Monorepo, Yarn, Workspaces, Turborepo, Nx, Docker, Kubernetes"
+디웨일,[인턴] 프론트 엔드 개발자 (React),"Clap, ECMAScript, 7ES8, React, Git, Github, HTTP, RESTful, API, Typescript, Nextjs, Storybook, Tailwind, CSS"
+비하베스트,Web3 Product Frontend 개발자,"Web3, UI, Admin, Landing, page, Git, Github, documentation, UXUI"
+핑퐁,CTO 개발자(7~12년),"Nestjs, Reactjs, API, NestjsNodejs, AWS, GCP, RESTful, GraphQL, TypeScript, CICD, AI, DevOps"
+무신사,Frontend Engineer (무신사 프론트엔드개발팀),"MSA, React, TypeScript, Nextjs, ReactQuery, Web, Appliation, HTML, CSS, JavaScript, WebViewInApp, Application, GithubJiraSlack, AWS, Docker, Kubernetes, ArgoCD, UI"
+앰버로드,Front-End Engineer,"AI, SaaS, Product, Release, FE, ReactVue, React, Vue, GitGithub, API"
+머플,프론트엔드 엔지니어 (5년 이상),"murfyai, Vue, React, LaTeX"
+트래블월렛,프론트엔드 개발자 (Senior),"Travelwallet, Enterprise, InApp, WebView, React, Typescript, Nextjs, Reacthookform, ReactQuery, ESLint, Prettier, Linter, Formatter, Git, Jira, Slack, Notion, AWS, Docker, K8s, ArgoCD, Jenkins, AppRouter, CICD"
+베이글코드(Bagelcode),[Platform] 클라이언트(SDK) 개발자,"SDK, Unity, Android, iOS, Windows, WebGL, Client, DevOps"
+바이트사이즈,Fullstack 개발 리더 (10년 이상),"AI, SW, System, Machine, Vision, Model, Fullstack, Solution, Application, Data, Python, JavaScript, CSS, MySQL, Pytorch, Utilities, Git, DevOps, Java, Business, MS3, Office, MS, Teams, Loop, AWS"
+바이트사이즈,Fullstack 개발 리더 (5년 이상),"AI, SW, System, Machine, Vision, Model, Fullstack, Solution, AWS"
+하이브아이엠,플랫폼 웹프론트엔드 개발,"Web, Frontend, TypeScript, HTML, CSS, Nextjs, React, Svelte, UIUX, Monorepo, Figma, Typescript, Javascript, WebView2, CEF, SSRSSG, ISR, CICD, Backend"
+뱅크샐러드,웹 프론트엔드 엔지니어,"AB, Test, Mobile, Desktop, Crossbrowser, Platform, HTML, CSS, JavaScriptES6+, React, Backend, Network, Database, Infra, Performance, Testing, Debugging, Automation, Nextjs, SSR, TypeScript, JavaScript"
+엔젤스윙,Senior Front-end Engineer,"B2B, SaaS, Enterprise, EndtoEnd, React, Typescript, PO, Redux, Cesium, OpenLayers, WebGL3D, Threejs, AWS"
+엔젤스윙,3D Engineer,"3D, Cesium, Threejs, WebGL, UX, UIUX, UI, Mesh, JavaScript, TypeScript, GIS, Digital, Twin, AECArchitecture, Engineering, Construction, LODLevel, of, Detail, WebXRWebAR, WebVR, AWS, GCP"
+엔젤스윙,드론 IoT 백엔드 엔지니어,"REST, API, MQTT, iOT, Python, FastAPI, MongoDB, Motor, aiomqtt, Injector, IoT, Git, GitHub, Microservice, Architecture, CICD"
+다이노즈,React / Next.js 웹개발자 (2년 이상),"React, Nextjs, SEO, Firebase, AWS, UIUX, Figma, Sentry, APM, Typescript, HTML5, CSS, Git, GitHub, Github, Actions, ReactNextjs, HTML, javascript, Responsive, web, design, PR, Rebase, Merge, Squash"
+팀스파르타,[인턴] 코딩 교육 콘텐츠 제작자,"PD, B2B, IT"
+팀스파르타,[병역특례] Fullstack Engineer (산업기능요원),"DB, httpsnbcampspartacodingclubkr, PM, KPI, SOLID, TypeScript, NestJS, Nextjs, React, CICD, Github, Actions, CodePipeline, Vercel"
+로그프레소,프론트엔드 개발자 (1년 계약직),"Javascript, Typescript, spa, HTML, CSS, JavaScript, Angular2+, SDK, RESTful, Git, MS, PPT, PDF, TOPIK, domainknowledge, SIEM, JAVA, API, ES6, Vue, React, LESS, Webpack, SEO, SSR, Canvas, WebGL"
+타다(VCNC),웹 프론트엔드 개발,"CS, HTML, CSS, Javascript, Typescript, HTTPREST, React, Redux, Process, PDF, Nextjs, Nodejs, UnitIntegrationE2E, Webpack, rollupjs, ReduxRTKReduxSaga, Protobuf, Emotion, RTKQuery, Package, Manger, Yarn, Berry, Testing, JestRTL, CICD, Github, Action, Kubernetes, +, Helm, Amazon, EKS, Terraform, Tech, blog, httpsblogtechtadatadacom, VCNC, httpsspeakerdeckcomvcnc"
+코리아포트원,풀스택 소프트웨어 엔지니어(Full-stack),"API, SDK, UIUX, Computer, Science, HTML, CSS, JavaScript, React, UI, SPA, Tech, Stack, B2B, SaaS"
+포티투닷(42dot),Place data 운영 담당자 (1년 계약직),"CP, MS, Office, Google, Workspace"
+액트노바,Next.js 프론트엔드 개발자,"Nextjs, Turborepo, Vercel, Storage, SWR, Prisma, GraphQL, shadcnui, p5js"
+한국부동산데이터연구소,[내집스캔] Software Engineer,"Proptech, Property, technology, IT, API, ui, ab, voc, J"
+도슨티,"Software engineer (AI, Back, Fullstack)","AI, B2B, SaaS, httpsdocentyai, Frontend, engineerProduct, ownerMarketing, SalesDesignerBackend, engineerbackend, tech, stackspython, nodejs, nestjslangchain, FastAPI, MongoDBOpen, AIGCP, firebasefrontend, stackstypescriptreactjs, nextjsVercelPostgreSQLPreferencesLLM, startup, docenty, NLP, LLM, RAG, chatbot, global, potential"
+에이치아이티,Flutter Web CRM 개발자,"Flutter, GetX, Riverpod, Firebase, firestore, Postman, Slack, Gihub, Notion, Figma, CRM, ERP"
+오픈드림컴퍼니,프론트엔드 개발자 (1~3년),"a, K, Reactjs, UIUX, Google, Forms, b, API, c, Nodejs, Python, MySQL, PostgreSQL, MongoDB, AWS, GCP, Azure"
+한국신용데이터(KCD),[마켓팀] Senior Front-End Engineer,"KCD, CTO, React, +, TypeScript, AWS, Cloud, Application"
+리턴플러스,웹개발 / 프론트엔드 개발자 (3년 이상),"STO, SI, Nextjs, SSR, HTML, CSS, javascript, Typescript, IT, Blockchain, O2O, Figma, Jira"
+오프리메드,프론트엔드 개발자 (대리~과장),"React, NextJS, Figma, HTMLCSS, Git, Typescript, HTML, CSS, Javascript, Nextjs, GCP, AWS, UIUX"
+그루브,React-웹 개발자,"Nextjs, React, tanstackreactquery, zustand, zod, Agora, sendbird, Firebase, Analytics, Auth, Firestore, Tailwind, CSS, AIvue, Web, APIFirebase, Sendbird, OR, JavaScriptTypeScript, Git, reactquery, API, SSRSSG"
+마스터웨이,인앤써 프론트엔드 개발자(시니어),"AI, React, Typescript, Recoil, Query, Styledcomponents, Docker, AWS, Git, Tailwind, Github, Slack, Notion, Atlassian, HTML, CSS, JavaScript"
+카카오뱅크(kakaobank),글로벌 모바일 개발자 (React Native),"React, Native, TypeScript, JavaScript, Reactjs, iOSAndroid, Kotlin, Swift, UI"
+넥스트그라운드,[인턴] 프론트엔드 개발자,"Web, App, webview, React, TypeScript, Nextjs, Redux, Recoil, ReactQuery, SWR, HTMLCSS, Typescript, TailwindCSS, eslint, SSR, UI, WebViewInApp"
+씨제이올리브영(CJ올리브영),Senior Software Engineer (글로벌플랫폼),"IT, HB, Health, Beauty, Live, Young, IntroductionOliveYoung, Global, Dev, Center, is, committed, to, building, the, worlds, best, omnichannel, and, service, We, are, on, a, mission, copy, success, of, OliveYoung, in, Korea, let, global, citizens, enjoy, same, quality, convenience, for, living, young, life, Come, join, nations, most, minds, build, beauty, commerce, scale, that, never, existed, beforeGlobal, Platform, Team, under, has, two, main, objectives, First, we, take, care, domain, services, involved, postorder, processes, For, example, develop, features, such, as, payment, shipment, payout, etc, ensure, they, interact, organically, with, external, systems, Second, team, provides, cloud, based, infrastructure, essential, not, only, stable, operation, OliveYoungs, mall, but, also, scalable, hosting, other, crossdomain, +, years, professional, software, development, experiences, Proficiency, one, modern, programming, language, Experience, native, or, migration, Good, understanding, web, architectures, Love, face, technical, challenges, selfmotivation, Possession, logical, thinking, effective, communication, skills, intensive, collaboration, crossfunctional, teams, operational, excellence, mobile, application, ecommerce, checkoutorderpaymentshipment, multilanguage, multiregion, largescale, distributed, Bachelors, degree, computer, science, equivalent, Proven, achievement, highvolume, trafficOpportunities, API, CICD, Build, robust, backend, servers, sit, middle, at, end, communicating, endlessly, system, components, via, APIs, Partner, product, managers, designers, deliver, core, functionality, users, Collaborate, directly, many, supply, chain, warehouse, management, inventory, ordershipment, much, more, Work, data, scientists, machine, learning, engineers, enable, extreme, personalization, localization, level, Test, deploy, your, code, daily, basis, full, cycle, Express, endless, ownership, technologies, by, joining, call, rotation, pursuing, excellences, Sharpen, continuous, feedback, from, review, design, blamefree, postmortem, Practice, stateoftheart, agile, methodologies, Design, implement, house, set, different, applications, Grow, fellow, showcase, leadership"
+씨제이올리브영(CJ올리브영),Software Engineer (글로벌플랫폼),"IT, HB, Health, Beauty, Live, Young, IntroductionOliveYoung, Global, Dev, Center, is, committed, to, building, the, worlds, best, omnichannel, and, service, We, are, on, a, mission, copy, success, of, OliveYoung, in, Korea, let, global, citizens, enjoy, same, quality, convenience, for, living, young, life, Come, join, nations, most, minds, build, beauty, commerce, scale, that, never, existed, beforeGlobal, Platform, Team, under, has, two, main, objectives, First, we, take, care, domain, services, involved, postorder, processes, For, example, develop, features, such, as, payment, shipment, payout, etc, ensure, they, interact, organically, with, external, systems, Second, team, provides, cloud, based, infrastructure, essential, not, only, stable, operation, OliveYoungs, mall, but, also, scalable, hosting, other, crossdomain, +, years, professional, software, development, experiences, Proficiency, one, modern, programming, language, Experience, native, or, migration, Good, understanding, web, architectures, Love, face, technical, challenges, selfmotivation, Possession, logical, thinking, effective, communication, skills, mobile, application, ecommerce, checkoutorderpaymentshipment, multilanguage, multiregion, largescale, distributed, Bachelors, degree, computer, science, equivalentOpportunities, API, CICD, operational, excellence, autoscaling, Monolithic, Build, robust, backend, servers, sit, middle, at, end, communicating, endlessly, system, components, via, APIs, Partner, product, managers, designers, deliver, core, functionality, users, Collaborate, directly, many, supply, chain, warehouse, management, inventory, ordershipment, much, more, Work, data, scientists, machine, learning, engineers, enable, extreme, personalization, localization, level, Test, deploy, your, code, daily, basis, full, cycle, Express, endless, ownership, technologies, by, joining, call, rotation, pursuing, excellences, Sharpen, continuous, feedback, from, review, design, blamefree, postmortem, Practice, stateoftheart, agile, methodologies, containerbased, high, availability, Participate, legacy, monolithic, modularized, structures"
+씨제이올리브영(CJ올리브영),Senior Software Engineer (글로벌프로덕트),"IT, HB, Health, Beauty, Live, Young, Tech, Stack, Javascript, Typescript, NodeJS, NextJS, React, iOS, Native, Android, Java, Kotlin, Spring, Boot, Redis, Kafka, RabbitMQ, MySQL, MongoDB, Airflow, and, a, suit, of, AWS, services, Kubernetes, EKSIntroductionOliveYoung, Global, Dev, Center, is, committed, to, building, the, worlds, best, omnichannel, service, We, are, on, mission, copy, success, OliveYoung, in, Korea, let, global, citizens, enjoy, same, quality, convenience, for, living, young, life, Come, join, nations, most, minds, build, beauty, commerce, scale, that, never, existed, beforeGlobal, Product, Team, under, charge, overall, product, engineering, taking, care, worldwide, customers, user, journey, before, payments, details, listed, below, Overall, infrastructure, web, app, Features, listing, detail, pages, Data, handling, connect, users, products, via, comments, wishlists, likes, Various, including, banners, promotions, rewards, points, Shopping, carts, order, managementTech, StackAll, frontend, backend, sides, architected, with, proper, level, modularization, better, development, experiences, systems, scalability, normally, use, technologies, frameworks, choice, tech, stack, made, flexible, fashion, Frontend, Backend, Common, modules, Infrastructure, EKS, +, years, professional, software, Proficiency, one, modern, programming, language, Experience, cloud, native, or, migration, Good, understanding, architectures, Love, face, technical, challenges, selfmotivation, Possession, logical, thinking, effective, communication, skills, intensive, collaboration, crossfunctional, teams, operational, excellence, mobile, application, ecommerce, checkoutorderpaymentshipment, multilanguage, multiregion, largescale, distributed, Bachelors, degree, computer, science, equivalent, Proven, achievement, highvolume, trafficOpportunities, API, CICD, Build, robust, servers, sit, middle, at, end, communicating, endlessly, other, system, components, APIs, Partner, managers, designers, deliver, core, functionality, Collaborate, develop, directly, many, supply, chain, such, as, warehouse, management, inventory, ordershipment, much, more, Work, data, scientists, machine, learning, engineers, enable, extreme, personalization, localization, Test, deploy, your, code, daily, basis, full, cycle, Express, endless, ownership, by, joining, call, rotation, pursuing, excellences, Sharpen, continuous, feedback, from, review, design, blamefree, postmortem, Practice, stateoftheart, agile, methodologies, Design, implement, stable, scalable, house, set, different, applications, Grow, fellow, showcase, leadership"
+코그넷나인,프론트엔드개발자,"React, Javascript, UIUX"
+여기어때컴퍼니,Frontend Engineer [파트너서비스],"UIUX, React, Nextjs, Module, Federation, Figma, AWS"
+디윅스,프론트 개발자(5년 이상),"System, Integration, PMPL, Frontend, Git, Gitlab, CICD, HTML, CSS, JavaScript, TypeScript, React, Vue, SPA, Library, Framework, FE"
+바비톡,Web Frontend Developer,"Frontend, ReactNextjs, Scrum, Kanban, AWS, Typescript, CICD, UI, UX"
+넷마블,사내 시스템 개발(e-HR) 담당자,"HR, OOP, Java, Spring, DBMSmysql, oracle, mssql, Angular, React, vue, JQuery, mybatis, nginx, tomcat, intellij"
+데이터라이즈,Frontend Engineer,"UIUX, CRM, ES6+, TypeScript, React, Vue, Angular, SPA, Redux, Rest, api, Git, OOP, Component, Driven, Development, Nodejs"
+딥브레인에이아이,Front-end 엔지니어 / 병특가능,"B2C, B2B, SaaS, React, Typescript, Next, Java, Javascript, SI, AI, Human, SDK, for, JavaScript, Mobile, Standalone, Platform, API, Nodejs, Socket, Rest, SM"
+코딧(CODITCorp.),"프론트엔드 개발자 (리더, React.js 5년 이상)","ReactJS, JavasScriptES6, CSS, HTML, Javascript, React, Webpack, Babel, redux, recoil, reactquery, Git, Proactive, Typescript, Jest, Jasmine, Mocha"
+씨제이올리브영(CJ올리브영),"프론트엔드 개발자(회원, 쿠폰, 캠페인)","Ecommerce, Platform, Service, Frontend, Architecture, FrontEnd, JavaScript, React, Framework, Single, Page, Application, TypeScript, Nextjs, Recoil, Vuejs, JSP, jQuery, TypescriptReactjsNodejs, UIUX, Braze"
+아치서울,프론트엔트 개발자,"UIUX, API, HTML, CSS, JavaScript, RESTful, TypeScript, Vue, Vue3NuxtTypescript, Nuxt, Framework, Server, Side, Script, Figma, Sketch"
+클럼엘,Software Engineer (Frontend) (신입),"AI, OnPremises, Rust, WebAssembly, UI, Triage, SpringReact, iPad, Android, Tablet, SaaS, Google, Meet, C++, C#, Java, Git"
+메디오피아테크,Java Web (JAVA / JSP / SPRING),"Spring, framework, Java, Jsp, jQuery, MariaDB, OracleDB, PMProject, Manager, PLProject, Leader"
+그립컴퍼니,프론트엔드 개발(Senior/8년 이상),"SNS, Live, Frontend, HTML, CSS, Javascript, React, Typescript, RESTful, API, WebviewAndroid, iOS, Native, Tech, Stack, ReactJS, Recoil, Webpack, Nextjs"
+올거나이즈코리아(Allganize Korea),Jr. React Front-end Engineer (2년~6년),"React, GraphQL, SDK, UX, Guideline, responsive, web, application, QA, AI, LLM, clientside, Javascript, Application, HTML, CSS, Cross, Browser, UIUX, Open, Source, Project"
+알서포트(Rsupport),프론트엔드 개발자 (5년 이상),"WebRTC, Application, React, Redux, Vue, Webpack, ES6, Java, Script, HTML5, CSS3, Nodejs, UIUX"
+덴컴,프론트엔드 개발자,"AI, UX, TypescriptJS, Nodejs, Typescript, Reactjs, Nextjs, Jest, cypress, MSA, Electron, framework, Figma"
+에피소든,프론트엔드 개발자,"WebRTC, React, NextJS, Native, TypeScript, Github, Jira, Confluence, SDP, ICECANDIDATE, STUN, TURN, Nodejs, Nextjs, Webpack, Lint, JavaScript"
+씨제이올리브영(CJ올리브영),데이터 서비스 플랫폼 엔지니어(Front-end개발),"Frontend, Application, TypeScript, JavaScript, HTML, CSS, HTTP, React, Nextjs, IT, RESTful, API"
+슈퍼레이블,프론트엔드 엔지니어 (2년 이상),"Nextjs, React, TypeScript, CSS, Figma, JavaScriptCSSHTML, git"
+큐플레이스,Javascript 풀스택 개발 (재택근무) (5년이상),"UXUI, Client, RESTful, Q, PLACE, Computer, Science, Typescript, Javascript, HTML, CSS"
+리얼티쓰,Frontend developer (3년차 이상),"3D, React, Typescript, Canvas, or, WebGL, Nextjs, SSR"
+딥노이드(Deepnoid),[보안AI사업본부] 프론트엔드 개발자,"React, Typescript, AI, SPA, framework, HTML, CSS, javascript, BFFBackend, For, Frontend, Canvas, Backend"
+심플컴퍼니,[패치스] 웹 프론트엔드 개발자 (3년 이상),"AI, Vuejs, React, SPA, HTML, CSS, HTTP, REST, API, Git, SNS, TypeScript, Nextjs, Nuxt, SSR"
+풀림,백엔드 개발자 python 팀장급,"Python, Flask, Django, egSelenium, Appium, ScheduleregAPSchedulerAWS, Event, Scheduler, cron, job, REST, API, DB, Batch, IT"
+시어스랩(Seerslab),프론트엔드 개발자 (웹 & 모바일),"iOS, Android, UX, UIUX, UI, React, Vuejs, Angular, WebSocket, GraphQL, Lighthouse, Sentry, Google, Analytics, Firebase, HTML, CSS, Redux, Styled, Components, RESTful, API, Typescript, CICD, AWS, Cloud"
+로그프레소,프론트엔드 개발자,"Javascript, Angular2+, 1TB, SaaS, or, Typescript, Git, MS, PPT, PDF, TOPIK, SDK, domainknowledge, SIEM, JAVA, RESTful, API, ES6, Vue, React, LESS, Webpack, SEO, SSR, Canvas, WebGL"
+라이즌스퀘어,VUE 개발자 (9년차 이상/리더급),"Vuejs, vuechartjs, vueforcegraph, vue, Vite, Dev, Server, monacoeditorloader, Frontend, API, axios, Kubernetes, Openlens, grafanaPrometheus, Figma, UI, chartjs"
+라닉스,웹개발자 (Front End),"AWS, Smart, Healthcare, Nodejs, Expressjs, Spring, iOS, Android, Javascript, Python, Java, or, Front, End, HTML, CSS, RESTful, UI, UX, HTTP, JWT, DB"
+엔쓰리엔(N3N),[개발본부]Frontend 개발자 (4년 이상),"React, ReactNative, Application, Cloud, Native, App, AOS, IOS, APP, ReactQuery, Redux, Framework, Git, ReactJavascript, HTML, CSS, AI, UIUX"
+셀틱스테크놀로지,"[Biotech] C#, React Software Engineer","LIMS, C#, NET, JavaScriptTypeScript, GitGithub, React, Agile"
+오케스트로,Front-end Developer (Design System),"Frontend, Developer, Design, System, UI, Template, Vuejs, React, javascript, nodejs, HTML, CSS, JavaScript, Typescript, Webpack, Redux, vuex, pinia, Vue, Github"
+스토어링크,서비스플랫폼팀 리드 (개발 팀장),"Public, Cloud"
+파워테스크,프론트앤드 엔지니어,"React, TypeScript, UIUX, AI, UX, UI, LLM, REST, API, Engineer, Jobs, Done"
+버블탭,프롬프트 엔지니어,"OpenAl, Claude, HCX, AI, RAG, LLM, Finetuning, workflow, AB, TEST, Tool, Close, APIs, Python, PyTorch, RetrievalAugmented, Generation, NLP, OpenAI, APIGPT4, HyperCLOVA, Gemini, RAGRetrievalAugmented, FAISS, Weaviate, AWS, Bedrock, Azure"
+디플래닉스(Dplanex),웹 풀스택 개발자(7~9년),"Frontend, Vuejs, JavaScript, TypeScript, CSS, HTML, Backend, Java, Spring, Boot, Framework, Nodejs, JPA, MyBatis, AWS, DB, MySQL, PostgreSQL, AuroraDB, Redis, CICD, GitLab, Jenkins, ArgoCD, Slack, Jira, Notion, Redmine, HTTP, REST, API, Git, Kubernetes, Pinpoint, Scouter, APMApplication, Performance, Monitoring"
+에이치나인,프론트엔드 개발자(4년 이상),"React, Native, Flutter, Electron, Javascript, Typescript, Dart, Framework, Android, iOS, HTML, CSS, Vue, Front, End, git, jira, Flow, type, Reduxmobx, state, manamement, framework, reactquery, swr, network, caching, 3rd, Party, Project, Leader"
+메디올로지,프론트엔드 개발자(FE Developer),"App, React, Native, SaaS, Admin, FE, iOSAndroid, mobile, app, UX, Frontend"
+포티투닷(42dot),Frontend Engineer (Mobility System),"FMS, WMS, TMS, OMSOrder, Management, System, React, PC, Mobile, Web, SaaS, B2B, Git, Jira, CICD, MapGL, Threejs, 3D, ServerSide, Rendering, Nodejs, E2E, SI"
+비즈니스캔버스,Re:catch 시니어 프론트엔드 엔지니어(5년 이상),"Peer, Review, UIUX, React, TypeScript, Nextjs, RxJS, Tanstack, Query, Vitest, Playwright, Storybook, Styled, Components, Ant, Design, PNPM, CICD, Github, Actions, Turborepo, Tooling, Frontend, DX, GCP, B2B, SaaS"
+엔카닷컴,iOS 앱 개발 (5~10년),"App, e, iOS, Jenkins, Journey, Map, Jira, Swift, SwiftUI, UI, LifeCycle, MVVM, UIUX, modularization, git, stomp, mqtt, apns, realm, reactiveX, UnitUI, Flutter, Dart, TypeScript, Python"
+포티투닷(42dot),Senior Frontend Engineer (운송관리시스템),"2dot, SDL, TMSCapora, Web, Front, OMS, React, PC, Mobile, SaaS, B2B, Git, Jira, CICD, MapGL, Threejs, Server, Side, Rendering, Nodejs, E2E"
+엑스크루(xcrew),프론트엔드 개발자,"Javascript, Typescript, CSS, Nextjs, Reactjs, Vue, git, IT, O2O"
+포티투닷(42dot),Frontend Engineer (WMS),"WMS, Web, Front, React, PC, Mobile, SaaS, B2B, Git, Jira, CICD, SI"
+피에프씨테크놀로지스,주니어 웹 프론트엔드 엔지니어(React),"PFCT, AI, PO, B2C, Web, Application, HTML, CSS, JavaScript, Typescript, JSTS, React, Angular, Vue, Jest, Cypress, Mocha"
+페이워크,ReactNative/React 프론트 개발자 (3년 이상),"SaaS, React, NativeReact, TypescriptJavascript, Android, iOS, Native, Flutter, Redux, zustand, Typescript, Javascript, Style, Play, Store, App, Rest, API, Webpack, Git, Jira, UIUX, OOP, codepush, fastlane, CICD, UI, PRD, Tech, Spec"
+바인드,Senior Frontend Engineer,"Senior, Frontend, Engineer, Athler, Sr, React, Native, TypeScript, ReactNative, Android, IOS"
+코워크위더스,풀스택 개발자,"Typescript, Nextjs, Apollo, Client, Nestjs, Graph, QL, MySQL, PM, HR"
+코딧(CODITCorp.),"앱 개발자 (React Native,  2년 이상)","React, Native, Expo, Web, Framer, Storybook, Codit, Design, System, JavasScriptES6, CSS, HTML, Javascript, Typescript, Webpack, Babel, Recoil, Git, Jest, Jasmine, Mocha"
+알리콘,프론트엔드 개발자,"JavaScript, TypeScript, SvelteKit, React, Vue, GitHub, PythonDjango"
+더매니저,[개발] 프론트엔드 개발자,"Web, FrontEnd, App, Responsive, UX, Javascript, html5, CSS, ES6, Flutter, React, Vue, Angular, SPA, Git, SW, RESTful, API, UIUX, AWS, Code, Review, AgileScrum, figma, zeplin"
+폴센트,Senior Developer,"Dart, Flutter, Python, Django, aws, k8s"
+무신사,[29CM 프론트엔드팀] Frontend Engineer,"UIUX, 9CM, React, Vuejs, Angular, SPA, Nextjs, Nuxt, SSR, TypeScript, TanStack, Query, Zustand, TailwindCSS, Emotion, PNPM, Yarn, Berry, Webpack, SWC, Babel, Vite, GitHub, Actions, Jenkins, ArgoCD, SEO, Backend, DevOps, Database"
+넷마블,Back Office 시스템 개발자,"Back, Office, FrontEnd, HTML, CSS, AngularJs, Vuejs, Reactjs, Full, Stack, Java, Spring, framework, System, Architecture, RDBMS, mySQL, CICD, Hybrid, WebApp"
+펄송,프론트엔드 개발자 (React-Native & React),"#, React, Native, ReactNative, Android, iOS, HTML, CSS, javascript, JavaScript, TypeScript, AZ, Git, Notion, Slack, Typescript, O2O"
+채권도시,풀스택 개발자,"NPL, AI, Java1, springboot3, mongoDB4, JavaScriptES6+TypeScript, ReactjsNextjs, CSS, HTML, GitGithub, Gitflow, ObjectOriented, AWS, JavaScriptTypeScript, Agile, ScrumKanban"
+데일리페이,Front-End 개발자,"React, Frontend, or, Lifecycle, SPA, ES6, Modern, Javascript, HTML, CSS, Git, Typescript, Hooks, CSSinJS, Sass, Styled, Component, SSR"
+포티투닷(42dot),Senior Frontend Engineer (FMS),"Fleet, management, system, Web, frontend, React, PC, Mobile, SaaS, B2B, Git, Jira, CICD, MapGL, Threejs, Server, Side, Rendering, Nodejs, E2E"
+두잇 (Doeat),[전문연구요원(석사)] Software Engineer / Data Analyst,"Frontend, Engineer, PO, Backend, Data, Analyst, KPI, AB, SQLPython, React, ReactNative, java, kotlin, spring, API, SQL, RDB, Python, pandas, numpy, matplotlib, cloud, infra, BI, Tableau, Looker, Redash"
+두잇 (Doeat),Frontend Engineer (4년 이상),"React, ReactNative, Spring"
+누비랩,Front-end Engineer,"Frontend, Engineer, React, Nextjs, B2B, B2G, B2C, MVP, Internal, Tool, Admin, Tech, Talk, Solve, FE, Align, TypeScript, +, Reactturborepo, pnpm, yarntsup, vite, vitest, storybookvanillaextract, styledcomponentstanstackreactquery, ZustandAWS, Github, Action, ArgoCD, DockerWeb, vitals, Sentry, Git, CICD, DevOps, eg, ELK, Datadog, ReactNative, Webview"
+포티투닷(42dot),Frontend Engineer (Location Based Service),"Place, LBS, React, Web, Context, API, UXUI, Location, Based, Service, HTML, CSS"
+아임웹,Front-End Engineer,"Frontend, Engineer, React, Architecture, UIUX, PHP, Typescript, Vue, Angular, SPA, Nextjs, Nx, Redux, Zustand, Vite, Storybook, CICD, TDD, JQuery, Emotion, TailwindCSS, Cypress, Playwright, ReactQuery, Recoil, Jotai"
+오케스트로,Back end Developer,httpsbitlyOKESTROBackendDeveloper
+오케스트로,Front end Developer,httpsbitlyOKESTROFrontendDeveloper
+오케스트로,Publisher,httpsbitlyOKESTROPublisher
+호각,React Native 앱 개발자,"React, Native, iOS, Android, RESTful, API, UI, Git, TypeScript, HTML, CSS, JavaScript, JIRA, Notion, CICD"
+프롭데이터,풀스택 개발자,"API, RESTful, React, VuejsJAVA, SpringBootMySQL, MariaDB, FrontEnd, Vuejs, UI, BackEnd, Java, SpringBoot, MySQL, PM, Linux, RestfulAPI"
+코너,모바일 앱 개발 : 리액트 네이티브,"Mobile, App, Admin, React, Native, FrontBackend, TypeScript, react, native, mysql, Typescript, Javascript, Linux, Frontend, Python, PHP, Backend, nodejs, Rest, API, DB, DBRest, AWS, fullcycle, Java, Swift, Colton, ObjectiveC, MVVM, Clean, Architecture"
+차티드,소프트웨어 엔지니어 (신입),AI
+플렉슬,프론트엔드 개발자,"React, Vite, SPA, Tailwind, CSS, UIUX, RESTful, API, Oauth2, AWS, TypeScript, SEO, JWT, Oauth, UX, OWASP"
+세나클,Windows Client(C# WPF) 개발,"EMRElectric, Medical, Record, Windows, Client, C#WPF, C#, WPF, MVVM, Pattern, XAML, UI, Library, DevExpress, Telerik, Custom, Control, NET, Framework, Server, RESTFul, Git, EMR, Application"
+에듀이엔브이,웹 프론트엔드 (NextJS) 개발자,"WebSocket, AI, WebRTC, UI, LMS, UX, NextJS, React, TypeScript, HTML, CSS, JavaScript, Monaco, CodeMirror"
+아이스크림아트,AI 연동 서비스 개발자,"AI, Nodejs, Database, mysql, postgresql, Rest, API, NestJS, framework, ORM, prisma, drizzle, python, frontend, react, AWS"
+클래스유,프론트엔드 엔지니어(F.E),"AI, React, Nextjs, Python, LLMLarge, Language, Model"
+낭만상회,[시니어] 프론트 개발자(React / React Native) (5~7년),"React, TypeScript, Native, APP, Git, Cloud, Nodejs, CICD, endtoend"
+이노그리드,네이티브 플랫폼팀 프론트엔드 개발 (팀원),"Kubernetes, PaaS, DevOps, JavaScript, TypeScript, HTML, CSS, React, Vue, Angular, SPA, Webpack, Rollup, Vite, RESTful, GraphQL, MSA, UIUX, UI, ESM, CommonJS, AWS, Azure, GCP, K8s"
+어베어(윈들리),Frontend Software Engineer (전문연구요원),"Pain, Point, B2B, Affiliate, Typescript, React, HTML, CSS, Javascript, Git"
+리걸케어,[프론트엔드 개발] Product Maker,"PO, CX, Product, Maker, POPM, MVP, FramerBubbleCursor, AI"
+딥노이드(Deepnoid),[의료R&D본부] 프론트엔드 개발 PL,"React, RESTful, API, HTML, CSS, JavaScript, Git, TypeScript, ECMAScript, DICOM, FHIR, HL7"
+와탭랩스(WhaTapLabs),빌링시스템 개발자,"PDF, Excel, springboot, JPA, PG, Reactjs, UX, Java"
+한터글로벌,서비스개발실 프론트엔드 개발자,"React, HanteoChart, HanteoNews, Whosfan, TypeScript, Nextjs, Electron, ReactQuery, Redux, SCSS, Yarn, Berry, PNPM, Webpack, Vite, Nx, CICD, GitHub, Actions1, +, ES6, JavaScript, Vue, Angular, SPA, HTML, CSS, git, SCM, Babel, Rollup, AWS, S3, CloudFront, ESLint, UIUX"
+엔닷라이트,웹 서비스 프론트엔드 개발자 (5년 이상),"Frontend, Typescript, Javascript, CSS, Nextjs, Reactjs, React, Github, Actions, Jenkins, Travis, CI, CICD, AWS"
+세븐픽쳐스,[넷플연가] 프론트엔드 엔지니어,"UI, React, Flutter, Native, Firebase, GCP"
+씨제이올리브영(CJ올리브영),프론트엔드 개발자(버티컬서비스),"Ecommerce, Platform, Service, Frontend, Architecture, JavaScript, React, Framework, Single, Page, Application, TypeScript, Nextjs, Recoil, Vuejs, JSP, jQuery, TypescriptReactjsNodejs, SNS"
+코드잇(codeit),콘텐츠 프로듀서 (프로그래밍 교육),"PD, Computer, Science, Best, practices, Java, Spring, Python, JavaScript, TypeScript, Kotlin, HTML, CSS, Nodejs, React, Express, Django, Flask, AWS, SQL, Q, A"
+패스트레인(여신티켓),프론트엔드 개발자,"JavaScript, TypeScript, React, Nextjs, Zustand, Query, Slack, Jira, Notion, Figma, Git, CICD, github, Action, FE, UIUX, HTML, CSS, Confluence, Github, SEO"
+놀유니버스,Software Engineer (투어),"TypeScript, React, Nextjs, styledcomponents, Apollo, Query, Kotlin, Spring, Boot, JPA, Querydsl, MySQL, MongoDB, Redis, AWS, Kinesis, SQS, Lambda, GitHub, Actions, Datadog, Sentry, Slack, Webhook, REST, API, N, Monorepo, MSA, Eventdriven, Architecture, Semantic, Markup, SPA, NOL"
+플레이타임,풀스택 프로덕트 엔지니어,"App, Server, Kotlin, Android, Compose, MVVM, iOS, RxSwift, Web, ReactTypescript, Server+Android, Server+Web, Android+iOS, +"
+제네시스랩,Frontend Developer (3년이상),"HR, React, TypeScript, Redux, Saga, Webpack, HTML, CSS, JavaScript, UIUX, Typescript, Flow, Jest, react, testing, Library, Cypress, HTTP, REST, GraphQL"
+전능아이티,[Smartdoctor] 프론트엔드 개발자,"React, Nextjs, html, css, javascript, Vue"
+웰트(WELT),Frontend Web Engineer,"SleepQ, DTx, WebView, Nextjs, TypeScript, JavaScript, ES6, Redux, Recoil, Zustand, Shadcn, UI, Chartjs, UIUX, AI, Assist, Tools, Bridge, Interface, PostMessage, API, TDD, GitHub, Actions, CICD, Docker, Flutter, React, Native, Cordova"
+에스케이씨앤씨(SK C&C),Digital Factory 제조플랫폼 개발 및 구축업무 (생산/장비/품질 자동화),"Digital, Factory, MOS, SPC, FDC, QMS, RMS, Delivery, Compliant, LCD, OnPremise, IaaSPaaSSaaS, BackEndSpring, Boot, Java, Oracle, FrontEndVue3, js"
+지엔터프라이즈,React Native 앱 개발자,"React, Native, Jira, Confluece"
+이그레브,대기업 SI 프로젝트 react 개발자,"Frontend, react"
+부지런컴퍼니,"모바일 앱 개발자(Flutter, React Native)","React, Native, Flutter, HTML, CSS, JS, REST, API, AWS, JAVA, Spring, php"
+페이버릿미디엄,프론트엔드 개발 리드 (7년차 이상),"Agile, React, Flutter, Vue, TypeScript, endtoend, CICD, Cypress, Playwright, Storybook, BrowserStack, GraphQL, RESTful, API, B2C"
+오더체크,프론트 개발자,"UIUX, HTML, JavaScript, CSS, React, Typescript, CDD, Native"
+넥스트에디션,프론트엔드(React/React-Native) 개발자,"iOSAndroid, Typescript, Javascript, HTML, CSS, ReactReactNative, iOSSwiftAndroidKotlin"
+워드바이스,프론트엔드 개발자(시니어/5년 이상),"Vue, React, Nextjs, HTMLCSSTypescriptjavascript, Restful, API, Nuxtjs, Technical, SEO, i18n"
+무신사,Frontend Engineer (PBO/오프라인),"React, JavaScriptTypeScript, Vuejs, SPA, HTML, CSS, JavaScript, Git, UI"
+씨드로닉스,Front-end,"React, redux, recoil, ES6, CS"
+지에이티글로벌,개발팀 PM 팀장 (5-10년),"API, CRM, Java, Python, Nodejs, React, Vuejs, MySQL, PostgreSQL, AWS, GCP"
+지에이티글로벌,프론트엔드 개발자 (3년 이상),"React, REST, API, Frontend, Developer, ReactHTML, CSS, javascriptES6, Git, Typescript, UI, Native, Flutter"
+클린일렉스,Frontend Engineer (3년 이상),"iOSAndroid, Vue2, Vue3, AndroidiOS, UIUX"
+피프틴에이치,웹 프론트엔드 개발,"React, HTML5, CSS3, JavaScript, RESTful, API, Postman, ES6, TypeScript, Webpack, UIUX, Git, RxJs, jQuery, Vuejs, Angularjs, JS, Native, Flutter"
+비상교육,Front End 개발자(AllviA),"Front, End, Frontend, Skill, React, ReduxMobx, Nextjs, JavascriptTypescript, Sass, HTML5CSS, Git, CICD, Cell, MS, K, CP, L, H"
+아이파킹,웹프론트엔드 개발자,"JavaScript, +, Vuejs, TypeScript, Angular, Frontend, Javascript, ECMA, Superset, MobilePC, HTMLCSS, RESTful, API, Backend, DevOps, FE"
+라이프페스타,앱 프론트엔드 개발(Unity3D),"Unity, UI, C++, C#, AI, XRARVR"
+미림미디어랩,비즈니스 로직 개발자,"Nextjs, AWS, JavaScript, TypeScript, Reactjs, Git, RESTful, API, GraphQL, HTML, CSS"
+두번째,Web & Mobile App Front-end 개발자(신입~1년 이상),"B2B, React, Javascript, Nextjs, Native"
+크리에이트립,시니어 프론트엔드 엔지니어,"Reactjs, JavaScript, AZ, GraphQL, Apollo, Client, e2e, React, Native"
+마브렉스,프론트엔드 개발자,"MBXSwap, dApp, MBXNFT, NFT, MBXStation, SDK, Wallet, HTMLCSS, JavascriptES6+TypeScript, React, Nextjs, SSR, SEO, Figma, Git, Vue, Svelte, Monorepository, Web3js, ehtersjs, WalletConnect, Blockchain, Jira, Confluence, Backend, UIUX"
+샵라이브,Software Engineer (Front-end) - 3년 이상,"Typescript, React, Vue, Svelte, zustand, redux, Backend, Mobile, App"
+이노버스,[SW팀] 크로스플랫폼 앱 개발자(Flutter),"Flutter, Riverpod, Provider, Firebase, AWS, EC2, S3, Git, MVC, MVVM, Method, Channel, Kotlin, Swift"
+블록에스,프론트엔드 개발,"React, ReactNative, Typescript, Nextjs, Redux, reduxsaga, or, Zustand, Context, API, UIUX, ReactQuery, Native, App, Android, iOS, Firebase, DB"
+도르코퍼레이션,프론트엔드 개발자 (Frontend Developer],"Frontend, Developer, Creator, Community, PO, PD, DA, DOR, voc, Record, Edit, ReactTypescriptNextjs, Electron, WebGL, React, native, windows"
+호패,Frontend Engineer,"Key, ResponsibilitiesAs, a, Frontend, Engineer, at, Hopae, you, will, be, responsible, for, developing, usercentric, web, experiences, You, work, closely, with, crossfunctional, teams, to, create, highquality, and, responsive, user, interfaces1, Design, develop, interfaces, UI, UX, applications2, Optimize, websites, applications, speed, scalability, experience3, Perform, clientside, development, using, the, latest, technologies, programming, languages4, Collaborate, identify, implement, new, features, improvements, products5, Write, clean, maintainable, testable, code, based, on, best, practices, highest, quality, standardsTech, Stack, Languages, TypeScript, JavaScript, ES6+, Frameworks, React, Expo, Nextjs, Styling, CSS, SCSS, TailwindCSS, Styled, Components, State, Management, Context, API, Data, Fetching, RESTful, APIs, Axios, SWR, Build, Tools, Vite, Webpack, Babel, Testing, Jest, Library, Cypress, Analytics, Amplitude, Hotjar, Google, Version, Control, Git, GitHub, Collaboration, Documentation, Figma, Slack, NotionMust, Haves1, Bachelors, or, Masters, degree, in, Computer, Science, related, field2, Minimum, of, years, experience, frontend, development3, Strong, skills, Experience, modern, frameworks, like, Nextjs5, understanding, design, principles, their, applicationNice, Entrepreneurial, solid, business, metrics2, contributing, successful, projects, from, early, stages3, Familiarity, agile, processes, Scrum, Kanban4, TDD, automated, testing, frameworks5, Knowledge, static, type, languages, such, as, TypeScript6, Understanding, integration, backend, services7, Desire, expand, globally, international, reach8, Interest, Deep, TechB2B, SaaS, domain, particularly, digital, identity, authentication, space"
+트루밸류,프론트엔드 개발자,"React, native, RESTful, API, HTML, CSS, JS, Nextjs, react, AWS, ec2, nginx, ssl, https, expo, Git, GitHub, action, Backend, DB, Github, Firebase, REST"
+씨제이올리브영(CJ올리브영),프론트엔드 개발자(앱서비스),"Frontend, Architecture, React, TypeScript, Nextjs, Recoil, Vuejs, JSP, jQuery, JavaScript, Framework, Single, Page, Application, TypescriptReactjsNodejs"
+위드네트웍스,프론트엔드 개발자,"Vue, vue3, html, +, css, Rest, API, Git, Vite, Typescript, Figma"
+코니스트,웹 프로그래머 (신입~2년),"Fullstack, Front, End, React, FrontEnd, Sass, css, BackEnd, Nodejs, Nextjs, MySQL, PHP, Laravel, Data, python, Reactjs, or, Vuejs, Select, Join, Insert, Update, MVC, Database, Index, Foreign, Key, API, AWS, GIT"
+버티컬바,프론트엔드 개발자 (5년 이상),"MVP, Javascript, Typescript, Vue, React, d3js, plot, RDBMS, NoSQL, AWS, GCP, Frontend, engineer, ACMICPC, Google, codejam, Facebook, hackercup, or, Topcoder, Problem, solving, Real, world, large, scale"
+아이클루드,풀스택 개발자(Fullstack Developer) (5년~10년),"Cursor, +, claude, sonnet, FEWEBAPP, React, Vite, Tailwind, css, Native, BE, AWS, Vercel, Nodejs, Firebase, DuckDB, Graphql, PostgreSQL, MongoDB, Typescript, tailwind, RDB, NoSQL, Restful, API, GraphQL, Github, Auth, FCM, Figma, Framer, B2C, Usercentered, design, UX, LLM, CICD"
+워드브릭스,프론트엔드 엔지니어 - 웹 어셈블리,"UX, HTML5, CSS3, JavaScript, ES6, React, Angular, Vuejs"
+이지바로,프론트엔드 개발자,"PMSProperty, Management, System, UIUX, API, java1, vuejs, postgresql, Spring, Boot, HTML, CSS, JavaScript, React, Vuejs, Git, PMS, TDD"
+이브로드캐스팅,[삼프로TV] IT개발팀 (프론트엔드 개발자),"3PRO, videoproduction3protvcom, API, Expressjs, Nest, ReactjsVuejs, Nextjs, Typescript, React, QueryTanstack, Query, Recoil, Zustand, Jotai, CSRSSR, Vite, Webpack, Tailwind, CSSUnoCSS, Emotion, Vanila, Extract, UI, mjs, cjs, ESM, CommonJS, AWS, Azure, GCP"
+브룩허스트거라지(B GARAGE),Full Stack Software Engineer (5년 이상),"Design, and, develop, userfriendly, responsive, frontend, interfaces, using, modern, frameworkseg, React, Vuejs, Develop, robust, scalable, back, end, efficient, algorithms, data, structures, ensuring, adherence, to, coding, best, practices, Perform, unit, integration, tests, for, continuous, deployment, Write, comprehensive, technical, documents, at, each, development, cycle, Provide, timely, support, prototypes, products, of, other, various, teams, effective, APIs, Responsible, endtoend, front, Collaborate, with, within, the, company, Bachelors, degree, in, computer, science, or, related, fields, years, experience, web, application, Experience, building, software, applications, databases, designing, integrating, REST, relational, database, schema, design, adaptation, mass, user, systems, Familiar, databaseseg, MySQL, Oracle, serverseg, Apache, Nginx, Flask, UIUX, Proficient, Python, Nodejs, Java, JavaScript, Vue, debugging, optimization, techniques, Proactive, selfmotivated, individual, capable, thriving, a, rapidly, changing, environment, Possesses, problemsolving, skills, Intermediate, proficiency, English, collaborate, US, team"
+메라키플레이스,Product Engineer (Front-end),"Healthcare, Super, App, Frontend, ChapterSquad, Sprint, Why, What, When, How, Squad, Chapter, to, Web, TypeScript, React, Native, TopDown, iOS, Android, Feature, Flag, Versioning, QA, Backend, Data, Infra"
+마야크루,프론트엔드 개발자,"React, native, Vuejs, HTML5, CSS3, REST, API, Web, Native, TypeScript, Git, Notion, Slack, Jira, Github"
+북틀,NODE FRONT-END 개발자,"nodejs, express, solution, framework, js, Third, Party, react, nextjs, FrontEnd, JavaScript, HTML, CSS, Reactjs, Nodejs, UIUX, Agile, Git, HTMLCSSJS, GIT"
+기아,[ICT] Frontend Developer,"Frontend, React, VueJs, UIUX, Cross, Browser, API, UI, IT, JavaScript, TypeScript, HTMLCSS, framework, Angular, SCM, CICD"
+기아,[ICT] Backend Developer,"Backend, Frontend, API, Trouble, Shooting, Agile, CICD, Java, IT, Spring, Framework, Boot, Linux, NoSQL, RDB, DB, RDBMS, Query, Tuning, CDN, Cloud, VM, Container, Kubernetes, Docker, AWS, Azure"
+전능아이티,[Smartdoctor] 산업기능요원(보충역) 개발자,"EMR, C#, Android, Ios, app, net, Web, React, TypeScript, css, Typescript, NestJS, Spring, IOS, react, nodejs, database, SQL, Server, MySQL, PostgreSQL, AWS"
+핌아시아,프론트엔드 개발리드 (10년 이상),"Mobile, native, app, flutter, Web, reactjs, nextjs, BackEnd, Java, Kotlin, Python, Spring, Framework, JPA, JOOQ, FrontEnd, Typescript, ReactNextjs, Dart, CloudInfra, AWS, ECS, Database, MySQL, MongoDB, Tool, Bitbucket, Jira, Confluence, Google, workspace, Macbook4, Application, HTML, CSS, JavaScript, JSTS, React, Angular, Vue"
+제이앤피메디(JNPMEDI),Senior Front-end Software Engineer,"Maven, Clinical, Cloud, Digital, Transformation, ReactTypescriptjsxtsxsassCICDGithub, Actions, MSAMicro, Service, Architecture, React, Typescriptjavascript, UI"
+이브로드캐스팅,[삼프로TV] IT개발팀 팀장급(풀스택 개발자),"3PRO, videoproduction3protvcom, API, Expressjs, Nest, Javascript, Vite, Webpack, Tailwind, CSSUnoCSS, Emotion, Vanila, Extract, UI, mjs, cjs, ESM, CommonJS, AWS, Azure, GCP, DB, RESTful, GitHub"
+케이비헬스케어(KB헬스케어),프론트 엔드 개발자 (3년 이상),"ReactNextjs, Vue, TypeScript, cross, browsing, HTML, CSS, JavaScript"
+캐치잇플레이(Catch it english),AI 교육 플랫폼 - 웹 프론트엔드 개발자  (재택근무 가능),"Javascript, Framewok, React, Vue, HTML, CSS, GIT, REST, API, PM, Meditation, Mindfulness"
+이디피랩,풀스택 개발팀장,"React, ReactQuery, Recoil, Styledcomponents, Nom, Yarn, CRA, Vite, Git, GitHub, Java, SpringBoot, MySQL, devops, android"
+캐럿솔루션즈,개발/ 프론트엔드 개발자,"Vue, Capacitor, Web, App, Hybrid, UIUX, HTML, CSS, JavaScript, SPA"
+브룩허스트거라지(B GARAGE),Senior Full Stack Software Engineer (10년 이상),"Design, and, develop, userfriendly, responsive, frontend, interfaces, using, modern, frameworkseg, React, Vuejs, Develop, robust, scalable, back, end, efficient, algorithms, data, structures, ensuring, adherence, to, coding, best, practices, Perform, unit, integration, tests, for, continuous, deployment, Write, comprehensive, technical, documents, at, each, development, cycle, Provide, timely, support, prototypes, products, of, other, various, teams, effective, APIs, Responsible, endtoend, front, Collaborate, with, within, the, company, Bachelors, degree, in, computer, science, or, related, fields, years, experience, web, application, Experience, building, largescale, software, applications, databases, designing, integrating, REST, relational, database, schema, design, adaptation, mass, user, systems, Familiar, databaseseg, MySQL, Oracle, serverseg, Apache, Nginx, Flask, UIUX, Proficient, Python, Nodejs, Java, JavaScript, Vue, debugging, optimization, techniques, Proactive, selfmotivated, individual, capable, thriving, a, rapidly, changing, environment, Possesses, excellent, problemsolving, skills, MS, PhD, engineering, mobile, aerial, robots, ROS, Intermediate, higher, proficiency, English, collaborate, US, team"
+일루넥스,프론트엔드(ReactJS) 개발자,"Frontend, Reactjs, Nextjs, Typescript, Jotai, ReactQuery, scss, styledcomponents, Storybook, Webpack, Vite, Babel, Esbuild, Turborepo, SWC, Vue, SPA, Flow, Javascript, Serverside, Rendering, Monorepo"
+파이프트리스마트팜(PAIPTREESmartFarmInc.),풀스텍 개발자 (5년차 이상),"ERP, Farmers, Mind, EMS, Quasar, Framework, vuejs, JavaStringFramework, REST, API, Linux, MariaDBMSSQL, Nginx, Git, AWS, Docker"
+원티드_일본 현지 채용,[キャディ株式会社] Tech Lead (Frontend領域)_근무지 일본,"CADDi, DrawerTypeScriptUIUX, N23WebUIWebAssemblyNodejsGraphQLApolloBFFWebSSRCSRSSGAMPPWA"
+미르니,풀스택 엔지니어,"EVM, Subgraph, SQL, Javascript, BGTscan, Dune, Analytics"
+엔카닷컴,시니어 프론트엔드 개발자 (5년이상),"E, ReactJS, Frontend, Redux, Typescript, NextJS, Server, side, rendering, NodeJS, Git, Flow, AWS, Bamboo, Jenkins, MacOS, Jira, Confluence, FigmaJourney, Map, e, A, to, Z, OJT, IT, HTML, CSS, ES6, Webpack, Babel, RESTful, API, SPA, SSR, UIUX, SEO"
+뤼튼테크놀로지스,Frontend Engineer (Web) (3년 이상),"AI, Generative, Typescript, React, Next, Typscript, NextJS, Recoil, ReactQuery, REST, API, gRPC, Web, Socket, B2C, Sentry, Datadog, Webpack, Vite, ECMAscript, SDK, Slack, Jira, Figma, Notion"
+테서,프론트엔드 개발자 [3년 이상] (React Native),"React, Native, SaaS, Reactjs, Nextjs, UIUX, SSR, TypeScript, Apollo, GraphQL, Styled, Component, CICD, GitHub, Actions"
+그래비티랩스,Software Engineer,"TypeScript, React, Native, Kotlin, Swift, Serverless, Node, MongoDB, PO, DA, MVP, iOS, Android, cloud, infra"
+쿠팡,Senior Frontend Engineer (Coupang Ads),"UX, Computer, ScienceEngineering, BABS, WebKit, HTML5, CSS3, Javascript, nodejs, reactjs, expressjs, Nextjs, Typescript, RESTful, GraphQL, React, JS, Babel, Webpack, NPM, Lean, API, SQL, NoSQL, Kafka, Redis, Hive, Hadoop, Spark, Nodejs, Reactjs, Expressjs, Vue"
+밀리만코리아(Milliman),Software Engineer (Application 개발),"IFRS, Electron, Typescript, React, CSS, Nodejs, Nestjs, Computer, Language, Parsing, Github, Bitbucket, Gitflow"
+소프트스퀘어드,Web TL (Web Technical Lead),"react, springboot, aws, UIUX, SEO, Jest, Mocha, DevOps, GitHub"
+에이아이투유,프론트 개발자,"Web, +, App, React, Native, Android, iOS, CodePush, Git, UIUX, Notion, Figma, IT"
+컬리,핀테크 프론트엔드 개발자,"React, SPA, Angular, Vue, Webpack, Browserify, Redux, AWS"
+위레이저,프론트엔드 개발자,"AI, WiseConvey, UIUX, RESTful, API, Angular, React, Redux, NgRx, Github, Slack, Jira, Confluence, Ant, Design, NGZORRO, UI, AWS, S3, CloudFront"
+지구하다,프론트 개발자(Vue.js)(2년 이상),"Vuejs, webview, electronjs, tailwind, bootstrap, css, framework"
+라프텔(Laftel),프론트엔드 엔지니어,"React, TV, Native, SSR, API, APM, HTML, CSS, JavaScript, Typescript, OS, Kotlin, Swift, Java, ObjectiveC, C++, eCommerce, ReactNextjs, Shaka, Player, Media3, ExoPlayer, AVFoundation, yarn, fastlane, AWS, ECS, Vercel, Github, Action, Notion, Slack, Figma, Jira"
+마바산업,소프트웨어 풀스택 개발자,"PBV, CMScontnets, Management, System, Content, GPS, Player, LTE, 5G, TCP, IP, Java, Spring, boot, React, JavascriptTypescript, SQL, RDBMS, framework, SpringBootWith, java, ExpressjsNodejs, swagger, Rabbit, MQ, Javascript, typescript, ES6, NextjsReactjs, Jotai, tanstackquery, emotion, CICD, Jenkins, Ubuntu, Docker, Nginx, Mysql, Redis, GitBitbucket, Jira, Confluence, Microsoft, TEAMS, Linux, Git, Figma, AWSGCPNCP"
+현대캐피탈,Front-end Developer,"Frontend, Reactjs, Vuejs, TypeScript, HTML, CSS, JavaScript, RESTFul"
+지니언스,엔드포인트보안연구개발실 Linux 개발,"Linux, C, C++, openssl, kafka, git, github, EDR, AntiVirus, DLP, eBPF, Event, Trace, tracefs, go"
+드래프티파이,"프론트엔드 / 모바일 (Vue, Flutter) 엔지니어","Flutter, Vuejs, React, Vue, IOS, Git, VCS, UI, UX, hybrid, Unix, OS, iOS, SNS"
+셰어라운드,Software Engineer,"Pay, PMF, Frontend, React, Native, TypeScript, Zustand, BackendInfrastructure, AWS, Nodejs, Deno"
+포지큐브(POSICUBE),프론트엔드 시니어 개발자 (5년 이상),"GPT, Chat, UI, Admin, CRUD, Scenario, Editor, React, Flowhttpsreactflowdev, flow, chart, Next, Vue, HTML, CSS, JavascriptTypescript, Git, CICD, Docker, TDD, Nextjs, SSR, Gemini, LLM, Azure, AWS, Jira, Teams, Github, Notion"
+아이트럭,프론트엔드 개발자,"React, Native, HTML, CSS, JavaScript, UXUI, Git, UI, Vue, Angular, SPA, UIUX, TypeScript, Flow, SSDR, Nextjs, Nodejs, Databasem, RESTful, API, TypeScriptReduc, Redux, ThunkSass, tailwind, Material, SSR, Android, iOS, Module, Database"
+인졀미,[계약직] Flutter / node.js 개발자,"flutter, Nodejs, DB, Flutter, Sequlize, AWS, LinuxUnix, Restful, API, TDD, NoSQL, Reactjs, AndroidKotlinJava, iOSSwift4+"
+지바이크(gbike),프론트엔드 개발자,"React, UX, UI, RESTful, API, Redux, TypeScript, HTML5, CSS3, JavaScriptES6+, Git, Nodejs, UIUX, AWS, Azure, GCP"
+뱅크샐러드,웹 테크 리드,"React, Nextjs, TypeScript, HTML, CSS, JavaScriptES6+, AI"
+위버스컴퍼니(WEVERSE COMPANY),프론트엔드개발,"Ecosystem, Performance, Nodejs, Typescript, React, HTML, CSS, UIUX, HTTP, DNS, REST, CDN, Javascript, Webpack, Test, Build, Deploy, CSR, SSR, KPOP"
+이지케어텍,의료정보시스템 국내 사업 개발자,"EMR, HIS, Onpremise, Cloud, IT"
+베링랩,"시니어 프론트엔드 개발자(5년 이상, WASM)","CATComputerAssisted, Translation, Tool, Figma, GoogleDocs, React, TypeScript, Nextjs, TailwindCSS, Context, Query, Hook, FormCICD, GitHub, Actions, Git, WebAssembly, WASM, App, Router, Server, Component, AWS"
+버터플라잉,프론트엔드 개발,"HTML, CSS, SCSS, TYPESCRIPT"
+휴브알엔씨,프론트엔드 개발자,"AWS, HTML, CSS, Javascript, SQL, RDBMS, RestAPI, Swagger, Rest, API, MVP, BE, Spring, SecurityJWT, JPA, OpenFeign, Kotlin, Python, go, FE, Svelte, React, Docker, Kubernetes, GA4, YAML, MariaDB, Github, Jiraswit, Figma, Slack, Notion"
+플라스크,Frontend Developer,"Plask, RD, Reactjs, HTML5, CSS3, JAVASCRIPT, Typescript, WebGL"
+에이슨,의료기기 하드웨어 개발 (회로설계),"FW, SW, PCB, Artwork, Tool, Altium"
+지니언스,엔드포인트보안연구개발실 Frontend개발 (시니어),"Genians, EDR, Frontend, SPA, AngularJS, Highchart, Javascript, UI, HTML5, CSS3, JavascriptES6, Webpack, UIUX, React, Vue, KendoUI, D3, CSR, SSR, GIT, NPM, JavaScript, Typescript, Elasticsearch"
+제로원에이아이,Front-End 엔지니어,"AI, SaaS, Cloud, Native, httpsgithubcomcncftocblobmainDEFINITIONmdSoftware2, httpskarpathymediumcomsoftware20a62b37c35Shcillace, Laws, of, Semantic, httpslearnmicrosoftcomenussemantickernelhowtoschillacelaws1, QA, CV, React, TypeScript, Nextjs, CICD, RAG, LangChain, LlamaIndex, LLM, SLM, GenAI, ComfyUI, LLMOps, AIOps, MLOps, autoML, CNCF, K8S, Bigdataspark, hadoop, kafka, Hybrid, Kaggle, AWS, Bedrock, Sagemaker, GCP, Vertex, Azure, ML, Studio, OpenAI, Prompt, Engineering, finetuning, LangChainLlamaindex, StableDiffusion, CompyUI, CKA, CKAD, CKS, KCNA, Golang, Big, Data, DatabaseAPI, AIsecure, federated, learning, RegreesionClassificationObjectDetectonTimeSeries, cs39s, cs21n, cs24n, Deeplearningai"
+솔로트립,React/React.Native 프론트엔드 개발자,"React, ReactNative, Graphql"
+딩코,React 프론트엔드 개발자,ReactReactNative
+넷스루,풀스택 개발자 (5년 이상),"Spring, BootFramework, PostgreSQL, DMBS, React, RESTful, API, GAGoogle, Analytics, MUI, JIRA, Confluence, GitLab, CICD"
+데이터메이커,프론트엔드 개발자,"MLOps, CoWorking, FrontEnd, UIUX, Rest, API, Webpack, Babel, HTML5, CSS, Javascript, ES2, Vue, Nuxt, React, Angular, Vanilla, Nuxtjs, Module, Federation, Agile, Scrum, ML"
+브릭,프론트엔드 개발자,"CS, Window, Linux, IntelliJ, Visula, Studio, Code, Eclipes, Java, React, Javascript, Typescript, Python, R, Vue, Angular, PostgreSQL, MyBatis, oracle, MSSQL, JAP, CICD, GIT, Jenkins, Docker, Wsarm, Kubernetes"
+아이트럭,백엔드 개발자,"Backend, NodeJS, API, Nodejs, TypeScript, RESTful, MySQL, Ubuntu, GitHub, AWS, JavaScript, Git, DevOpsAWSAzureGCP, ELK, Stack, NoSQL, RDBMS, Python, Docker, CICD"
+에이슨,의료기기 펌웨어 개발자,"ARM, core, Analog, frontend, BLE, wireless, network, IoT, security, Nordic, nRF5"
+애디터(Yess),프론트엔드 개발자,"Yess, API, CICD, Frontend, Team, React, Typescript, Hooks, Redux, CSS, Soft, Skills, SaaS, Experience, AB, UX, Why"
+다이얼로그디자인에이전시,풀스택 소프트웨어 엔지니어 (5년 이상 리더급),"AI, Solution, Lab, LLM, SW, CTO, PythonDjango, Flutter, AWS, EC2, GCP, SQLMongoDB, RDBSNoSQL, DB, MLOps, AIMLLLM"
+유니크굿컴퍼니,웹 프론트엔드 소프트웨어 엔지니어,"Crossfuntional, PR, TF, React, Typescript, NextJS, Gatsby, Emotion, yarn, berryPnP, SSR, SSG, GitHub, workflow, CI, CD, OpenAPI, swagger, API, Angular, Vue, CSR, JavaScript, TypeScript, SWR, TanStack, Query, Context"
+휴맥스네트웍스,WiFi 소프트웨어 개발,"WiFi, Driver, Porting, Embedded, Linux, IPC, Network, SoC, C, SW, C++, DHCP, IGMP, Tunneling, protocol, service, web, backend"
+제노소프트,C# WPF 개발자,"Windows, C#, WPF, XAML"
+유디아이디(UDID),임대형쇼핑몰 PHP 개발자,"PHP, MySQL, MongoDB, Laravel, Gitlab, Javascript, Jquery"
+베어런,프론트엔드 개발자 (3년~6년),"HTML, CSS, Javascript, ES6, RESTful, API, vuejs, SPA, webpack, vite, typescript"
+호두에이아이랩,MLOps SW 개발자,"MLOps, MFCC++C#, AI, SW, Tensor, RT, Tensorflow, Lite, CUDA, C++, Backend, Infra, Pytorch, Python, TensorRT, TF, Embedded, Sytem, Nodejs, Java, PLC, OpenCV, React, Vue, Angular, Electron"
