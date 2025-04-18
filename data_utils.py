@@ -1,14 +1,12 @@
 # data_utils.py
 
 # 라이브러리 임포트
-import requests
 import pandas as pd
-from bs4 import BeautifulSoup
-import time
 import logging
 import os
 import re
 from typing import List, Dict, Any # 타입 힌트를 위해 임포트
+
 
 # 로깅 설정 함수
 def setup_logging(level=logging.INFO, log_format='%(asctime)s - %(levelname)s - %(message)s'):
@@ -21,6 +19,7 @@ def setup_logging(level=logging.INFO, log_format='%(asctime)s - %(levelname)s - 
     logging.basicConfig(level=level, format=log_format)
     logging.info("로깅 설정 완료")
 
+
 # 기본 요청 헤더 상수
 DEFAULT_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -31,28 +30,6 @@ DEFAULT_HEADERS = {
 }
 logging.info("기본 헤더 설정 완료 (상수)")
 
-
-# 직종 구분 URL 파라미터 생성 함수
-def get_job_category_url(job_category: str = "total") -> str:
-    """
-    직종 카테고리 이름에 따라 Wanted 공고 검색에 사용될 URL 파라미터를 생성합니다.
-
-    Args:
-        job_category (str): 직종 카테고리 이름 ("total", "backend", "frontend" 등).
-                            기본값은 "total".
-
-    Returns:
-        str: 생성된 URL 파라미터 문자열.
-    """
-    if job_category.lower() == "total":
-        return "?jobGroup=DEVELOPER"
-    elif job_category.lower() == "backend":
-        return "?job=BACKEND_DEVELOPER&jobGroup=DEVELOPER"
-    elif job_category.lower() == "frontend":
-        return "?job=FRONTEND_DEVELOPER&jobGroup=DEVELOPER"
-    else:
-        logging.warning(f"알 수 없는 직종 카테고리 '{job_category}' 입니다. 기본값인 'total'을 사용합니다.")
-        return "?jobGroup=DEVELOPER"
 
 # skill 데이터 필터링 함수 정의
 def filter_skill_data(skill: str | None) -> str:
@@ -103,6 +80,7 @@ def filter_skill_data(skill: str | None) -> str:
     filtered_skill = ', '.join(unique_words)
 
     return filtered_skill
+
 
 # 데이터프레임을 CSV 파일로 저장하는 함수
 def save_data_to_csv(data: List[Dict[str, Any]] | pd.DataFrame, filename: str, folder: str = 'data', encoding: str = 'utf-8-sig', index: bool = False):
@@ -159,6 +137,7 @@ def save_data_to_csv(data: List[Dict[str, Any]] | pd.DataFrame, filename: str, f
         print(f"\n파일 저장 실패: {e}")
         return None
 
+
 # CSV 파일을 읽어와 DataFrame으로 반환하는 함수
 def load_data_from_csv(filepath: str, encoding: str = 'utf-8-sig') -> pd.DataFrame | None:
     """
@@ -186,22 +165,17 @@ def load_data_from_csv(filepath: str, encoding: str = 'utf-8-sig') -> pd.DataFra
         print(f"\n파일 로드 실패: {e}")
         return None
 
-# 모듈 테스트를 위한 예시 (필요시 주석 해제 후 사용)
+
+# # 모듈 테스트를 위한 예시 (필요시 주석 해제 후 사용)
 # if __name__ == "__main__":
 #     print("--- scraping_utils 모듈 테스트 ---")
-#
+
 #     # 로깅 설정 테스트
 #     setup_logging()
-#
+
 #     # 헤더 상수 테스트
 #     print(f"기본 헤더: {DEFAULT_HEADERS}")
-#
-#     # URL 생성 함수 테스트
-#     print(f"'backend' URL: {get_job_category_url('backend')}")
-#     print(f"'frontend' URL: {get_job_category_url('frontend')}")
-#     print(f"'total' URL: {get_job_category_url('total')}")
-#     print(f"'unknown' URL (기본값): {get_job_category_url('unknown')}")
-#
+
 #     # Skill 필터링 함수 테스트
 #     sample_skill = "Python\nJava\u2028JavaScript #Vue +Node.js 123 Test 456 Python"
 #     filtered = filter_skill_data(sample_skill)
@@ -209,7 +183,7 @@ def load_data_from_csv(filepath: str, encoding: str = 'utf-8-sig') -> pd.DataFra
 #     print(f"필터링된 Skill: '{filtered}'")
 #     print(f"빈값 테스트: '{filter_skill_data('')}'")
 #     print(f"None 테스트: '{filter_skill_data(None)}'")
-#
+
 #     # 데이터 저장 및 로드 함수 테스트
 #     test_data = [
 #         {'col1': 1, 'col2': 'A'},
@@ -218,24 +192,24 @@ def load_data_from_csv(filepath: str, encoding: str = 'utf-8-sig') -> pd.DataFra
 #     ]
 #     test_filename = 'test_output.csv'
 #     test_folder = 'temp_data'
-#
+
 #     print(f"\n--- 데이터 저장 테스트 ---")
 #     saved_filepath = save_data_to_csv(test_data, test_filename, folder=test_folder)
-#
+
 #     if saved_filepath:
 #         print(f"\n--- 데이터 로드 테스트 ---")
 #         loaded_df = load_data_from_csv(saved_filepath)
 #         if loaded_df is not None:
 #             print("로드된 데이터프레임:")
 #             print(loaded_df)
-#
+
 #         # 존재하지 않는 파일 로드 테스트
 #         print(f"\n--- 존재하지 않는 파일 로드 테스트 ---")
 #         non_existent_df = load_data_from_csv('non_existent.csv')
 #         print(f"non_existent_df: {non_existent_df}")
-#
+
 #         # 테스트 파일 및 폴더 정리 (선택 사항)
-#         # import shutil
-#         # if os.path.exists(test_folder):
-#         #     shutil.rmtree(test_folder)
-#         #     print(f"'{test_folder}' 폴더 삭제 완료.")
+#         import shutil
+#         if os.path.exists(test_folder):
+#             shutil.rmtree(test_folder)
+#             print(f"'{test_folder}' 폴더 삭제 완료.")
