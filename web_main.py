@@ -17,6 +17,7 @@ st.set_page_config(
 
 # 앱 제목
 st.title("🚀 IT 채용정보 분석 대시보드")
+st.write("이 대시보드는 CSV 파일 데이터를 기반으로 한 시각화 애플리케이션입니다.")
 
 # 사이드바
 st.sidebar.title("💻 검색 옵션")
