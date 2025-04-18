@@ -173,4 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# 그 외 파일
 data_scraping_jobkorea.ipynb
