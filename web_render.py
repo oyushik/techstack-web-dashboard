@@ -326,6 +326,21 @@ def render_job_analysis(filtered_df):
     """직무 분석 섹션 렌더링 (애니메이션 막대 그래프)"""
     st.subheader("상위 20개 직무")
 
+    # 직무명 통합
+    position_mapping = {
+        r'\b(백엔드 엔지니어|백엔드 개발자 (5년 이상)|백엔드 개발자 (3년 이상)|시니어 백엔드 개발자|Backend Engineer|Back-end Engineer)\b': '백엔드 개발자',
+        r'\b(프론트엔드 엔지니어|프론트엔드 개발자 (3년 이상)|시니어 프론트엔드 개발자|Frontend Engineer|Front-end Engineer)\b': '프론트엔드 개발자',
+        r'\b(DevOps Engineer|데브옵스 엔지니어)\b': 'DevOps 엔지니어',
+        r'\bSoftware Engineer\b': '소프트웨어 엔지니어',
+        r'\bData Engineer\b': '데이터 엔지니어',
+        r'\bQA Engineer\b': 'QA 엔지니어',
+        r'\b(Android Developer|Android 개발자)\b': '안드로이드 개발자',
+        r'\biOS Developer\b': 'iOS 개발자',
+
+    }
+    for pattern, replacement in position_mapping.items():
+        filtered_df['position'] = filtered_df['position'].str.replace(pattern, replacement, case=False, regex=True)
+
     # 직무명(position) 열의 상위 빈도 항목 계산
     # 데이터프레임이 비어있지 않은 경우에만 처리
     if filtered_df is not None and not filtered_df.empty:
