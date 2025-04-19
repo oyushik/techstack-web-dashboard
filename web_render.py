@@ -90,12 +90,12 @@ def display_clicked_skills(current_chart_type):
                 st.session_state.render_id += 1
             st.rerun()
                 
-        from web_search_work24 import fetch_employment24_data, render_employment24_results_table
+        from web_search_work24 import fetch_work24_data, render_work24_results_table
         
         # 클릭된 각 스킬에 대해 훈련과정 데이터 가져와서 표시
         for skill in clicked_skills_list:
-            results = fetch_employment24_data(skill)
-            render_employment24_results_table(results, skill)
+            results = fetch_work24_data(skill)
+            render_work24_results_table(results, skill)
 
 # --- 페이지 설정 함수 ---
 def setup_page():
@@ -131,19 +131,14 @@ def render_sidebar(data):
     st.sidebar.subheader("🔍 키워드 검색")
     search_term = st.sidebar.text_input("검색어 입력 (직무, 기술)")
 
-    # 기술 스택 멀티셀렉트 (사이드바 필터용)
-    # 공통 기술 스택 목록 (예시) - 필요시 더 추가하거나 동적으로 생성 가능
-    common_skills = [
-        "Java", "Python", "JavaScript", "React", "Spring",
-        "AWS", "TypeScript", "Docker", "SQL", "HTML", "CSS", "Node.js",
-        "Vue.js", "Angular", "Docker", "Kubernetes", "SQL", "MySQL", "PostgreSQL",
-        "MongoDB", "Redis", "Git", "CI/CD", "Agile", "Scrum", "REST API"
-    ]
-    # data['total']의 skill 컬럼에서 추출하여 사용성을 높일 수도 있습니다.
-    # 예: all_possible_skills = sorted({s.strip() for skill_list in data['total']['skill'].dropna() for s in skill_list.split(',')}) if data['total'] is not None else []
-    # selected_skills = st.sidebar.multiselect("기술 스택 선택", all_possible_skills)
+    # 기술 스택 멀티셀렉트 (사이드바 필터용, data['total']의 skill 컬럼에서 추출하여 사용성을 높임)
+    if data['total'] is not None:
+        skill_counts = data['total']['skill'].dropna().str.split(',').explode().str.strip().value_counts()
+        common_skills = skill_counts.head(20).index.tolist()
+    else:
+        common_skills = []
+    
     selected_skills = st.sidebar.multiselect("기술 스택 선택", common_skills)
-
 
     # 푸터
     st.sidebar.markdown("---")
@@ -154,7 +149,7 @@ def render_sidebar(data):
 # --- 데이터 필터링 함수 ---
 def filter_data(df, search_term, selected_skills):
     """
-    주어진 데이터프레임을 검색어, 회사, 선택된 기술 스택 기준으로 필터링합니다.
+    주어진 데이터프레임을 검색어, 선택된 기술 스택 기준으로 필터링합니다.
 
     Args:
         df: 필터링할 원본 데이터프레임.
@@ -166,11 +161,10 @@ def filter_data(df, search_term, selected_skills):
     """
     filtered_df = df.copy()
 
-    # 키워드 검색어로 필터링 (회사명, 직무, 기술스택 컬럼에서 검색)
+    # 키워드 검색어로 필터링 (직무, 기술스택 컬럼에서 검색)
     if search_term:
         # 대소문자 구분 없이 검색, NaN 값은 False 처리
         search_mask = (
-            filtered_df["company"].astype(str).str.contains(search_term, case=False, na=False) |
             filtered_df["position"].astype(str).str.contains(search_term, case=False, na=False) |
             filtered_df["skill"].astype(str).str.contains(search_term, case=False, na=False)
         )
