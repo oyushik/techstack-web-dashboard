@@ -54,20 +54,46 @@ def display_clicked_skills(current_chart_type):
     """
     # 세션 상태에 저장된 클릭된 스킬 목록을 확인
     clicked_skills_list = st.session_state.get('clicked_skills', [])
+    
+    # --- 클릭된 스킬 표시 함수 ---
+# --- 클릭된 스킬 표시 함수 ---
+def display_clicked_skills(current_chart_type):
+    """
+    클릭된 스킬 목록과 초기화 버튼을 표시합니다.
+    세션 상태 st.session_state.clicked_skills의 값에 따라 표시 여부를 결정합니다.
+
+    Args:
+        current_chart_type: 현재 기술 스택 분석의 타입 ('total', 'backend', 'frontend') - 초기화 버튼 키에 사용.
+    """
+    # 세션 상태에 저장된 클릭된 스킬 목록을 확인
+    clicked_skills_list = st.session_state.get('clicked_skills', [])
+
+    # 렌더링 ID로 고유한 키 생성
+    render_id = st.session_state.get('render_id', 0)
 
     # 목록이 비어있지 않으면 표시
     if clicked_skills_list:
         st.write("클릭된 기술 스택:", ", ".join(clicked_skills_list))
 
-        # 선택 초기화 버튼
-        # 버튼 키는 현재 차트 타입과 결합하여 고유하게 유지
-        if st.button("클릭된 스킬 초기화", key=f"clear_clicked_{current_chart_type}"):
+        # 선택 초기화 버튼 - 렌더링 ID를 추가하여 키 중복 방지
+        button_key = f"clear_clicked_{current_chart_type}_{render_id}"
+        if st.button("클릭된 스킬 초기화", key=button_key):
             # 버튼 클릭 시 세션 상태 초기화
             st.session_state.clicked_skills = []
             # plotly_events 상태 갱신을 위해 render_id 증가 (필요하다면)
             if 'render_id' in st.session_state:
                 st.session_state.render_id += 1
             st.rerun()
+        
+        # 하드코딩된 API 키 사용 (테스트용 - 실제 애플리케이션에서는 환경 변수 사용 권장)
+        api_key = "e33ca0a1-f5fc-44d1-bf7a-5499e5dbd832"  # 여기에 실제 API 키를 넣으세요
+        
+        from web_search_work24 import fetch_employment24_data, render_employment24_results_table
+        
+        # 클릭된 각 스킬에 대해 훈련과정 데이터 가져와서 표시
+        for skill in clicked_skills_list:
+            results = fetch_employment24_data(api_key, skill)
+            render_employment24_results_table(results, skill)
 
 # --- 페이지 설정 함수 ---
 def setup_page():

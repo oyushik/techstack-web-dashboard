@@ -50,7 +50,6 @@ def main():
         # 데이터 테이블 섹션 렌더링 (필터링된 데이터 사용)
         render_data_table(filtered_df)
 
-
 # 스크립트 직접 실행 시 main 함수 호출
 if __name__ == "__main__":
     main()
