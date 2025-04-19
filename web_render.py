@@ -113,7 +113,7 @@ def setup_page():
     if 'clicked_skills' not in st.session_state:
         st.session_state.clicked_skills = []
 
-
+    st.image("data/wordcloud_TECH_STACK.png", use_container_width="always")
     # 앱 제목 표시
     st.title("🚀 채용정보로 분석한 IT 기술 스택 트렌드")
 
