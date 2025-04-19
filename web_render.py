@@ -89,15 +89,12 @@ def display_clicked_skills(current_chart_type):
             if 'render_id' in st.session_state:
                 st.session_state.render_id += 1
             st.rerun()
-        
-        # 하드코딩된 API 키 사용 (테스트용 - 실제 애플리케이션에서는 환경 변수 사용 권장)
-        api_key = "e33ca0a1-f5fc-44d1-bf7a-5499e5dbd832"  # 여기에 실제 API 키를 넣으세요
-        
+                
         from web_search_work24 import fetch_employment24_data, render_employment24_results_table
         
         # 클릭된 각 스킬에 대해 훈련과정 데이터 가져와서 표시
         for skill in clicked_skills_list:
-            results = fetch_employment24_data(api_key, skill)
+            results = fetch_employment24_data(skill)
             render_employment24_results_table(results, skill)
 
 # --- 페이지 설정 함수 ---
@@ -132,14 +129,7 @@ def render_sidebar(data):
 
     # 키워드 검색 입력창
     st.sidebar.subheader("🔍 키워드 검색")
-    search_term = st.sidebar.text_input("검색어 입력 (회사명, 직무, 기술스택)")
-
-    # 회사 선택 셀렉트 박스
-    # data['total']이 None이 아닐 경우에만 회사 목록 생성
-    all_companies = ["전체"]
-    if data['total'] is not None:
-        all_companies += sorted(data['total']["company"].unique().tolist())
-    selected_company = st.sidebar.selectbox("회사 선택", all_companies)
+    search_term = st.sidebar.text_input("검색어 입력 (직무, 기술)")
 
     # 기술 스택 멀티셀렉트 (사이드바 필터용)
     # 공통 기술 스택 목록 (예시) - 필요시 더 추가하거나 동적으로 생성 가능
@@ -159,17 +149,16 @@ def render_sidebar(data):
     st.sidebar.markdown("---")
     st.sidebar.markdown("© 2025 IT 채용정보 분석 대시보드")
 
-    return search_term, selected_company, selected_skills
+    return search_term, selected_skills
 
 # --- 데이터 필터링 함수 ---
-def filter_data(df, search_term, selected_company, selected_skills):
+def filter_data(df, search_term, selected_skills):
     """
     주어진 데이터프레임을 검색어, 회사, 선택된 기술 스택 기준으로 필터링합니다.
 
     Args:
         df: 필터링할 원본 데이터프레임.
         search_term: 키워드 검색어.
-        selected_company: 선택된 회사 이름 ("전체" 포함).
         selected_skills: 선택된 기술 스택 목록 (리스트).
 
     Returns:
@@ -186,10 +175,6 @@ def filter_data(df, search_term, selected_company, selected_skills):
             filtered_df["skill"].astype(str).str.contains(search_term, case=False, na=False)
         )
         filtered_df = filtered_df[search_mask]
-
-    # 선택한 회사로 필터링
-    if selected_company != "전체":
-        filtered_df = filtered_df[filtered_df["company"] == selected_company]
 
     # 선택한 기술 스택으로 필터링 (선택된 모든 스킬을 포함하는 공고)
     if selected_skills:
@@ -389,37 +374,6 @@ def render_job_analysis(filtered_df):
                 st.plotly_chart(fig, use_container_width=True)
         else:
             st.info("필터링된 데이터에서 상위 직무를 찾을 수 없습니다.")
-    elif filtered_df is not None and filtered_df.empty:
-        st.info("필터링된 데이터가 없습니다.")
-    # filtered_df가 None인 경우는 main 함수에서 이미 처리됨
-
-
-# --- 기업 분석 섹션 렌더링 함수 ---
-def render_company_analysis(filtered_df):
-    """기업 분석 섹션 렌더링 (애니메이션 막대 그래프)"""
-    st.subheader("채용공고가 많은 상위 20개 기업")
-
-    # 전체 기업 채용 공고 수 계산 (상위 20개)
-    # 데이터프레임이 비어있지 않은 경우에만 처리
-    if filtered_df is not None and not filtered_df.empty:
-        company_counts = filtered_df["company"].value_counts().head(20).reset_index()
-        company_counts.columns = ["company", "count"]
-
-        # 상위 기업 데이터가 비어있지 않은 경우 그래프 생성
-        if not company_counts.empty:
-            fig = create_animated_bar_chart(
-                company_counts,
-                x_col="company", # 기업 이름
-                y_col="count", # 빈도
-                title="", # 섹션 제목이 있으므로 그래프 제목은 비워둠
-                orientation="v", # 기업 수는 세로 막대가 적합
-                color_scale="Plasma" # 색상 스케일
-            )
-            # st.plotly_chart로 그래프 표시 (클릭 이벤트 없음)
-            if fig: # create_animated_bar_chart가 None을 반환하지 않았을 경우만 표시
-                st.plotly_chart(fig, use_container_width=True)
-        else:
-            st.info("필터링된 데이터에서 상위 기업을 찾을 수 없습니다.")
     elif filtered_df is not None and filtered_df.empty:
         st.info("필터링된 데이터가 없습니다.")
     # filtered_df가 None인 경우는 main 함수에서 이미 처리됨

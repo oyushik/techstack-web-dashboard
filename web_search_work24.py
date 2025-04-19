@@ -11,7 +11,9 @@ import os
 BASE_URL = "https://www.work24.go.kr/cm/openApi/call/hr/callOpenApiSvcInfo310L01.do"
 
 
-def fetch_employment24_data(api_key, keyword, max_pages=7):
+def fetch_employment24_data(keyword, max_pages=7):
+    api_key = os.getenv("YOUR_WORK24_API_KEY", "")
+    
     """
     고용24 API를 호출하여 훈련과정 정보를 가져옵니다.
     """
