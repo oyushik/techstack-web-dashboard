@@ -5,7 +5,12 @@ from web_load_data import load_all_data, count_skills
 from web_charts import create_animated_bar_chart
 from streamlit_plotly_events import plotly_events
 import re # filter_data에서 사용
-
+import web_search_youtube as yt # YouTube 검색 모듈
+from dotenv import load_dotenv
+import os
+load_dotenv()
+YOUR_YOUTUBE_API_KEY = os.getenv("YOUR_YOUTUBE_API_KEY")
+from PIL import Image # 이미지 표시를 위한 PIL 모듈
 
 # --- 클릭 이벤트 핸들러 함수 ---
 def handle_chart_click(clicked_data, orientation="v"):
@@ -328,15 +333,10 @@ def render_job_analysis(filtered_df):
 
     # 직무명 통합
     position_mapping = {
-        r'\b(백엔드 엔지니어|백엔드 개발자 (5년 이상)|백엔드 개발자 (3년 이상)|시니어 백엔드 개발자|Backend Engineer|Back-end Engineer)\b': '백엔드 개발자',
-        r'\b(프론트엔드 엔지니어|프론트엔드 개발자 (3년 이상)|시니어 프론트엔드 개발자|Frontend Engineer|Front-end Engineer)\b': '프론트엔드 개발자',
+        r'\b(백엔드 엔지니어|Backend Engineer|Back-end Engineer)\b': '백엔드 개발자',
+        r'\b(프론트엔드 엔지니어|Frontend Engineer|Front-end Engineer)\b': '프론트엔드 개발자',
         r'\b(DevOps Engineer|데브옵스 엔지니어)\b': 'DevOps 엔지니어',
-        r'\bSoftware Engineer\b': '소프트웨어 엔지니어',
-        r'\bData Engineer\b': '데이터 엔지니어',
-        r'\bQA Engineer\b': 'QA 엔지니어',
-        r'\b(Android Developer|Android 개발자)\b': '안드로이드 개발자',
-        r'\biOS Developer\b': 'iOS 개발자',
-
+        r'\bSoftware Engineer\b': '소프트웨어 엔지니어'
     }
     for pattern, replacement in position_mapping.items():
         filtered_df['position'] = filtered_df['position'].str.replace(pattern, replacement, case=False, regex=True)
@@ -440,3 +440,31 @@ def render_data_table(filtered_df):
     elif filtered_df is not None and filtered_df.empty:
         st.info("필터링된 데이터가 없습니다.")
     # filtered_df가 None인 경우는 main 함수에서 이미 처리됨
+
+def render_youtube_search(search_term):
+    st.subheader("YouTube 검색 결과")
+    results = yt.search_youtube(YOUR_YOUTUBE_API_KEY, f'{search_term} Tutorial', 3)
+    if results:
+        for video in results:
+            # 레이아웃을 두 개의 열로 나눔
+            col1, col2 = st.columns([1, 3])  # 첫 번째 열은 썸네일, 두 번째 열은 텍스트
+
+            with col1:
+                # 썸네일 URL 생성
+                thumbnail_url = f"https://img.youtube.com/vi/{video['video_id']}/0.jpg"
+                # 썸네일을 클릭하면 동영상 링크로 이동하도록 HTML 생성
+                video_url = f"https://www.youtube.com/watch?v={video['video_id']}"
+                st.markdown(
+                    f'<a href="{video_url}" target="_blank">'
+                    f'<img src="{thumbnail_url}" alt="YouTube Video" style="width:100%; max-width:300px;">'
+                    f'</a>',
+                    unsafe_allow_html=True
+                )
+
+            with col2:
+                # 동영상 제목과 설명 출력
+                st.write(f"**제목:** {video['title']}")
+                st.write(f"**설명:** {video['description']}")
+
+            # 구분선 추가
+            st.markdown("---")

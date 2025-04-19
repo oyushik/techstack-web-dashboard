@@ -1,7 +1,7 @@
 import streamlit as st
 from web_load_data import load_all_data
 from web_render import (setup_page, render_sidebar, filter_data, render_summary_metrics, render_skill_analysis,
-                        render_job_analysis, render_company_analysis, render_data_table)
+                        render_job_analysis, render_company_analysis, render_data_table, render_youtube_search)
 
 # --- 메인 함수 ---
 def main():
@@ -49,6 +49,9 @@ def main():
     with tab4:
         # 데이터 테이블 섹션 렌더링 (필터링된 데이터 사용)
         render_data_table(filtered_df)
+
+    if search_term:
+        render_youtube_search(search_term)
 
 
 # 스크립트 직접 실행 시 main 함수 호출
