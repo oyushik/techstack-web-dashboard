@@ -48,19 +48,7 @@ def handle_chart_click(clicked_data, orientation="v"):
                 st.session_state.render_id += 1
                 # st.rerun() # 세션 상태 변경 사항을 반영하여 앱 다시 실행
 
-# --- 클릭된 스킬 표시 함수 ---
-def display_clicked_skills(current_chart_type):
-    """
-    클릭된 스킬 목록과 초기화 버튼을 표시합니다.
-    세션 상태 st.session_state.clicked_skills의 값에 따라 표시 여부를 결정합니다.
 
-    Args:
-        current_chart_type: 현재 기술 스택 분석의 타입 ('total', 'backend', 'frontend') - 초기화 버튼 키에 사용.
-    """
-    # 세션 상태에 저장된 클릭된 스킬 목록을 확인
-    clicked_skills_list = st.session_state.get('clicked_skills', [])
-    
-    # --- 클릭된 스킬 표시 함수 ---
 # --- 클릭된 스킬 표시 함수 ---
 def display_clicked_skills(current_chart_type):
     """
@@ -99,6 +87,12 @@ def display_clicked_skills(current_chart_type):
         for skill in clicked_skills_list:
             results = fetch_employment24_data(api_key, skill)
             render_employment24_results_table(results, skill)
+        
+        # 클릭된 각 스킬에 대해 YouTube 검색 결과 표시
+        for skill in clicked_skills_list:
+            render_youtube_search(skill)
+            
+
 
 # --- 페이지 설정 함수 ---
 def setup_page():
@@ -469,7 +463,7 @@ def render_data_table(filtered_df):
     # filtered_df가 None인 경우는 main 함수에서 이미 처리됨
 
 def render_youtube_search(search_term):
-    st.subheader("YouTube 검색 결과")
+    st.subheader(f"YouTube '{search_term}' 검색 결과")
     results = yt.search_youtube(YOUR_YOUTUBE_API_KEY, f'{search_term} Tutorial', 3)
     if results:
         for video in results:
