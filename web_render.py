@@ -467,3 +467,31 @@ def render_data_table(filtered_df):
     elif filtered_df is not None and filtered_df.empty:
         st.info("필터링된 데이터가 없습니다.")
     # filtered_df가 None인 경우는 main 함수에서 이미 처리됨
+
+def render_youtube_search(search_term):
+    st.subheader("YouTube 검색 결과")
+    results = yt.search_youtube(YOUR_YOUTUBE_API_KEY, f'{search_term} Tutorial', 3)
+    if results:
+        for video in results:
+            # 레이아웃을 두 개의 열로 나눔
+            col1, col2 = st.columns([1, 3])  # 첫 번째 열은 썸네일, 두 번째 열은 텍스트
+
+            with col1:
+                # 썸네일 URL 생성
+                thumbnail_url = f"https://img.youtube.com/vi/{video['video_id']}/0.jpg"
+                # 썸네일을 클릭하면 동영상 링크로 이동하도록 HTML 생성
+                video_url = f"https://www.youtube.com/watch?v={video['video_id']}"
+                st.markdown(
+                    f'<a href="{video_url}" target="_blank">'
+                    f'<img src="{thumbnail_url}" alt="YouTube Video" style="width:100%; max-width:300px;">'
+                    f'</a>',
+                    unsafe_allow_html=True
+                )
+
+            with col2:
+                # 동영상 제목과 설명 출력
+                st.write(f"**제목:** {video['title']}")
+                st.write(f"**설명:** {video['description']}")
+
+            # 구분선 추가
+            st.markdown("---")
