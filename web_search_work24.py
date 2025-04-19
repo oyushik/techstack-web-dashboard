@@ -11,7 +11,7 @@ import os
 BASE_URL = "https://www.work24.go.kr/cm/openApi/call/hr/callOpenApiSvcInfo310L01.do"
 
 
-def fetch_employment24_data(keyword, max_pages=7):
+def fetch_work24_data(keyword, max_pages=7):
     api_key = os.getenv("YOUR_WORK24_API_KEY", "")
     
     """
@@ -197,7 +197,7 @@ def fetch_employment24_data(keyword, max_pages=7):
         
         return []
 
-# web_search_work24.py 파일의 render_employment24_results_table 함수를 수정합니다
+# web_search_work24.py 파일의 render_work24_results_table 함수를 수정합니다
 
 # 검색어를 고용24에서 새 탭으로 열 수 있는 버튼 추가
 def make_work24_search_url(keyword):
@@ -212,11 +212,15 @@ def make_work24_search_url(keyword):
         f"policySort=RANK&newsSort=RANK&bizinfoSort=RANK&trainingSort=RANK&"
         f"jobCourseSort=RANK&qualSort=RANK&etcSort=RANK"
     )
-def render_employment24_results_table(results, keyword):
+
+
+def render_work24_results_table(results, keyword):
     """
     고용24 훈련과정 검색 결과를 표 형태로 표시합니다.
     과정명에 고용24 메인 페이지로 연결되는 링크를 제공합니다.
     """
+    # 최대 상위 5개의 결과만 사용
+    results = results[:5]
     if not results:
         st.info(f"'{keyword}' 키워드로 검색된 훈련과정이 없습니다.")
         return
@@ -263,6 +267,7 @@ def render_employment24_results_table(results, keyword):
     unsafe_allow_html=True
 )
 
+
 def render_clicked_skills_training():
     """
     클릭된 기술 스택에 따른 고용24 훈련과정을 표시합니다.
@@ -279,16 +284,16 @@ def render_clicked_skills_training():
     
     # 각 스킬에 대한 훈련과정 표시
     for skill in clicked_skills:
-        results = fetch_employment24_data(api_key, skill)
-        render_employment24_results_table(results, skill)
+        results = fetch_work24_data(api_key, skill)
+        render_work24_results_table(results, skill)
         st.markdown("---")  # 구분선 추가
 
 # 세션 상태 초기화 함수
-def init_employment24_session_state():
+def init_work24_session_state():
     """
     고용24 관련 세션 상태를 초기화합니다.
     """
-    if 'employment24_keyword' not in st.session_state:
-        st.session_state.employment24_keyword = ""
-    if 'employment24_results' not in st.session_state:
-        st.session_state.employment24_results = []
+    if 'work24_keyword' not in st.session_state:
+        st.session_state.work24_keyword = ""
+    if 'work24_results' not in st.session_state:
+        st.session_state.work24_results = []
