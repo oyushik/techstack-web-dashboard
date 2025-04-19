@@ -98,7 +98,7 @@ def setup_page():
 
 
     # 앱 제목 표시
-    st.title("🚀 IT 채용정보 분석")
+    st.title("🚀 채용정보로 분석한 IT 기술 스택 트렌드")
 
 # --- 사이드바 렌더링 함수 ---
 def render_sidebar(data):
@@ -202,7 +202,7 @@ def render_summary_metrics(filtered_df):
 # --- 기술 스택 분석 섹션 렌더링 함수 ---
 def render_skill_analysis(data, filtered_df):
     """기술 스택 분석 섹션 렌더링 (버튼 전환 애니메이션 그래프 및 클릭 이벤트)"""
-    st.subheader("기술 스택 분석")
+    st.subheader("TOP 15 기술 스택 분석")
 
     # --- CSS 주입: 버튼 간 간격 및 크기 조절 ---
     # 주의: 이 방식은 Streamlit 내부 구조에 의존하므로, 향후 Streamlit 업데이트 시 작동이 중단될 수 있습니다.
@@ -254,18 +254,15 @@ def render_skill_analysis(data, filtered_df):
     # 선택된 타입에 맞는 데이터 로드 (load_all_data에서 이미 캐시됨)
     if current_type == "total":
         source_df = filtered_df # '전체'는 사이드바 필터가 적용된 데이터 사용
-        title = "전체 기술 스택 상위 15개"
     elif current_type == "backend":
         if data['backend'] is not None:
             source_df = data['backend'] # '백엔드'는 전체 백엔드 데이터 사용
-            title = "백엔드 기술 스택 상위 15개"
         else:
             st.info("백엔드 데이터 파일을 찾을 수 없어 기술 스택 분석을 표시할 수 없습니다.")
             source_df = pd.DataFrame() # 데이터 없음을 명시
     elif current_type == "frontend":
         if data['frontend'] is not None:
             source_df = data['frontend'] # '프론트엔드'는 전체 프론트엔드 데이터 사용
-            title = "프론트엔드 기술 스택 상위 15개"
         else:
             st.info("프론트엔드 데이터 파일을 찾을 수 없어 기술 스택 분석을 표시할 수 없습니다.")
             source_df = pd.DataFrame() # 데이터 없음을 명시
@@ -329,14 +326,18 @@ def render_skill_analysis(data, filtered_df):
 # --- 직무 분석 섹션 렌더링 함수 ---
 def render_job_analysis(filtered_df):
     """직무 분석 섹션 렌더링 (애니메이션 막대 그래프)"""
-    st.subheader("상위 20개 직무")
+    st.subheader("TOP 20 직무 분석")
 
     # 직무명 통합
     position_mapping = {
-        r'\b(백엔드 엔지니어|Backend Engineer|Back-end Engineer)\b': '백엔드 개발자',
-        r'\b(프론트엔드 엔지니어|Frontend Engineer|Front-end Engineer)\b': '프론트엔드 개발자',
+        r'\b(백엔드 엔지니어|백엔드 개발자 (5년 이상)|백엔드 개발자 (3년 이상)|시니어 백엔드 개발자|Backend Engineer|Back-end Engineer)\b': '백엔드 개발자',
+        r'\b(프론트엔드 엔지니어|프론트엔드 개발자 (5년 이상)|프론트엔드 개발자 (3년 이상)|시니어 프론트엔드 개발자|Frontend Engineer|Front-end Engineer)\b': '프론트엔드 개발자',
         r'\b(DevOps Engineer|데브옵스 엔지니어)\b': 'DevOps 엔지니어',
-        r'\bSoftware Engineer\b': '소프트웨어 엔지니어'
+        r'\bSoftware Engineer\b': '소프트웨어 엔지니어',
+        r'\bData Engineer\b': '데이터 엔지니어',
+        r'\bQA Engineer\b': 'QA 엔지니어',
+        r'\b(Android Developer|Android 개발자)\b': '안드로이드 개발자',
+        r'\biOS Developer\b': 'iOS 개발자'
     }
     for pattern, replacement in position_mapping.items():
         filtered_df['position'] = filtered_df['position'].str.replace(pattern, replacement, case=False, regex=True)
