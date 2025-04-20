@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 from collections import Counter
 
-def autopct_func(pct):
-    """파이 차트의 퍼센트 표시 형식 함수 (현재 코드에서는 사용되지 않지만, 모듈에 포함)"""
-    return f"{pct:.1f}%"
 
 def count_skills(df):
     """
@@ -22,7 +19,7 @@ def count_skills(df):
     # count에서 제외될 스킬 목록 정의 (너무 일반적인 단어, 기술 스택이 아닌 것, 정규화 후 쓰레기값 등)
     # 이 목록은 data_loader 모듈 내부에 두거나 별도 설정 파일에서 관리할 수 있습니다.
     # 여기서는 임시로 함수 내부에 정의합니다.
-    excluded_skills = ["AI", "UI", "UIUX", "NATIVE", "BOOT", "API", "WEB", "SW", "PC"]
+    excluded_skills = ["AI", "UI", "UIUX", "NATIVE", "BOOT", "API", "WEB", "SW", "PC", "CICD"]
 
     if excluded_skills:
         excluded_skills_upper = [skill.upper() for skill in excluded_skills]
@@ -35,6 +32,7 @@ def count_skills(df):
 
     # 결과를 Pandas Series로 변환하고 내림차순 정렬하여 반환
     return pd.Series(skill_counts).sort_values(ascending=False)
+
 
 @st.cache_data(ttl=3600, show_spinner=False)
 def load_csv_data(file_name):
@@ -65,6 +63,42 @@ def load_all_data():
     }
     return data
 
-# autopct_func 함수는 현재 코드에서 직접 사용되지 않으므로 count_skills에 제외 리스트를 통합했습니다.
-# 만약 autopct_func가 필요하다면 그대로 두거나 제거할 수 있습니다.
-# 여기서는 count_skills 함수 내부에 excluded_skills를 넣는 방식으로 수정했습니다.
+
+# --- 데이터 필터링 함수 ---
+def filter_data(df, search_term, selected_skill):
+    """
+    주어진 데이터프레임을 검색어, 선택된 기술 스택 기준으로 필터링합니다.
+    검색어와 기술 스택 선택이 모두 없을 경우 원본 데이터프레임을 반환합니다.
+
+    Args:
+        df: 필터링할 원본 데이터프레임.
+        search_term: 키워드 검색어.
+        selected_skill: 선택된 기술 스택 (단일 문자열, '---' 또는 스킬 이름).
+
+    Returns:
+        필터링된 데이터프레임 또는 원본 데이터프레임.
+    """
+    # 검색어와 기술 스택 선택이 모두 없을 경우, 원본 데이터프레임을 그대로 반환
+    if not search_term and selected_skill == "---":
+        return df # <-- 필터링 없이 원본 데이터 반환
+
+    filtered_df = df.copy()
+
+    # 키워드 검색어로 필터링 (스킬 / 직무 컬럼에서 검색)
+    if search_term:
+        # 대소문자 구분 없이 검색, NaN 값은 False 처리
+        search_mask = (
+            filtered_df["position"].astype(str).str.contains(search_term, case=False, na=False) |
+            filtered_df["skill"].astype(str).str.contains(search_term, case=False, na=False)
+        )
+        filtered_df = filtered_df[search_mask]
+
+    # 선택한 기술 스택으로 필터링
+    if selected_skill != "직접 입력":
+        # 기술 스택 컬럼이 문자열이고, 해당 스킬 문자열을 포함하는지 확인
+        # 대소문자 구분 없이 검색
+        filtered_df = filtered_df[
+            filtered_df["skill"].astype(str).str.contains(selected_skill, case=False, na=False)
+        ]
+
+    return filtered_df

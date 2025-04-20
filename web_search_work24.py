@@ -278,13 +278,10 @@ def render_clicked_skills_training():
     
     if not clicked_skills:
         return
-    
-    # api_key 가져오기
-    api_key = os.getenv("YOUR_WORK24_API_KEY", "")
-    
+        
     # 각 스킬에 대한 훈련과정 표시
     for skill in clicked_skills:
-        results = fetch_work24_data(api_key, skill)
+        results = fetch_work24_data(skill)
         render_work24_results_table(results, skill)
         st.markdown("---")  # 구분선 추가
 
