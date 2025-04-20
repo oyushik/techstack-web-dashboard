@@ -386,7 +386,7 @@ def render_skill_analysis(data):
 def render_job_analysis(filtered_df):
     """직무 분석 섹션 렌더링 (애니메이션 막대 그래프)"""
     job_display = 20
-    st.subheader(f"TOP {job_display} 직무 분석")
+    st.subheader(f"TOP {job_display} 관련 직무 분석")
 
     position_mapping = {
         r'\b(백엔드 엔지니어|백엔드 개발자 (5년 이상)|백엔드 개발자 (3년 이상)|시니어 백엔드 개발자|Backend Engineer|Back-end Engineer)\b': '백엔드 개발자',

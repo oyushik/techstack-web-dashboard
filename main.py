@@ -45,9 +45,6 @@ def main():
     # 필터링된 데이터 요약 정보 표시
     render_summary_metrics(filtered_df)
 
-    # 렌더링된 정보 표시
-    render_related_information()
-
     # 메인 콘텐츠 영역에 탭 생성
     # 이 시점에서 탭 선택창이 UI에 나타납니다.
     tab1, tab2, tab3 = st.tabs(
@@ -57,6 +54,8 @@ def main():
     # 각 탭 클릭 시 해당 섹션의 렌더링 함수 호출
     # 이 함수들은 사용자가 탭을 클릭할 때 해당 탭 내용이 렌더링되도록 합니다.
     with tab1:
+        # 검색 정보를 탭 안에, 그래프보다 위에 표시
+        render_related_information()
         render_skill_analysis(data)
 
     with tab2:
