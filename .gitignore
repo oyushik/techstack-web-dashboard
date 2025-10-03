@@ -172,3 +172,23 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Streamlit
+.streamlit/
+
+# 프로젝트별 설정
+# 데이터 파일 (필요시 주석 해제)
+# data/*.csv
+# data/*.png
+
+# IDE 설정
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# 임시 파일
+*.tmp
+*.bak
+*~

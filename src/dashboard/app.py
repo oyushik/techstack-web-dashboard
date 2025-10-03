@@ -1,6 +1,6 @@
 import streamlit as st
-from web_load_data import load_all_data, filter_data
-from web_render import (
+from src.dashboard.data_loader import load_all_data, filter_data
+from src.dashboard.renderer import (
     setup_page,
     render_sidebar,
     render_summary_metrics,
