@@ -39,8 +39,7 @@ project-data-scraping/
 │           └── work24.py
 ├── data/                      # 데이터 파일
 ├── requirements.txt           # Python 의존성
-├── README.md
-└── CLAUDE.md                  # AI 개발 가이드
+└── README.md
 ```
 
 ## 🚦 시작하기
