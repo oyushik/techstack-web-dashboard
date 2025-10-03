@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
-from web_load_data import count_skills
-from web_charts import create_animated_bar_chart
+from src.dashboard.data_loader import count_skills
+from src.dashboard.charts import create_animated_bar_chart
 from streamlit_plotly_events import plotly_events
-import web_search_youtube as yt
-from web_search_work24 import fetch_work24_data, render_work24_results_table
+from src.dashboard.search import youtube as yt
+from src.dashboard.search.work24 import fetch_work24_data, render_work24_results_table
 
 # --- 현재 활성 선택 키워드를 결정하는 함수 ---
 def get_active_selection():
@@ -362,15 +362,35 @@ def render_skill_analysis(data):
 
             # 그래프 표시 및 클릭 이벤트 처리
             graph_key = f"skill_chart_{current_type}_{st.session_state.render_id}"
-            clicked = plotly_events(
-                fig, # 수정된 fig 객체 사용
-                click_event=True,
+
+            # Streamlit의 on_select 이벤트를 사용하여 클릭 처리
+            selection = st.plotly_chart(
+                fig,
+                use_container_width=True,
                 key=graph_key,
-                override_height=600,
+                on_select="rerun",
+                selection_mode="points"
             )
 
-            # 클릭 이벤트 데이터 처리를 handle_chart_click 함수에게 위임
-            handle_chart_click(clicked, orientation=chart_orientation)
+            # 선택된 데이터 처리
+            if selection and selection.selection and len(selection.selection.get("points", [])) > 0:
+                point = selection.selection["points"][0]
+
+                # orientation에 따라 선택된 항목 추출
+                if chart_orientation == "h":
+                    selected_item = point.get("y")
+                else:  # orientation == "v"
+                    selected_item = point.get("x")
+
+                if selected_item:
+                    # 현재 활성 선택과 비교
+                    current_active_selection = get_active_selection()
+                    if current_active_selection != selected_item:
+                        st.session_state.clicked_skills = [selected_item]
+                        if 'render_id' not in st.session_state:
+                            st.session_state.render_id = 0
+                        st.session_state.render_id += 1
+                        st.rerun()
 
         else:
             st.info("선택된 조건에 해당하는 기술 스택 데이터에서 유의미한 스킬을 찾을 수 없습니다.")
