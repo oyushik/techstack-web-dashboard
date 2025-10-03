@@ -193,5 +193,3 @@ python src/processing/csv_merge.py
 프로젝트에 대한 질문이나 제안이 있으시면 Issue를 생성해주세요.
 
 ---
-
-**Made with ❤️ by the Data Scraping Team**
