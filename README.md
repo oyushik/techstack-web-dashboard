@@ -64,9 +64,10 @@ project-data-scraping/
 
 3. **환경 변수 설정** (선택 사항)
 
-   YouTube API를 사용하려면 `.env` 파일을 생성하고 API 키를 추가하세요:
+   API를 사용하려면 `.env` 파일을 생성하고 API 키를 추가하세요:
    ```bash
-   YOUTUBE_API_KEY=your_api_key_here
+   YOUR_YOUTUBE_API_KEY=your_api_key_here
+   YOUR_WORK24_API_KEY=your_api_key_here
    ```
 
 ### 대시보드 실행
