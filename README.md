@@ -8,6 +8,19 @@
 
 ![Dashboard Preview](data/wordcloud_TECH_STACK.png)
 
+## 📋 프로젝트 개요
+
+**개발 기간**: 2025.04.16 ~ 2025.04.22
+**팀 구성**: 3명 (Backend 2명, Frontend 1명)
+
+## 👥 팀 구성 및 역할
+
+| 역할         | 이름   | 담당 업무                               | GitHub                                                |
+| ------------ | ------ | --------------------------------------- | ----------------------------------------------------- |
+| **Backend**  | 오유식 | 팀장, 프로젝트 기획, 데이터 수집 및 정제 | [oyushik](https://github.com/oyushik)                 |
+| **Backend** | 김우준 | 데이터 시각화, 대시보드 연동 및 최적화 | [Ra1nJun](https://github.com/Ra1nJun)                 |
+| **Frontend** | 김민정 | 웹 대시보드 구현, UI/UX 개선 | [Mineong](https://github.com/Mineong)       |
+
 ## ✨ 주요 기능
 
 - 📊 **기술 스택 트렌드 분석**: TOP 20 기술 스택을 인터랙티브 그래프로 시각화
